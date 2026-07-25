@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2046150275334058344",
+    "created_at": "2026-04-20T13:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046220829542040021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046220829542040021",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046195656260534549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 还要预售。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2046150275334058344",
+        "created_at": "2026-04-20T13:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046220829542040021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046220829542040021",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046195656260534549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 还要预售。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2046150275334058344",
+        "created_at": "2026-04-20T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046195656260534549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046195656260534549",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046150275334058344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 版型不行，品控不行，质量不行，材质不好，价格飙升……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38137,
+          "following_count": 207,
+          "like_count": 2726,
+          "listed_count": 114,
+          "media_count": 408,
+          "tweet_count": 5213
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "我爱说啥说啥，我爱发啥发啥。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/1lm7d2LxGL"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "有唧唧（比你大）不约",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033264217344913408/ca3C9ynX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 11,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/1lm7d2LxGL",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

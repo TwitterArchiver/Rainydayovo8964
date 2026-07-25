@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043024832359788969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028057205640232960",
+          "start": 0,
+          "username": "chichi_lh0220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043024832359788969",
+    "in_reply_to_user_id": "2028057205640232960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042912131306393833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chichi_lh0220 谢谢你宝宝！我保存！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042912123794382848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnhwLYaYAAGX3u.jpg",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043024832359788969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028057205640232960",
+              "start": 0,
+              "username": "chichi_lh0220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043024832359788969",
+        "in_reply_to_user_id": "2028057205640232960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042912131306393833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chichi_lh0220 谢谢你宝宝！我保存！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042912123794382848"
+          ]
+        },
+        "author_id": "2028057205640232960",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T10:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912131306393833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2VuZgcX85",
+              "end": 173,
+              "expanded_url": "https://x.com/chichi_lh0220/status/2042912131306393833/photo/1",
+              "media_key": "3_2042912123794382848",
+              "start": 150,
+              "url": "https://t.co/B2VuZgcX85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912131306393833",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我将进行一个全方位推荐~首先如果不太会化妆，你要先知道自己是什么样的脸型，然后根据脸型去找对应的博主，然后学他们化妆，然后其次就是要知道自己喜欢什么样的风格，比如说是韩妆还是亚裔妆等等最后就是推荐几个化妆品！因为我是大学生，推荐平价比较好用，彩棠只好用不便宜ᴗ.ᴗ https://t.co/B2VuZgcX85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37826,
+          "following_count": 198,
+          "like_count": 2660,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5035
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T10:38:35.000Z",
+        "description": "喜欢碎碎念的➕记流水账/enfp/双鱼/不想回私信啦/爱看肌肉男/很没有耐心的一个人",
+        "id": "2028057205640232960",
+        "name": "吃吃吃",
+        "pinned_tweet_id": "2040344176282542587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035031599633637382/giVxd9j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 21,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 901
+        },
+        "username": "chichi_lh0220",
+        "verified": false
+      }
+    ]
+  }
+}
