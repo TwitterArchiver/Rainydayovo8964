@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043362833644310695",
+    "created_at": "2026-04-13T01:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043496329721287010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1930227477156126720",
+          "start": 0,
+          "username": "zhoyih114744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043496329721287010",
+    "in_reply_to_user_id": "1930227477156126720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043495251621429654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoyih114744 那是啥我是萌新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-13T01:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043496329721287010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1930227477156126720",
+              "start": 0,
+              "username": "zhoyih114744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043496329721287010",
+        "in_reply_to_user_id": "1930227477156126720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043495251621429654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoyih114744 那是啥我是萌新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930227477156126720",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-13T01:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043495251621429654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043495251621429654",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362833644310695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 铁子你御三家是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37810,
+          "following_count": 199,
+          "like_count": 2671,
+          "listed_count": 120,
+          "media_count": 402,
+          "tweet_count": 5075
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T11:38:00.000Z",
+        "description": "",
+        "id": "1930227477156126720",
+        "name": "zhoyih",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042631842046840833/q7qMW0Km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 76,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "zhoyih114744",
+        "verified": false
+      }
+    ]
+  }
+}

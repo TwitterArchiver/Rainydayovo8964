@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T03:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048248908644766142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881415931072815105",
+          "start": 0,
+          "username": "lucidyume_"
+        },
+        {
+          "end": 28,
+          "id": "1765333655868801024",
+          "start": 12,
+          "username": "aaaaabbbbcccsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048248908644766142",
+    "in_reply_to_user_id": "1881415931072815105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048248711831334997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucidyume_ @aaaaabbbbcccsss 啊啊啊啊啊这种我吃了好多瓜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048248908644766142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881415931072815105",
+              "start": 0,
+              "username": "lucidyume_"
+            },
+            {
+              "end": 28,
+              "id": "1765333655868801024",
+              "start": 12,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048248908644766142",
+        "in_reply_to_user_id": "1881415931072815105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048248711831334997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucidyume_ @aaaaabbbbcccsss 啊啊啊啊啊这种我吃了好多瓜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881415931072815105",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T03:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048248711831334997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 33,
+              "id": "1765333655868801024",
+              "start": 17,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048248711831334997",
+        "in_reply_to_user_id": "1881415931072815105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048248202793820512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 @aaaaabbbbcccsss 最可怕的事情是单主摆不正自己的心态还觉得自己低coser一等 以及对皮下产生兴趣什么的 这种事情我也不理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38430,
+          "following_count": 208,
+          "like_count": 2769,
+          "listed_count": 115,
+          "media_count": 412,
+          "tweet_count": 5331
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T18:58:19.000Z",
+        "description": "1. 男的互动就拉黑 2. 不喜欢给自己定义属性，我不是你同担 3.这是老娘的日记本而已别指望我有啥道德？？如果冒犯你了你就当我是故意的好不好",
+        "id": "1881415931072815105",
+        "name": "在做爱做完回你",
+        "pinned_tweet_id": "1995519580194963691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011477115959721987/77b1igHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 335,
+          "like_count": 3925,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 4523
+        },
+        "username": "lucidyume_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032106576316678144/bdx7wj4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 28,
+          "like_count": 1603,
+          "listed_count": 2,
+          "media_count": 959,
+          "tweet_count": 6619
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      }
+    ]
+  }
+}

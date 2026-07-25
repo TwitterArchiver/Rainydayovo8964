@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050474473523151242",
+    "created_at": "2026-05-02T17:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050624510563700963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007833560502411266",
+          "start": 0,
+          "username": "a8848tjsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050624510563700963",
+    "in_reply_to_user_id": "2007833560502411266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050588122828984653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a8848tjsj 好！！下个月工资买这个😭😭嘿嘿！谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T17:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050624510563700963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007833560502411266",
+              "start": 0,
+              "username": "a8848tjsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050624510563700963",
+        "in_reply_to_user_id": "2007833560502411266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050588122828984653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a8848tjsj 好！！下个月工资买这个😭😭嘿嘿！谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007833560502411266",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T14:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050588122828984653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050588122828984653",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050474473523151242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 宝宝如果预算够的话可以买nars的粉饼，是真的好用，很清透是那种上了变哑光但没颜色的，我之前用方里取粉多会很明显看出来上了粉饼嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38908,
+          "following_count": 208,
+          "like_count": 2808,
+          "listed_count": 132,
+          "media_count": 416,
+          "tweet_count": 5434
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T15:17:19.000Z",
+        "description": "不约炮，不聊骚，发自己想发的\n自用vpn ，https://t.co/CunNTDbH7F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xsus1.com/register?code=…",
+                "end": 45,
+                "expanded_url": "https://xsus1.com/register?code=ss7PJTYD",
+                "start": 22,
+                "url": "https://t.co/CunNTDbH7F"
+              }
+            ]
+          }
+        },
+        "id": "2007833560502411266",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025202189778706433/1HCwVU5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 100
+        },
+        "username": "a8848tjsj",
+        "verified": false
+      }
+    ]
+  }
+}

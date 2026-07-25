@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042634821944643660",
+    "created_at": "2026-04-11T17:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043019070484947372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998458102908436480",
+          "start": 0,
+          "username": "Mintpeekaboo"
+        },
+        {
+          "end": 23,
+          "id": "2006319086461136896",
+          "start": 14,
+          "username": "mo_zz233"
+        },
+        {
+          "end": 34,
+          "id": "1997390769863421952",
+          "start": 24,
+          "username": "ZmmZmmjsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043019070484947372",
+    "in_reply_to_user_id": "1998458102908436480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043018693014360151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintpeekaboo @mo_zz233 @ZmmZmmjsw 我刚要在网上购买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-11T17:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043019070484947372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998458102908436480",
+              "start": 0,
+              "username": "Mintpeekaboo"
+            },
+            {
+              "end": 23,
+              "id": "2006319086461136896",
+              "start": 14,
+              "username": "mo_zz233"
+            },
+            {
+              "end": 34,
+              "id": "1997390769863421952",
+              "start": 24,
+              "username": "ZmmZmmjsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043019070484947372",
+        "in_reply_to_user_id": "1998458102908436480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043018693014360151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintpeekaboo @mo_zz233 @ZmmZmmjsw 我刚要在网上购买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998458102908436480",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-11T17:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043018693014360151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2006319086461136896",
+              "start": 0,
+              "username": "mo_zz233"
+            },
+            {
+              "end": 20,
+              "id": "1997390769863421952",
+              "start": 10,
+              "username": "ZmmZmmjsw"
+            },
+            {
+              "end": 37,
+              "id": "1853286001197879296",
+              "start": 21,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043018693014360151",
+        "in_reply_to_user_id": "2006319086461136896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043013990390075491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_zz233 @ZmmZmmjsw @Rainydayovo8964 不一样的。有机会一定要吃新鲜的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37822,
+          "following_count": 198,
+          "like_count": 2619,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5007
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T18:22:16.000Z",
+        "description": "树洞🌲\nhttps://t.co/ACt8gxJgcB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mint80646",
+                "end": 27,
+                "expanded_url": "https://ngl.link/mint80646",
+                "start": 4,
+                "url": "https://t.co/ACt8gxJgcB"
+              }
+            ]
+          }
+        },
+        "id": "1998458102908436480",
+        "name": "Mint",
+        "pinned_tweet_id": "2015855495714898270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011882433046855689/k9e32hKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 92,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 634
+        },
+        "username": "Mintpeekaboo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T10:58:49.000Z",
+        "description": "眠…",
+        "id": "2006319086461136896",
+        "name": "咪路咪路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006324793935831040/lDm0e8gV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "mo_zz233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T19:42:15.000Z",
+        "description": "已飞0国/傻福专业/imsb/没有优毕/ 華籍美人/小镇错题家/身份证持有者/戴夫的小花园主理人/ Internrt 冲浪达人/参与过编写国家机密文件/OppoA5 (没有SIM卡) /德智体美劳是缺德弱智体弱臭美和想吃麦当劳 /初中毕业证不翼而飞 /前bilibili会员/神卷膨胀者/拼好饭元老院成员",
+        "id": "1997390769863421952",
+        "location": "咕嚕貓幼稚園",
+        "name": "Seine",
+        "pinned_tweet_id": "2029814501693088028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028735883357433857/SpmHW3qg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 198,
+          "like_count": 6359,
+          "listed_count": 13,
+          "media_count": 451,
+          "tweet_count": 4964
+        },
+        "username": "ZmmZmmjsw",
+        "verified": true
+      }
+    ]
+  }
+}

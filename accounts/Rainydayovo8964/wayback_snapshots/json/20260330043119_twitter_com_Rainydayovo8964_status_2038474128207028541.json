@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T04:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038474128207028541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035973788995895296",
+          "start": 0,
+          "username": "Kamess120506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038474128207028541",
+    "in_reply_to_user_id": "2035973788995895296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038459873277669431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kamess120506 自媒体都做起来多久了一条视频一件裙子到底穷在哪 ！做之前其实也不穷！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038474128207028541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035973788995895296",
+              "start": 0,
+              "username": "Kamess120506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038474128207028541",
+        "in_reply_to_user_id": "2035973788995895296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038459873277669431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kamess120506 自媒体都做起来多久了一条视频一件裙子到底穷在哪 ！做之前其实也不穷！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035973788995895296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T03:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038459873277669431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038459873277669431",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 自媒体都做起来多久了一条视频一件裙子到底穷在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38248,
+          "following_count": 187,
+          "like_count": 2381,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4470
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T06:56:02.000Z",
+        "description": "我是川川",
+        "id": "2035973788995895296",
+        "name": "雨落飘带",
+        "pinned_tweet_id": "2035978793169698821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035974853371760640/2KYX2D4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 50
+        },
+        "username": "Kamess120506",
+        "verified": false
+      }
+    ]
+  }
+}

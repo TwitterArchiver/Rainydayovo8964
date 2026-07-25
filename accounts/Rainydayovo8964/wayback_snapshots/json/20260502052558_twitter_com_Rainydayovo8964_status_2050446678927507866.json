@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050446678927507866",
+    "created_at": "2026-05-02T05:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050446678927507866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050446678927507866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现无论在任何关系中 我像一直都被选择性的忽视掉了 家庭关系中 爸妈从来不记得我爱吃什么 总是忘记我的事情 朋友关系中 我总像一个爱讲话的小孩子 朋友将我三言两语打发掉  恋人关系中 我固执的想要对方 再在乎我一点 再多喜欢我一样 又总是被骂烦人精 然后把我推开  好累呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050446678927507866",
+        "created_at": "2026-05-02T05:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050446678927507866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050446678927507866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现无论在任何关系中 我像一直都被选择性的忽视掉了 家庭关系中 爸妈从来不记得我爱吃什么 总是忘记我的事情 朋友关系中 我总像一个爱讲话的小孩子 朋友将我三言两语打发掉  恋人关系中 我固执的想要对方 再在乎我一点 再多喜欢我一样 又总是被骂烦人精 然后把我推开  好累呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38925,
+          "following_count": 207,
+          "like_count": 2800,
+          "listed_count": 131,
+          "media_count": 416,
+          "tweet_count": 5411
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

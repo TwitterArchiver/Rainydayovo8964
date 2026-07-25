@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2064985065608896820",
+    "created_at": "2026-06-12T12:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065408356844728375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809227152073863168",
+          "start": 0,
+          "username": "xinxin052866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065408356844728375",
+    "in_reply_to_user_id": "1809227152073863168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065325949470785892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxin052866 對"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-12T12:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065408356844728375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809227152073863168",
+              "start": 0,
+              "username": "xinxin052866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065408356844728375",
+        "in_reply_to_user_id": "1809227152073863168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325949470785892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxin052866 對"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809227152073863168",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-12T06:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065325949470785892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325949470785892",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064985065608896820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实重点完全不在齐刘海 就是一群傻逼yy出一个女生跟她抢她那个几把和mac一样 脸和身材像良子有超雄基因的垃圾男友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39011,
+          "following_count": 224,
+          "like_count": 2937,
+          "listed_count": 129,
+          "media_count": 435,
+          "tweet_count": 5916
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:06:11.000Z",
+        "description": "地蕾量产双修\n精神正常 不看负能\n如果小头控制大头发了cpdd不是真的dd\n不od不自残专注自己一个人的糖逼日高留学生活",
+        "id": "1809227152073863168",
+        "name": "xin欣",
+        "pinned_tweet_id": "2062828450340388920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003009839216091136/x71o1FI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 77,
+          "like_count": 4490,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 273
+        },
+        "username": "xinxin052866",
+        "verified": false
+      }
+    ]
+  }
+}

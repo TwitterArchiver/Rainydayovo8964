@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2060304386732310776",
+    "created_at": "2026-05-29T10:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060304386732310776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753274149529915392",
+          "start": 3,
+          "username": "XyraXi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060304386732310776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059828431236243874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XyraXi9: 我这辈子只能谈爹系 最好上厕所都要给我把尿的 我需要永远被控制\n可以吃雪糕吗 可以出去玩吗 可以穿短裙吗\n问出来这种问题就是爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2060304386732310776",
+        "created_at": "2026-05-29T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060304386732310776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753274149529915392",
+              "start": 3,
+              "username": "XyraXi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060304386732310776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059828431236243874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XyraXi9: 我这辈子只能谈爹系 最好上厕所都要给我把尿的 我需要永远被控制\n可以吃雪糕吗 可以出去玩吗 可以穿短裙吗\n问出来这种问题就是爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753274149529915392",
+        "conversation_id": "2059828431236243874",
+        "created_at": "2026-05-28T02:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059828431236243874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059828431236243874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 101530,
+          "like_count": 1193,
+          "quote_count": 28,
+          "reply_count": 263,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子只能谈爹系 最好上厕所都要给我把尿的 我需要永远被控制\n可以吃雪糕吗 可以出去玩吗 可以穿短裙吗\n问出来这种问题就是爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 92,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 69,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38976,
+          "following_count": 221,
+          "like_count": 2964,
+          "listed_count": 129,
+          "media_count": 429,
+          "tweet_count": 5813
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T04:28:37.000Z",
+        "description": "",
+        "id": "1753274149529915392",
+        "name": "白痴",
+        "pinned_tweet_id": "2056983418852807016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058385370144989184/hSgpWaPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3333,
+          "following_count": 99,
+          "like_count": 4526,
+          "listed_count": 9,
+          "media_count": 147,
+          "tweet_count": 2196
+        },
+        "username": "XyraXi9",
+        "verified": true
+      }
+    ]
+  }
+}

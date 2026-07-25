@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2023696278086185199",
+    "created_at": "2026-02-18T12:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024093844443468243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1942904440140550144",
+          "start": 0,
+          "username": "e_yw3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024093844443468243",
+    "in_reply_to_user_id": "1942904440140550144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024072390104563891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e_yw3 應用商店！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2023696278086185199",
+        "created_at": "2026-02-18T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024093844443468243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1942904440140550144",
+              "start": 0,
+              "username": "e_yw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024093844443468243",
+        "in_reply_to_user_id": "1942904440140550144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024072390104563891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e_yw3 應用商店！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942904440140550144",
+        "conversation_id": "2023696278086185199",
+        "created_at": "2026-02-18T10:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024072390104563891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024072390104563891",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023696278086185199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 老师 bubbly在哪下啊 有网址吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38833,
+          "following_count": 176,
+          "like_count": 2195,
+          "listed_count": 135,
+          "media_count": 374,
+          "tweet_count": 4094
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:11:41.000Z",
+        "description": "",
+        "id": "1942904440140550144",
+        "name": "夏锦颜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943717578813452290/MR2X5i64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "e_yw3",
+        "verified": false
+      }
+    ]
+  }
+}

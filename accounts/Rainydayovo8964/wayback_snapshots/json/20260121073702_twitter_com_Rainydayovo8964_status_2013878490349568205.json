@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013842420165652484",
+    "created_at": "2026-01-21T07:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013878490349568205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013878490349568205",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013845797704757275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ 好的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2013842420165652484",
+        "created_at": "2026-01-21T07:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013878490349568205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013878490349568205",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013845797704757275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ 好的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507587547370770432",
+        "conversation_id": "2013842420165652484",
+        "created_at": "2026-01-21T05:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013845797704757275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013845797704757275",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013842420165652484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 蹲反馈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39166,
+          "following_count": 168,
+          "like_count": 2078,
+          "listed_count": 131,
+          "media_count": 359,
+          "tweet_count": 3829
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人",
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片",
+        "pinned_tweet_id": "2011750578079301919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 64,
+          "like_count": 200,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 81
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      }
+    ]
+  }
+}

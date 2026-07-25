@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-27T01:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048577657546408039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957474401068445696",
+          "start": 0,
+          "username": "jiayu_051008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048577657546408039",
+    "in_reply_to_user_id": "1957474401068445696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048577507629380058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiayu_051008 啊啊啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-27T01:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048577657546408039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957474401068445696",
+              "start": 0,
+              "username": "jiayu_051008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577657546408039",
+        "in_reply_to_user_id": "1957474401068445696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048577507629380058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiayu_051008 啊啊啊啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957474401068445696",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-27T01:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048577507629380058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577507629380058",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 不讲不讲😂我前两天刷到一个带着委托去买QQ内衣的…俩直女装成异性恋情侣然后去挑QQ内衣还是太诡异了谢谢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38738,
+          "following_count": 208,
+          "like_count": 2780,
+          "listed_count": 128,
+          "media_count": 413,
+          "tweet_count": 5378
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T16:07:46.000Z",
+        "description": "",
+        "id": "1957474401068445696",
+        "name": "你也不吃晚饭吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957475620948152321/j6KsJuFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "jiayu_051008",
+        "verified": false
+      }
+    ]
+  }
+}

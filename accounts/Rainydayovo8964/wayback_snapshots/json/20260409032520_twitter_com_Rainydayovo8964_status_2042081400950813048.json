@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041938533422919972",
+    "created_at": "2026-04-09T03:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042081400950813048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930339091260026883",
+          "start": 0,
+          "username": "makiri0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042081400950813048",
+    "in_reply_to_user_id": "1930339091260026883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042040777732452854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makiri0306 不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041938533422919972",
+        "created_at": "2026-04-09T03:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042081400950813048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930339091260026883",
+              "start": 0,
+              "username": "makiri0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042081400950813048",
+        "in_reply_to_user_id": "1930339091260026883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042040777732452854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiri0306 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930339091260026883",
+        "conversation_id": "2041938533422919972",
+        "created_at": "2026-04-09T00:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042040777732452854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042040777732452854",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041938533422919972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 小心被人说是和胖猫殉情了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38048,
+          "following_count": 198,
+          "like_count": 2562,
+          "listed_count": 127,
+          "media_count": 397,
+          "tweet_count": 4875
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T19:01:27.000Z",
+        "description": "死ね。",
+        "id": "1930339091260026883",
+        "location": "天國",
+        "name": "ケムリ",
+        "pinned_tweet_id": "2037996338571567258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038146148645646336/ria_ZngG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 97,
+          "like_count": 8467,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2970
+        },
+        "username": "makiri0306",
+        "verified": false
+      }
+    ]
+  }
+}

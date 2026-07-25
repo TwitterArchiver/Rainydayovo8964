@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2058530901081157924",
+    "created_at": "2026-05-25T04:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058773432968618097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760445631301025792",
+          "start": 0,
+          "username": "SaWei52303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058773432968618097",
+    "in_reply_to_user_id": "1760445631301025792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058635455529124263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaWei52303 ？我没有这个意思😂😂能不能别上纲上线 不是所有人都关注社区谢谢 🙏我就是一个普通玩游戏的玩家 我也没说不允许你们冲 你们爱骂骂我爱玩玩 互不打扰谢谢😂😂你觉得怎么样你自己去官方评论区 冲 我啥时候给人上负担了 互不打扰哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2058530901081157924",
+        "created_at": "2026-05-25T04:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058773432968618097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760445631301025792",
+              "start": 0,
+              "username": "SaWei52303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058773432968618097",
+        "in_reply_to_user_id": "1760445631301025792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058635455529124263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaWei52303 ？我没有这个意思😂😂能不能别上纲上线 不是所有人都关注社区谢谢 🙏我就是一个普通玩游戏的玩家 我也没说不允许你们冲 你们爱骂骂我爱玩玩 互不打扰谢谢😂😂你觉得怎么样你自己去官方评论区 冲 我啥时候给人上负担了 互不打扰哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760445631301025792",
+        "conversation_id": "2058530901081157924",
+        "created_at": "2026-05-24T19:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058635455529124263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058635455529124263",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058530901081157924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 真的🐂🍺，这是我们这些真正喜欢游戏的人冲出来的，到你嘴里成官方赏的了，要是没这些起码120w人次的努力你哪来的这些，而且这个公告满嘴都是糊弄，他们甚至还没认识到除了暗改的另一个大问题，拿点蝇头小利就让事情过去了，你是还想支持他们继续这么毁了这个游戏么，领就领，别给在努力的人上负担。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38948,
+          "following_count": 220,
+          "like_count": 2963,
+          "listed_count": 129,
+          "media_count": 427,
+          "tweet_count": 5767
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T23:25:29.000Z",
+        "description": "",
+        "id": "1760445631301025792",
+        "location": "新世坏",
+        "name": "维萨斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736028872859649/UOKDkZTv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 376,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1087
+        },
+        "username": "SaWei52303",
+        "verified": false
+      }
+    ]
+  }
+}

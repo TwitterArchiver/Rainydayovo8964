@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2046150275334058344",
+    "created_at": "2026-04-20T13:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046221229003272316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1328331511725051905",
+          "start": 0,
+          "username": "maomao2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046221229003272316",
+    "in_reply_to_user_id": "1328331511725051905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046211655110128053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao2233 我也是 。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2046150275334058344",
+        "created_at": "2026-04-20T13:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046221229003272316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328331511725051905",
+              "start": 0,
+              "username": "maomao2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046221229003272316",
+        "in_reply_to_user_id": "1328331511725051905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046211655110128053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao2233 我也是 。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328331511725051905",
+        "conversation_id": "2046150275334058344",
+        "created_at": "2026-04-20T12:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046211655110128053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046211655110128053",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046150275334058344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 淘宝吗？涨价涨得这么离谱了？我已经好久没去淘宝买衣服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38137,
+          "following_count": 207,
+          "like_count": 2727,
+          "listed_count": 114,
+          "media_count": 408,
+          "tweet_count": 5218
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T13:38:40.000Z",
+        "description": "",
+        "id": "1328331511725051905",
+        "location": "广西",
+        "name": "浑元形意喵喵拳创始人马保喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328850898504667138/Ahs0Rfkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 899,
+          "like_count": 31554,
+          "listed_count": 3,
+          "media_count": 2438,
+          "tweet_count": 15019
+        },
+        "username": "maomao2233",
+        "verified": false
+      }
+    ]
+  }
+}

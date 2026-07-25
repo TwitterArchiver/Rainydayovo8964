@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048087200244564238",
+    "created_at": "2026-04-26T01:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048210726897279420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655514709733302273",
+          "start": 0,
+          "username": "Destiny_26X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048210726897279420",
+    "in_reply_to_user_id": "1655514709733302273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048087200244564238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Destiny_26X 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048087200244564238",
+        "created_at": "2026-04-26T01:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048210726897279420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655514709733302273",
+              "start": 0,
+              "username": "Destiny_26X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048210726897279420",
+        "in_reply_to_user_id": "1655514709733302273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048087200244564238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Destiny_26X 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655514709733302273",
+        "conversation_id": "2048087200244564238",
+        "created_at": "2026-04-25T17:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048087200244564238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048087200244564238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1533,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得穷逼现在最先考虑的应该是脱贫，而不是谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38399,
+          "following_count": 208,
+          "like_count": 2766,
+          "listed_count": 114,
+          "media_count": 411,
+          "tweet_count": 5318
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:07:30.000Z",
+        "description": "非典型intj   brat，脾气一般，只回复已关注感兴趣的礼貌私信，哦还有除非你身材特别好，说话也有趣，其他勿扰，谢谢 (防走失@Wildcat_YRX)   提问箱https://t.co/PvT7Hhql2q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Wildcat_YRX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xueye",
+                "end": 107,
+                "expanded_url": "https://ngl.link/xueye",
+                "start": 84,
+                "url": "https://t.co/PvT7Hhql2q"
+              }
+            ]
+          }
+        },
+        "id": "1655514709733302273",
+        "location": "自由",
+        "name": "等雪夜",
+        "pinned_tweet_id": "2045546530489446621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025251643194015745/gdqD9fF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 124,
+          "like_count": 1259,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 815
+        },
+        "username": "Destiny_26X",
+        "verified": false
+      }
+    ]
+  }
+}

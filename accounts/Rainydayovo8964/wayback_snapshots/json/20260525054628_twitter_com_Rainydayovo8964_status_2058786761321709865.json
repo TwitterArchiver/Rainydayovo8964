@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058786749107802112"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058786761321709865",
+    "created_at": "2026-05-25T05:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058786761321709865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQklmf1qsA",
+          "end": 27,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2058786761321709865/photo/1",
+          "media_key": "3_2058786749107802112",
+          "start": 4,
+          "url": "https://t.co/lQklmf1qsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058786761321709865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好萌呀 https://t.co/lQklmf1qsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058786749107802112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJHo_DaEAAWvde.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058786749107802112"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058786761321709865",
+        "created_at": "2026-05-25T05:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058786761321709865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQklmf1qsA",
+              "end": 27,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2058786761321709865/photo/1",
+              "media_key": "3_2058786749107802112",
+              "start": 4,
+              "url": "https://t.co/lQklmf1qsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058786761321709865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好萌呀 https://t.co/lQklmf1qsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 84,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 61,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38960,
+          "following_count": 221,
+          "like_count": 2965,
+          "listed_count": 129,
+          "media_count": 429,
+          "tweet_count": 5776
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

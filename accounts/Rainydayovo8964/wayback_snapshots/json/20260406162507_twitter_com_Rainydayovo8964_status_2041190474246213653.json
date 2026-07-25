@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041074038056079769",
+    "created_at": "2026-04-06T16:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041190474246213653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550356508193746946",
+          "start": 0,
+          "username": "AAA05167117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041190474246213653",
+    "in_reply_to_user_id": "1550356508193746946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041173368817479958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAA05167117 人家要买情趣内衣的我哭了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T16:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041190474246213653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550356508193746946",
+              "start": 0,
+              "username": "AAA05167117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041190474246213653",
+        "in_reply_to_user_id": "1550356508193746946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041173368817479958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAA05167117 人家要买情趣内衣的我哭了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550356508193746946",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T15:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041173368817479958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041173368817479958",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041074038056079769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 你网购都买的啥啊给你推这么雷霆的东西 笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2540,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4785
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:46:31.000Z",
+        "description": "",
+        "id": "1550356508193746946",
+        "name": "AAA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584395497808089088/xt1qIjuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "AAA05167117",
+        "verified": false
+      }
+    ]
+  }
+}

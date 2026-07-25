@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2055289122021892310",
+    "created_at": "2026-05-16T14:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055660661213171981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028432059002150912",
+          "start": 0,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055660661213171981",
+    "in_reply_to_user_id": "2028432059002150912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055289122021892310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NinJaCatRising 我看着很害怕。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2055289122021892310",
+        "created_at": "2026-05-16T14:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055660661213171981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028432059002150912",
+              "start": 0,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055660661213171981",
+        "in_reply_to_user_id": "2028432059002150912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055289122021892310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NinJaCatRising 我看着很害怕。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2055289122021892310",
+        "created_at": "2026-05-15T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055289122021892310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055289122021892310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 80667,
+          "like_count": 860,
+          "quote_count": 1,
+          "reply_count": 191,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我刷到娜塔莎小娃娃总会有生理不适的感觉，不知道从何而来，也许是看见一个婴儿娃娃变成解压玩具，用力挤压以致头部变形或者其他身体部位变形。我觉得不舒服 像在虐待，我知道这只是一个橡胶玩具，但是以这种人形出现并挤压让我觉得头皮发麻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38998,
+          "following_count": 217,
+          "like_count": 2939,
+          "listed_count": 128,
+          "media_count": 421,
+          "tweet_count": 5703
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系，不加任何联系方式\n想问的：https://t.co/Dh2a6i88ri",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seoeowang",
+                "end": 41,
+                "expanded_url": "https://ngl.link/seoeowang",
+                "start": 18,
+                "url": "https://t.co/Dh2a6i88ri"
+              }
+            ]
+          }
+        },
+        "id": "2028432059002150912",
+        "name": "Rollcak3",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055250638217371648/y1PXaqD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 24,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 323
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

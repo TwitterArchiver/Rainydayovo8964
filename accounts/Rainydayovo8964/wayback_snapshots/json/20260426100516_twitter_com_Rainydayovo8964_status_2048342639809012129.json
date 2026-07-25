@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T10:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048342639809012129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033686020244520960",
+          "start": 0,
+          "username": "Liholl777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048342639809012129",
+    "in_reply_to_user_id": "2033686020244520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048337799439683704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liholl777 所以说都是我自己的感受 只是我个人代入不进去罢了 宝宝你太温柔了 谢谢你呀 今天被有些人攻击我就很生气 其实我想表达的是我自己代入不进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T10:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048342639809012129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033686020244520960",
+              "start": 0,
+              "username": "Liholl777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048342639809012129",
+        "in_reply_to_user_id": "2033686020244520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048337799439683704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liholl777 所以说都是我自己的感受 只是我个人代入不进去罢了 宝宝你太温柔了 谢谢你呀 今天被有些人攻击我就很生气 其实我想表达的是我自己代入不进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033686020244520960",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T09:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048337799439683704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048337799439683704",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 更多是买个被服务的情绪价值吧。只不过穿上了喜欢角色的衣服 模仿喜欢角色说话 像喜欢的角色那样对自己好 如果你不能懂这些的话 也许也不能理解梦女的想法吧 尊重就好啦 我们都不能知道她们的想法和感受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38495,
+          "following_count": 208,
+          "like_count": 2775,
+          "listed_count": 116,
+          "media_count": 413,
+          "tweet_count": 5361
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T23:26:10.000Z",
+        "description": "20↑ 🇨🇳 中文/英文🆗  ❤️bl gl bg❤️喜歡所有甜蜜的情侶 請多給我推薦好的作品 歡迎互動！唯一賬號 會發一些畫和周邊 另外還有一些碎碎念",
+        "id": "2033686020244520960",
+        "location": "Yau Tsim Mong District",
+        "name": "丛林猫在伯明翰画画",
+        "pinned_tweet_id": "2034661189125578872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034215458979868672/5Ona3kWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 298
+        },
+        "username": "Liholl777",
+        "verified": false
+      }
+    ]
+  }
+}

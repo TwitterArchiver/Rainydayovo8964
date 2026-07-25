@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048305689022673096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955948661076320261",
+          "start": 0,
+          "username": "0929cctmyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048305689022673096",
+    "in_reply_to_user_id": "1955948661076320261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048305287996830074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0929cctmyu 我已经被说约不起了 我穷我富关他们什么事 我代入不进去关他们什么事 我拿这些钱我就买纸片子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048305689022673096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955948661076320261",
+              "start": 0,
+              "username": "0929cctmyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048305689022673096",
+        "in_reply_to_user_id": "1955948661076320261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048305287996830074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0929cctmyu 我已经被说约不起了 我穷我富关他们什么事 我代入不进去关他们什么事 我拿这些钱我就买纸片子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955948661076320261",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T07:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048305287996830074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048305287996830074",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 不敢说等会就打过来说约不起了 有这个钱我都能吃十几个set吃到吐了 再说了真的好丑好差劲好那个  完全被丑哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38472,
+          "following_count": 208,
+          "like_count": 2771,
+          "listed_count": 115,
+          "media_count": 413,
+          "tweet_count": 5353
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T11:04:47.000Z",
+        "description": "休戀逝水",
+        "id": "1955948661076320261",
+        "location": "California, USA",
+        "name": "제권관",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010040471717085184/wkKA_ZN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 19,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "0929cctmyu",
+        "verified": false
+      }
+    ]
+  }
+}

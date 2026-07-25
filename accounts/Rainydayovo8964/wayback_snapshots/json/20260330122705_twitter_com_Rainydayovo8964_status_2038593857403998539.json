@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T12:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038593857403998539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2025522644347396096",
+          "start": 0,
+          "username": "ovo1718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038593857403998539",
+    "in_reply_to_user_id": "2025522644347396096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038580424964804846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo1718 其实妹子精着呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T12:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038593857403998539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2025522644347396096",
+              "start": 0,
+              "username": "ovo1718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038593857403998539",
+        "in_reply_to_user_id": "2025522644347396096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038580424964804846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo1718 其实妹子精着呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025522644347396096",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T11:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038580424964804846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038580424964804846",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 出事了就说自己没立过穷人人设，是网友误以为，那以前咋不解释偏要出事了才来解释😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38240,
+          "following_count": 186,
+          "like_count": 2387,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4486
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T10:47:26.000Z",
+        "description": "",
+        "id": "2025522644347396096",
+        "name": "死ねばいいんです",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025562215559180288/OXzp-N-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 32,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "ovo1718",
+        "verified": false
+      }
+    ]
+  }
+}

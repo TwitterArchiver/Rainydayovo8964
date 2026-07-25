@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038257485220589865",
+    "created_at": "2026-03-29T15:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038275879714140394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931020166311161856",
+          "start": 0,
+          "username": "leisai780323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038275879714140394",
+    "in_reply_to_user_id": "1931020166311161856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038273664655769733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leisai780323 不想多说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038257485220589865",
+        "created_at": "2026-03-29T15:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038275879714140394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931020166311161856",
+              "start": 0,
+              "username": "leisai780323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038275879714140394",
+        "in_reply_to_user_id": "1931020166311161856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038273664655769733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leisai780323 不想多说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931020166311161856",
+        "conversation_id": "2038257485220589865",
+        "created_at": "2026-03-29T15:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038273664655769733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038273664655769733",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038257485220589865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 太油腻了。时政，还有兄弟情，还有学生时代的这种看似很酷的东西，哎呀妈呀，👀的我都起鸡皮疙瘩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38241,
+          "following_count": 186,
+          "like_count": 2371,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4454
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T16:08:40.000Z",
+        "description": "我想我应该是个好人",
+        "id": "1931020166311161856",
+        "name": "我是多儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937705735879630848/7pkbidaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 161,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1339
+        },
+        "username": "leisai780323",
+        "verified": false
+      }
+    ]
+  }
+}

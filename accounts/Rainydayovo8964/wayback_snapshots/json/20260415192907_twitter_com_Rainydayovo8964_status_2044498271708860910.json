@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044498183859146755"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044498271708860910",
+    "created_at": "2026-04-15T19:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044498271708860910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9g8pEKUr1",
+          "end": 34,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2044498271708860910/video/1",
+          "media_key": "13_2044498183859146755",
+          "start": 11,
+          "url": "https://t.co/n9g8pEKUr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044498271708860910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大半夜我到底在干嘛… https://t.co/n9g8pEKUr1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35876,
+        "height": 1280,
+        "media_key": "13_2044498183859146755",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044498183859146755/img/WKhGunwsMB4lpi0M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044498183859146755/vid/avc1/320x568/x8_bZdiaBtqZpFsB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044498183859146755/vid/avc1/480x852/h5Hzdjukq95Smits.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044498183859146755/vid/avc1/720x1280/4fPM8LwCxtULJm1d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044498183859146755/pl/-ZHyH2nKejz37G-I.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044498183859146755"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044498271708860910",
+        "created_at": "2026-04-15T19:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044498271708860910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9g8pEKUr1",
+              "end": 34,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2044498271708860910/video/1",
+              "media_key": "13_2044498183859146755",
+              "start": 11,
+              "url": "https://t.co/n9g8pEKUr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044498271708860910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜我到底在干嘛… https://t.co/n9g8pEKUr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37861,
+          "following_count": 202,
+          "like_count": 2708,
+          "listed_count": 115,
+          "media_count": 405,
+          "tweet_count": 5147
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

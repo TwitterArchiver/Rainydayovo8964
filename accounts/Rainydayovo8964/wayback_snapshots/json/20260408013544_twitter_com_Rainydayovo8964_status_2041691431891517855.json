@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041464471546421476",
+    "created_at": "2026-04-08T01:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041691431891517855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932662747726290944",
+          "start": 0,
+          "username": "_Youmi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041691431891517855",
+    "in_reply_to_user_id": "1932662747726290944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041496946112975218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Youmi_ovo 超级讨厌烟味。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041464471546421476",
+        "created_at": "2026-04-08T01:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041691431891517855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932662747726290944",
+              "start": 0,
+              "username": "_Youmi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041691431891517855",
+        "in_reply_to_user_id": "1932662747726290944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041496946112975218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Youmi_ovo 超级讨厌烟味。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932662747726290944",
+        "conversation_id": "2041464471546421476",
+        "created_at": "2026-04-07T12:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041496946112975218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041496946112975218",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041464471546421476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 ktv和朋友一起出去玩唱歌放松还是可以的起码是密闭空间只有你和你朋友，网吧如果你不喜欢闻烟味就不要去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38179,
+          "following_count": 198,
+          "like_count": 2555,
+          "listed_count": 127,
+          "media_count": 391,
+          "tweet_count": 4822
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T04:54:53.000Z",
+        "description": "只是一名恋尤宅/喜欢我就对我好。\nNGL：https://t.co/u8rQ9X0gtP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_youmi_ran1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/_youmi_ran1",
+                "start": 21,
+                "url": "https://t.co/u8rQ9X0gtP"
+              }
+            ]
+          }
+        },
+        "id": "1932662747726290944",
+        "location": "🐾",
+        "name": "尤咪",
+        "pinned_tweet_id": "2040996910987874630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041319478555033600/cXscssrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 52,
+          "like_count": 4152,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 381
+        },
+        "username": "_Youmi_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

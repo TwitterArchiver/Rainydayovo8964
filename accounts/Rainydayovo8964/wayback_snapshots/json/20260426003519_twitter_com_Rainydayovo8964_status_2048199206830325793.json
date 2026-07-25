@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T00:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048199206830325793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942273388648751111",
+          "start": 0,
+          "username": "zeb_46"
+        },
+        {
+          "end": 22,
+          "id": "1717523083668647936",
+          "start": 8,
+          "username": "cc11223344555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048199206830325793",
+    "in_reply_to_user_id": "1942273388648751111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048113018178019761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeb_46 @cc11223344555 也不都是直女..之前国乙里面混女同做还是挺那个的 我讲的是出戏 我是无法接受自推是个妹子声音的  三次男的也不会接受 重点是cos 自推是三次男或者三次女 并不是什么所谓约出三次男我害怕 我只是无法对着这种花钱的cos 委托代入 我只是喜欢买纸片代入 每个人代入标准不一样 反正我无法接受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T00:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048199206830325793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942273388648751111",
+              "start": 0,
+              "username": "zeb_46"
+            },
+            {
+              "end": 22,
+              "id": "1717523083668647936",
+              "start": 8,
+              "username": "cc11223344555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048199206830325793",
+        "in_reply_to_user_id": "1942273388648751111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048113018178019761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeb_46 @cc11223344555 也不都是直女..之前国乙里面混女同做还是挺那个的 我讲的是出戏 我是无法接受自推是个妹子声音的  三次男的也不会接受 重点是cos 自推是三次男或者三次女 并不是什么所谓约出三次男我害怕 我只是无法对着这种花钱的cos 委托代入 我只是喜欢买纸片代入 每个人代入标准不一样 反正我无法接受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942273388648751111",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400512786493370368",
+              "name": "Japanese Women's professional wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          }
+        ],
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-25T18:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048113018178019761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717523083668647936",
+              "start": 0,
+              "username": "cc11223344555"
+            },
+            {
+              "end": 31,
+              "id": "1853286001197879296",
+              "start": 15,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048113018178019761",
+        "in_reply_to_user_id": "1717523083668647936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047992426837532852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cc11223344555 @Rainydayovo8964 啥叫女同狂欢啊，，人家直女约喜欢的男角色的委托 人家不还是喜欢那个男角色的壳子吗 又不是喜欢下面女生的芯子  那你约个三次男出来你不害怕吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38376,
+          "following_count": 208,
+          "like_count": 2765,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5313
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T17:24:19.000Z",
+        "description": "",
+        "id": "1942273388648751111",
+        "name": "温",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010439347045359616/azNj1K4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 108,
+          "like_count": 5092,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "zeb_46",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T12:46:37.000Z",
+        "description": "08 直♂ OCD ADHD 双向精分 不线下/不线上 有事情发私信 我是一个很温良的人",
+        "id": "1717523083668647936",
+        "location": "空心",
+        "name": "tug08",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012655104864714752/erRcXs8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 21,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "username": "cc11223344555",
+        "verified": false
+      }
+    ]
+  }
+}

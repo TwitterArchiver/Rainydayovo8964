@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T10:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039292918998159571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426563956806586369",
+          "start": 0,
+          "username": "AsukaBayernU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039292918998159571",
+    "in_reply_to_user_id": "1426563956806586369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039288975555473734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaBayernU 我租的老房子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039292918998159571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426563956806586369",
+              "start": 0,
+              "username": "AsukaBayernU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039292918998159571",
+        "in_reply_to_user_id": "1426563956806586369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039288975555473734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaBayernU 我租的老房子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426563956806586369",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039288975555473734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039288975555473734",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039169231418531944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 你这是租房租到天使家了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38339,
+          "following_count": 190,
+          "like_count": 2430,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4587
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T15:19:21.000Z",
+        "description": "The Nanking Massacre and the atomic bombings of Hiroshima are both undeniable historical events.\n⚽️Support DFB🇩🇪⭐⭐⭐⭐ and Bayern.\n❤️popmusic,anime and rock.",
+        "id": "1426563956806586369",
+        "location": "中国台湾",
+        "name": "藍贰乗⚽🇨🇳🇩🇪🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945729801991450624/m7ECTUXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 299,
+          "like_count": 10330,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2664
+        },
+        "username": "AsukaBayernU",
+        "verified": false
+      }
+    ]
+  }
+}

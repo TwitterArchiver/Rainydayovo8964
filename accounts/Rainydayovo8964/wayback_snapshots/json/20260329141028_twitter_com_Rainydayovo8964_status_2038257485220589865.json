@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038257485220589865",
+    "created_at": "2026-03-29T14:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038257485220589865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainydayovo896…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/rainydayovo8964/status/2038136069947048035",
+          "start": 148,
+          "url": "https://t.co/eTv0uJb2Am"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038257485220589865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038136069947048035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "见完了也聊完了 对面一直在吹牛 我笑得脸都僵了..各种时事政治 各种兄弟情 还说自己没处过对象  个子也就160 抽烟喝酒 上学逃课打架 学习跟老师对着干 很多都是花钱解决的 有很多社会兄弟 感觉像那种会打人的 我和父母说清楚了等明天父母替我回绝 其实我觉得本来就是走形式(&gt;﹏&lt;) https://t.co/eTv0uJb2Am"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038257485220589865",
+        "created_at": "2026-03-29T14:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038257485220589865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainydayovo896…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/rainydayovo8964/status/2038136069947048035",
+              "start": 148,
+              "url": "https://t.co/eTv0uJb2Am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038257485220589865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038136069947048035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "见完了也聊完了 对面一直在吹牛 我笑得脸都僵了..各种时事政治 各种兄弟情 还说自己没处过对象  个子也就160 抽烟喝酒 上学逃课打架 学习跟老师对着干 很多都是花钱解决的 有很多社会兄弟 感觉像那种会打人的 我和父母说清楚了等明天父母替我回绝 其实我觉得本来就是走形式(&gt;﹏&lt;) https://t.co/eTv0uJb2Am"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038136069947048035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038136069947048035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 55184,
+          "like_count": 176,
+          "quote_count": 1,
+          "reply_count": 149,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今年24岁 我父母给我介绍了个31的男的 说家里很有钱  这和有钱没关系啊 关键对方31..31…31啊！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38232,
+          "following_count": 186,
+          "like_count": 2369,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4451
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

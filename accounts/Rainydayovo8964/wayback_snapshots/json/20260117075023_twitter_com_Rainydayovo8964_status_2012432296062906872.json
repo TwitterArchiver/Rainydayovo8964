@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2012127251907948600",
+    "created_at": "2026-01-17T07:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012432296062906872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827853718567751680",
+          "start": 0,
+          "username": "Balia595644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012432296062906872",
+    "in_reply_to_user_id": "1827853718567751680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012431095451766961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Balia595644 特别好喝！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2012127251907948600",
+        "created_at": "2026-01-17T07:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012432296062906872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827853718567751680",
+              "start": 0,
+              "username": "Balia595644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012432296062906872",
+        "in_reply_to_user_id": "1827853718567751680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012431095451766961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Balia595644 特别好喝！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827853718567751680",
+        "conversation_id": "2012127251907948600",
+        "created_at": "2026-01-17T07:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012431095451766961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012431095451766961",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012127251907948600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 有这么好喝么，整得我想立马点一杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类    小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39120,
+          "following_count": 168,
+          "like_count": 2047,
+          "listed_count": 132,
+          "media_count": 348,
+          "tweet_count": 3702
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T23:41:09.000Z",
+        "description": "不关注不聊  不礼貌不聊  发私信我都会回                      没有回就是没上线",
+        "id": "1827853718567751680",
+        "location": "🚪99",
+        "name": "Ovo",
+        "pinned_tweet_id": "2012357502617420234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008791182286221312/nzRXGcBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 35,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 426
+        },
+        "username": "Balia595644",
+        "verified": false
+      }
+    ]
+  }
+}

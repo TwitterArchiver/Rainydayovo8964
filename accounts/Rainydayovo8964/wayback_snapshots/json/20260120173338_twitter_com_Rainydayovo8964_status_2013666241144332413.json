@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013251391561617699",
+    "created_at": "2026-01-20T17:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T18:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013666241144332413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013666241144332413",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013251391561617699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 我蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2013251130914914306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CBPKXWQAIIOTE.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1468,
+        "media_key": "3_2013251130977812480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CBPKmWAAAAew5.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2013251391561617699",
+        "created_at": "2026-01-20T17:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013666241144332413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013666241144332413",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013251391561617699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013251130914914306",
+            "3_2013251130977812480"
+          ]
+        },
+        "author_id": "1977031348415246336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2013251391561617699",
+        "created_at": "2026-01-19T14:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013251391561617699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhg2IfWNpb",
+              "end": 94,
+              "expanded_url": "https://x.com/Estherishere_/status/2013251391561617699/photo/1",
+              "media_key": "3_2013251130914914306",
+              "start": 71,
+              "url": "https://t.co/dhg2IfWNpb"
+            },
+            {
+              "display_url": "pic.x.com/dhg2IfWNpb",
+              "end": 94,
+              "expanded_url": "https://x.com/Estherishere_/status/2013251391561617699/photo/1",
+              "media_key": "3_2013251130977812480",
+              "start": 71,
+              "url": "https://t.co/dhg2IfWNpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013251391561617699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 60686,
+          "like_count": 299,
+          "quote_count": 1,
+          "reply_count": 186,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实是这样来的，我不知道100杯该怎么抽，我打算慢慢抽。我不跟他说在twitter上，就是因为怕他注册账号来了，别人只要一说祝福他，他就发钱 https://t.co/dhg2IfWNpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39176,
+          "following_count": 168,
+          "like_count": 2074,
+          "listed_count": 131,
+          "media_count": 359,
+          "tweet_count": 3815
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "儿子@Wojiang38562 小猫账号暂时不用 忘记密码了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Wojiang38562"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "2010056858007155013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3846,
+          "following_count": 345,
+          "like_count": 7878,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 4754
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

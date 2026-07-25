@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2057107100233597255",
+    "created_at": "2026-05-20T15:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057114554400985264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        },
+        {
+          "end": 25,
+          "id": "1626733519904079872",
+          "start": 13,
+          "username": "OverloadHcf"
+        },
+        {
+          "end": 41,
+          "id": "1587633987840872450",
+          "start": 26,
+          "username": "yigetangxindan"
+        },
+        {
+          "end": 53,
+          "id": "1765000212085702656",
+          "start": 42,
+          "username": "popoichhng"
+        },
+        {
+          "end": 67,
+          "id": "1926589725189476352",
+          "start": 54,
+          "username": "sandyyyy0922"
+        },
+        {
+          "end": 79,
+          "id": "2055270033346207745",
+          "start": 68,
+          "username": "Sherryllli"
+        },
+        {
+          "end": 91,
+          "id": "758269989103153152",
+          "start": 80,
+          "username": "sndhjszmdh"
+        },
+        {
+          "end": 106,
+          "id": "1610793119179755520",
+          "start": 92,
+          "username": "GreenBeanIce_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057114554400985264",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057112775772758233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp @OverloadHcf @yigetangxindan @popoichhng @sandyyyy0922 @Sherryllli @sndhjszmdh @GreenBeanIce_ 哇塞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2057107100233597255",
+        "created_at": "2026-05-20T15:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057114554400985264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            },
+            {
+              "end": 25,
+              "id": "1626733519904079872",
+              "start": 13,
+              "username": "OverloadHcf"
+            },
+            {
+              "end": 41,
+              "id": "1587633987840872450",
+              "start": 26,
+              "username": "yigetangxindan"
+            },
+            {
+              "end": 53,
+              "id": "1765000212085702656",
+              "start": 42,
+              "username": "popoichhng"
+            },
+            {
+              "end": 67,
+              "id": "1926589725189476352",
+              "start": 54,
+              "username": "sandyyyy0922"
+            },
+            {
+              "end": 79,
+              "id": "2055270033346207745",
+              "start": 68,
+              "username": "Sherryllli"
+            },
+            {
+              "end": 91,
+              "id": "758269989103153152",
+              "start": 80,
+              "username": "sndhjszmdh"
+            },
+            {
+              "end": 106,
+              "id": "1610793119179755520",
+              "start": 92,
+              "username": "GreenBeanIce_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057114554400985264",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057112775772758233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp @OverloadHcf @yigetangxindan @popoichhng @sandyyyy0922 @Sherryllli @sndhjszmdh @GreenBeanIce_ 哇塞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2057107100233597255",
+        "created_at": "2026-05-20T14:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057112775772758233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626733519904079872",
+              "start": 0,
+              "username": "OverloadHcf"
+            },
+            {
+              "end": 28,
+              "id": "1587633987840872450",
+              "start": 13,
+              "username": "yigetangxindan"
+            },
+            {
+              "end": 40,
+              "id": "1765000212085702656",
+              "start": 29,
+              "username": "popoichhng"
+            },
+            {
+              "end": 54,
+              "id": "1926589725189476352",
+              "start": 41,
+              "username": "sandyyyy0922"
+            },
+            {
+              "end": 66,
+              "id": "2055270033346207745",
+              "start": 55,
+              "username": "Sherryllli"
+            },
+            {
+              "end": 78,
+              "id": "758269989103153152",
+              "start": 67,
+              "username": "sndhjszmdh"
+            },
+            {
+              "end": 95,
+              "id": "1853286001197879296",
+              "start": 79,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 110,
+              "id": "1610793119179755520",
+              "start": 96,
+              "username": "GreenBeanIce_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057112775772758233",
+        "in_reply_to_user_id": "1626733519904079872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057107100233597255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverloadHcf @yigetangxindan @popoichhng @sandyyyy0922 @Sherryllli @sndhjszmdh @Rainydayovo8964 @GreenBeanIce_ 俺娘嘞…这个粉的像bjd哎呦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38902,
+          "following_count": 217,
+          "like_count": 2951,
+          "listed_count": 129,
+          "media_count": 423,
+          "tweet_count": 5736
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…喜欢和小女孩互动！请小女孩多找我玩！ 私信只回有意思的——定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 107,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 84,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2050590652447224083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 230,
+          "like_count": 2160,
+          "listed_count": 13,
+          "media_count": 193,
+          "tweet_count": 1676
+        },
+        "username": "SherryJxpbp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T00:01:19.000Z",
+        "description": "直男，男的请勿打扰",
+        "id": "1626733519904079872",
+        "name": "Oovee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713391302346481664/eiMguzuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4115,
+          "following_count": 21,
+          "like_count": 323,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 204
+        },
+        "username": "OverloadHcf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜被盗图骗别找我｜最爱吃溏心蛋拌炒饭｜文黄图绿号，我啥都敢说😋｜有🩸图请你屏蔽我谢谢｜给我发吊的都枪毙｜如果我管住嘴一定是世界上最富的人🍳|不约不实践不闲聊｜别跟我装熟那很冒犯｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 116,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 93,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "location": "不是🚪姐 打赏随意",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2034245594860982704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 143,
+          "like_count": 18098,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 6647
+        },
+        "username": "yigetangxindan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T13:03:46.000Z",
+        "description": "平平无奇的碎碎念xp记录仪 ，抽象发疯日常，\n小号，@XinShi52907     防走丢@Gg6wbd \n不加v，无🚪，不接置顶推广，无任何墙内社交软件\nbrat，高p，爱发啥发啥要你管？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "XinShi52907"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Gg6wbd"
+              }
+            ]
+          }
+        },
+        "id": "1765000212085702656",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "地瓜妹🍠",
+        "pinned_tweet_id": "2036025874420838425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030954172540207104/20Wt_unZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 216,
+          "like_count": 6525,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 4512
+        },
+        "username": "popoichhng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜infp｜有主人/老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdINC"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2044582265523454025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 382,
+          "like_count": 3028,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/AcyHhjdINC",
+        "username": "sandyyyy0922",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T12:53:35.000Z",
+        "description": "刘文祥分店 https://t.co/l5Boh4sRMF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/lllill123321?s…",
+                "end": 29,
+                "expanded_url": "https://x.com/lllill123321?s=21",
+                "start": 6,
+                "url": "https://t.co/l5Boh4sRMF"
+              }
+            ]
+          }
+        },
+        "id": "2055270033346207745",
+        "name": "Sherry",
+        "pinned_tweet_id": "2055271149903466737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055270445071716352/G_Pe3tYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 70,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 89
+        },
+        "username": "Sherryllli",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T11:57:08.000Z",
+        "description": "别管了 先睡一觉吧\n一个普通人的日记本，风吹哪页读哪页。\n⬇️欢迎提问、留言或者和我聊天\nhttps://t.co/VsvFhJGhqZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sndhszmdh",
+                "end": 68,
+                "expanded_url": "https://ngl.link/sndhszmdh",
+                "start": 45,
+                "url": "https://t.co/VsvFhJGhqZ"
+              }
+            ]
+          }
+        },
+        "id": "758269989103153152",
+        "location": "England, United Kingdom",
+        "name": "sndhszmdh",
+        "pinned_tweet_id": "2042190674595135613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041207373709357056/SF8aI5_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 77,
+          "like_count": 4041,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1706
+        },
+        "username": "sndhjszmdh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T00:19:53.000Z",
+        "description": "不约不卖不线下不聊黄没有门槛\n只是一个普通人，我随便发的\n谢谢大家喜欢我🤲\n匿名⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/greenbeanice_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/greenbeanice_",
+                "start": 0,
+                "url": "https://t.co/mcdfWIyfhh"
+              }
+            ]
+          }
+        },
+        "id": "1610793119179755520",
+        "name": "🧃",
+        "pinned_tweet_id": "1770152163341177137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056327724319543296/JLfdIDkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 123,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/mcdfWIyfhh",
+        "username": "GreenBeanIce_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-31T04:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038837071360770485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962198544724742144",
+          "start": 0,
+          "username": "TianY89953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038837071360770485",
+    "in_reply_to_user_id": "1962198544724742144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038653118905524665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianY89953 对啊！她本身不穷那你展现出很可怜的样子干什么..网友给她送礼物支持她还全部接受然后再说自己根本不穷 ..自己视频每次暗示家里对她不好 一堆励志文案是在干什么.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T04:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038837071360770485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962198544724742144",
+              "start": 0,
+              "username": "TianY89953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038837071360770485",
+        "in_reply_to_user_id": "1962198544724742144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038653118905524665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianY89953 对啊！她本身不穷那你展现出很可怜的样子干什么..网友给她送礼物支持她还全部接受然后再说自己根本不穷 ..自己视频每次暗示家里对她不好 一堆励志文案是在干什么.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962198544724742144",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T16:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038653118905524665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038653118905524665",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 是，尤其是她那句“我从来没有说过我家里很穷”真的感觉真心喂了狗，大家以为她家里不容易，一直说什么爸爸生病妹妹生病，家里那么多人要她一个小女孩来干农活的程度，展现出来的就是很可怜的样子，才有这么多人怜爱她，有了流量，结果早期穿日牌买车住酒店拍照还漏脚擦边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38255,
+          "following_count": 188,
+          "like_count": 2398,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4505
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T16:59:41.000Z",
+        "description": "我不是个好丈夫，不是个好父亲，也不是个好儿子，那又怎样呢，我一个女孩子",
+        "id": "1962198544724742144",
+        "location": "m78星云",
+        "name": "=^𖥦^=",
+        "pinned_tweet_id": "1979993386775191985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023073975405051905/XHbsU1cL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 24,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 376
+        },
+        "username": "TianY89953",
+        "verified": false
+      }
+    ]
+  }
+}

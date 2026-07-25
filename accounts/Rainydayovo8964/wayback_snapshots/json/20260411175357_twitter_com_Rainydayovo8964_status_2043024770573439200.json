@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043024770573439200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040699449677164544",
+          "start": 0,
+          "username": "shijiehuai310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043024770573439200",
+    "in_reply_to_user_id": "2040699449677164544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042920035778256949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijiehuai310 好耶！！！我买了花知晓晚点我看看是什么颜色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043024770573439200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040699449677164544",
+              "start": 0,
+              "username": "shijiehuai310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043024770573439200",
+        "in_reply_to_user_id": "2040699449677164544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042920035778256949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijiehuai310 好耶！！！我买了花知晓晚点我看看是什么颜色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040699449677164544",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T10:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042920035778256949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042920035778256949",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我粉底液嘉利玛和dw两个混着用 不考虑价格强推dw 眼影之类的 我最近在用花知晓03和canmake^ ̳ට ̫ ට ̳^特别好看特别上色嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37826,
+          "following_count": 198,
+          "like_count": 2660,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5034
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T07:55:51.000Z",
+        "description": "",
+        "id": "2040699449677164544",
+        "name": "世界坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040700086351777792/tdwSBSyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "username": "shijiehuai310",
+        "verified": false
+      }
+    ]
+  }
+}

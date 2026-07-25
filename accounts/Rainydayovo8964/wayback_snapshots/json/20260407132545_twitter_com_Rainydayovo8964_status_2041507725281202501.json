@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041506061019238872",
+    "created_at": "2026-04-07T13:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041507725281202501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882013113949855744",
+          "start": 0,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041507725281202501",
+    "in_reply_to_user_id": "1882013113949855744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041506061019238872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endless_37 好萌呀我亲。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10968,
+        "height": 1280,
+        "media_key": "13_2041505856622391296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041505856622391296/img/zRFTUMyI0kmP6W47.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041505856622391296/vid/avc1/320x568/rSjGO6hTNbaRRJ5A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041505856622391296/vid/avc1/480x852/gPAOFAid4iX6TQUm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041505856622391296/vid/avc1/720x1280/pxcFdNGzT7uDFt4-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041505856622391296/pl/7WdXCuM11LAAQxH_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041506061019238872",
+        "created_at": "2026-04-07T13:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041507725281202501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882013113949855744",
+              "start": 0,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041507725281202501",
+        "in_reply_to_user_id": "1882013113949855744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041506061019238872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endless_37 好萌呀我亲。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041505856622391296"
+          ]
+        },
+        "author_id": "1882013113949855744",
+        "conversation_id": "2041506061019238872",
+        "created_at": "2026-04-07T13:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041506061019238872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtDrTApXe6",
+              "end": 45,
+              "expanded_url": "https://x.com/endless_37/status/2041506061019238872/video/1",
+              "media_key": "13_2041505856622391296",
+              "start": 22,
+              "url": "https://t.co/gtDrTApXe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041506061019238872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到结尾有惊喜(ノ_＜)小猫给大家送了礼物 https://t.co/gtDrTApXe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38236,
+          "following_count": 198,
+          "like_count": 2556,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4818
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2032735833246364147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 187,
+          "like_count": 2533,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1543
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

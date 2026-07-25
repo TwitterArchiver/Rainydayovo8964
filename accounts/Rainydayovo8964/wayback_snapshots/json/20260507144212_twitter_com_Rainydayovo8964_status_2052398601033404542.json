@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052398601033404542",
+    "created_at": "2026-05-07T14:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052398601033404542"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052398601033404542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现我买东西时总是在纠结 明明选到喜欢的合适的 总会下意识看价格  在各大软件再翻翻有没有更便宜的  然后就是一个贵的和一个便宜的在对比 心里两个小人这时候就在打架了 a:为什么不给自己买更好的 让自己开心呢！不要委屈自己！ b: 感觉两个品质差不多嘛..第二个更便宜一点 省的钱可以买其他的 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052398601033404542",
+        "created_at": "2026-05-07T14:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052398601033404542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052398601033404542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我买东西时总是在纠结 明明选到喜欢的合适的 总会下意识看价格  在各大软件再翻翻有没有更便宜的  然后就是一个贵的和一个便宜的在对比 心里两个小人这时候就在打架了 a:为什么不给自己买更好的 让自己开心呢！不要委屈自己！ b: 感觉两个品质差不多嘛..第二个更便宜一点 省的钱可以买其他的 哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38906,
+          "following_count": 211,
+          "like_count": 2869,
+          "listed_count": 133,
+          "media_count": 419,
+          "tweet_count": 5579
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

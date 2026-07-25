@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023993104666865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2005083443672264704",
+          "start": 0,
+          "username": "cryforryou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023993104666865",
+    "in_reply_to_user_id": "2005083443672264704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043015008909705335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryforryou 一起加油！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023993104666865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005083443672264704",
+              "start": 0,
+              "username": "cryforryou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023993104666865",
+        "in_reply_to_user_id": "2005083443672264704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043015008909705335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryforryou 一起加油！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005083443672264704",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043015008909705335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043015008909705335",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 宝宝我也是刚刚学化妆hh 一起加油吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2652,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5024
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T01:09:03.000Z",
+        "description": "",
+        "id": "2005083443672264704",
+        "name": "Tearsforyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010058336323153925/zDrS-HYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 47,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 73
+        },
+        "username": "cryforryou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032303375602369016",
+    "created_at": "2026-03-13T17:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032506263024931162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026647375012573185",
+          "start": 0,
+          "username": "bojtzhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032506263024931162",
+    "in_reply_to_user_id": "2026647375012573185",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032506119273463986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bojtzhv 。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T17:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032506263024931162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026647375012573185",
+              "start": 0,
+              "username": "bojtzhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032506263024931162",
+        "in_reply_to_user_id": "2026647375012573185",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032506119273463986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bojtzhv 。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026647375012573185",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T17:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032506119273463986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032506119273463986",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032505354546999585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 啊啊啊啊啊啊啊啊集美原来是搞抽象啊aaaaaaaaaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38747,
+          "following_count": 182,
+          "like_count": 2279,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4209
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T13:16:47.000Z",
+        "description": "",
+        "id": "2026647375012573185",
+        "name": "bo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026647766034952196/kN1o9_b0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "bojtzhv",
+        "verified": false
+      }
+    ]
+  }
+}

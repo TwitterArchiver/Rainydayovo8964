@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043024480243716405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836283997896536064",
+          "start": 0,
+          "username": "xxny397416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043024480243716405",
+    "in_reply_to_user_id": "1836283997896536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042941423797092558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxny397416 好滴宝宝！！谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043024480243716405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836283997896536064",
+              "start": 0,
+              "username": "xxny397416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043024480243716405",
+        "in_reply_to_user_id": "1836283997896536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042941423797092558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxny397416 好滴宝宝！！谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836283997896536064",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042941423797092558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042941423797092558",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 老师混干的话我真的推荐郑瑄茉的气垫 我之前用的是nars用完郑瑄茉简直是惊为天人完全奶油肌！还有腮红最好是用腮红膏这样水润润的！眼影的话推荐clio或者3ce的overtake clio02颜色很多还可以拿来当腮红和修容~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2659,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5031
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T06:00:13.000Z",
+        "description": "",
+        "id": "1836283997896536064",
+        "name": "yyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941874683755810816/5m4vsR-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "xxny397416",
+        "verified": false
+      }
+    ]
+  }
+}

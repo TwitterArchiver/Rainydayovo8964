@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2069612373263192307",
+    "created_at": "2026-06-24T02:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069612373263192307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1987920300928032768",
+          "start": 3,
+          "username": "Maybetonight77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069612373263192307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069429168572645541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maybetonight77: 我始终觉得朋友圈只适合分享一些浮于表面的事。。在现实交际圈中展露自己的思考、认知、价值观等，是一件太微妙又太危险的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2069612373263192307",
+        "created_at": "2026-06-24T02:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069612373263192307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1987920300928032768",
+              "start": 3,
+              "username": "Maybetonight77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069612373263192307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069429168572645541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maybetonight77: 我始终觉得朋友圈只适合分享一些浮于表面的事。。在现实交际圈中展露自己的思考、认知、价值观等，是一件太微妙又太危险的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987920300928032768",
+        "conversation_id": "2069429168572645541",
+        "created_at": "2026-06-23T14:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069429168572645541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069429168572645541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 42066,
+          "like_count": 1738,
+          "quote_count": 13,
+          "reply_count": 86,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "我始终觉得朋友圈只适合分享一些浮于表面的事。。在现实交际圈中展露自己的思考、认知、价值观等，是一件太微妙又太危险的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39174,
+          "following_count": 230,
+          "like_count": 2981,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6035
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T16:28:54.000Z",
+        "description": "我是巧克力，人吃了会幸福狗吃了会死",
+        "id": "1987920300928032768",
+        "name": "｡ﾟ⁎悲伤巧克力⁎ *˚̩͙❅ .",
+        "pinned_tweet_id": "2059264539024310552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987920477315362825/nhinXK2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 45,
+          "like_count": 7004,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "Maybetonight77",
+        "verified": false
+      }
+    ]
+  }
+}

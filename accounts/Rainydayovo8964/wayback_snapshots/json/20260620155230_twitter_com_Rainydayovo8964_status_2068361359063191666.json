@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068263503115464921",
+    "created_at": "2026-06-20T15:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068361359063191666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067834008009121792",
+          "start": 0,
+          "username": "kk0y194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068361359063191666",
+    "in_reply_to_user_id": "2067834008009121792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068357686404767859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk0y194 没你会叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068263503115464921",
+        "created_at": "2026-06-20T15:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068361359063191666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067834008009121792",
+              "start": 0,
+              "username": "kk0y194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068361359063191666",
+        "in_reply_to_user_id": "2067834008009121792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068357686404767859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk0y194 没你会叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067834008009121792",
+        "conversation_id": "2068263503115464921",
+        "created_at": "2026-06-20T15:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068357686404767859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068357686404767859",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068263503115464921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 人家至少喘喘提供情绪价值 不像某些女的就长个嘴 叫叫叫 发一堆没有意思的文字立人设装小众😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 229,
+          "like_count": 2955,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5953
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T04:57:50.000Z",
+        "description": "",
+        "id": "2067834008009121792",
+        "name": "kk",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "kk0y194",
+        "verified": false
+      }
+    ]
+  }
+}

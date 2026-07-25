@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T07:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068596114081927255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038849225660805121",
+          "start": 0,
+          "username": "kino8864314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068596114081927255",
+    "in_reply_to_user_id": "2038849225660805121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068546883702919494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kino8864314 好！！！谢谢你呀🫂我会努力的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T07:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068596114081927255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038849225660805121",
+              "start": 0,
+              "username": "kino8864314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068596114081927255",
+        "in_reply_to_user_id": "2038849225660805121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068546883702919494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kino8864314 好！！！谢谢你呀🫂我会努力的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038849225660805121",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T04:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068546883702919494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068546883702919494",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我毕业第一年工资3k，疫情来了还打八折，但是毕业第三年就开始月入过万了，工作6年的时候，最高的时候一个月赚四万多，但现在离职在家躺尸。我想说不必焦虑未来，起码月入三千饿不死你，只要饿不死，就能咬牙活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39150,
+          "following_count": 229,
+          "like_count": 2971,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6009
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T05:22:03.000Z",
+        "description": "品牌设计/包装设计",
+        "id": "2038849225660805121",
+        "name": "暮霭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062097435674263552/r2JkiFzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "kino8864314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2034777793314398625",
+    "created_at": "2026-03-19T23:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T00:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034777793314398625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2026572990901792769",
+          "start": 3,
+          "username": "Jasmine__rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034777793314398625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034476241768910859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jasmine__rain: 我再也不要把每段关系都抓的那么紧了 好痛好痛。\n每段关系都像沙子 抓的越紧流的越快 全都从我指缝溜走了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2034777793314398625",
+        "created_at": "2026-03-19T23:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034777793314398625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2026572990901792769",
+              "start": 3,
+              "username": "Jasmine__rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034777793314398625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034476241768910859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jasmine__rain: 我再也不要把每段关系都抓的那么紧了 好痛好痛。\n每段关系都像沙子 抓的越紧流的越快 全都从我指缝溜走了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026572990901792769",
+        "conversation_id": "2034476241768910859",
+        "created_at": "2026-03-19T03:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034476241768910859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034476241768910859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8281,
+          "like_count": 279,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不要把每段关系都抓的那么紧了 好痛好痛。\n每段关系都像沙子 抓的越紧流的越快 全都从我指缝溜走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38739,
+          "following_count": 179,
+          "like_count": 2321,
+          "listed_count": 135,
+          "media_count": 379,
+          "tweet_count": 4319
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T08:21:00.000Z",
+        "description": "天秤 switch https://t.co/NoQ8pwsyCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jasmine__rain",
+                "end": 33,
+                "expanded_url": "https://ngl.link/jasmine__rain",
+                "start": 10,
+                "url": "https://t.co/NoQ8pwsyCL"
+              }
+            ]
+          }
+        },
+        "id": "2026572990901792769",
+        "name": "我是一个焦焦的煎蛋",
+        "pinned_tweet_id": "2029520717788967027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026573446512304128/ZlMmC64k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 86,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 443
+        },
+        "username": "Jasmine__rain",
+        "verified": false
+      }
+    ]
+  }
+}

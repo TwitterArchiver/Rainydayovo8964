@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032303375602369016",
+    "created_at": "2026-03-14T02:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032640059938320841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552556628418785280",
+          "start": 0,
+          "username": "WAITINGFORNM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032640059938320841",
+    "in_reply_to_user_id": "1552556628418785280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032529651709395091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WAITINGFORNM5 我真没招"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-14T02:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032640059938320841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552556628418785280",
+              "start": 0,
+              "username": "WAITINGFORNM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032640059938320841",
+        "in_reply_to_user_id": "1552556628418785280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032529651709395091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WAITINGFORNM5 我真没招"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552556628418785280",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T18:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032529651709395091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032529651709395091",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032303375602369016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 推特是唯一一个抽象贴也要被攻击辱骂的平台😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38755,
+          "following_count": 182,
+          "like_count": 2279,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4211
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T07:28:49.000Z",
+        "description": "Chinese Barb😘  LOVE ❤️@NICKIMINAJ & @Nico_nico_Sou  & 黒羽快斗  @NICKIMINAJ IS THE QUEEN OF RAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "NICKIMINAJ"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Nico_nico_Sou"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "NICKIMINAJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/79DPYZ6x…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3?si=k5G4VzEITv-iS3PHknf41Q",
+                "start": 0,
+                "url": "https://t.co/7c1kcluRNF"
+              }
+            ]
+          }
+        },
+        "id": "1552556628418785280",
+        "location": "GAG CITY",
+        "name": "ONIKA BARBIE💅🇨🇳🇺🇸🇳🇴",
+        "pinned_tweet_id": "1665928106131988483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870442018444591104/-0VCioeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 364,
+          "like_count": 53343,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/7c1kcluRNF",
+        "username": "WAITINGFORNM5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047846072845025675",
+    "created_at": "2026-04-25T18:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048100430954299663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529292829704716288",
+          "start": 0,
+          "username": "kqKoJamH0ihT9gV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048100430954299663",
+    "in_reply_to_user_id": "1529292829704716288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048010073197232530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kqKoJamH0ihT9gV 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047846072845025675",
+        "created_at": "2026-04-25T18:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048100430954299663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529292829704716288",
+              "start": 0,
+              "username": "kqKoJamH0ihT9gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048100430954299663",
+        "in_reply_to_user_id": "1529292829704716288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048010073197232530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kqKoJamH0ihT9gV 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529292829704716288",
+        "conversation_id": "2047846072845025675",
+        "created_at": "2026-04-25T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048010073197232530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048010073197232530",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047846072845025675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38308,
+          "following_count": 208,
+          "like_count": 2752,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5290
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T02:46:55.000Z",
+        "description": "幸福版",
+        "id": "1529292829704716288",
+        "name": "kk",
+        "pinned_tweet_id": "1878049281166438572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882756621578240/kEnLFmBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1369,
+          "like_count": 220954,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 38141
+        },
+        "username": "kqKoJamH0ihT9gV",
+        "verified": false
+      }
+    ]
+  }
+}

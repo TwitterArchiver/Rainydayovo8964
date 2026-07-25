@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023490522231204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020755635500105729",
+          "start": 0,
+          "username": "baoooo1000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023490522231204",
+    "in_reply_to_user_id": "2020755635500105729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042818671270339032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baoooo1000 好！！！谢谢宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023490522231204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020755635500105729",
+              "start": 0,
+              "username": "baoooo1000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023490522231204",
+        "in_reply_to_user_id": "2020755635500105729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042818671270339032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoooo1000 好！！！谢谢宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020755635500105729",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T04:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042818671270339032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042818671270339032",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 kanmake的卧蚕盘一定记得购入 unny的眼线胶笔很适合不太会化妆的人用 一头有小刷子的那个 眼影看个人需求 小奥汀或者原色波塔的液体修容超级好用 歌剧魅影的遮瑕 分装就行了 感觉还是这个牢固一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2631,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5017
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T07:04:36.000Z",
+        "description": "",
+        "id": "2020755635500105729",
+        "name": "uulge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020756459349483520/9EPdBX25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 25,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 327
+        },
+        "username": "baoooo1000",
+        "verified": false
+      }
+    ]
+  }
+}

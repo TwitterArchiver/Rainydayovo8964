@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2060615427995107629",
+    "created_at": "2026-05-31T01:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060901175344705735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038379612678373376",
+          "start": 0,
+          "username": "allHVEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060901175344705735",
+    "in_reply_to_user_id": "2038379612678373376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060615427995107629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allHVEM 啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2060615427995107629",
+        "created_at": "2026-05-31T01:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060901175344705735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038379612678373376",
+              "start": 0,
+              "username": "allHVEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060901175344705735",
+        "in_reply_to_user_id": "2038379612678373376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060615427995107629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allHVEM 啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038379612678373376",
+        "conversation_id": "2060615427995107629",
+        "created_at": "2026-05-30T06:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060615427995107629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060615427995107629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18573,
+          "like_count": 408,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "求部分简中女同不把自己p成 吉他拨片 极度窄脸 钻头尖下巴 超绝眉压眼 比例不和的超窄鼻翼 极品薄唇\n明明很好看的人为啥要p成那样！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 92,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 69,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38976,
+          "following_count": 223,
+          "like_count": 2966,
+          "listed_count": 128,
+          "media_count": 429,
+          "tweet_count": 5822
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T22:17:56.000Z",
+        "description": "慎言\ndm开放\nenglish/简中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/allhvem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/allhvem",
+                "start": 0,
+                "url": "https://t.co/MHaBOvjJVZ"
+              }
+            ]
+          }
+        },
+        "id": "2038379612678373376",
+        "location": "沉舟渡海",
+        "name": "sy",
+        "pinned_tweet_id": "2048786321703895477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048981556170297344/Ipvy5w35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 13,
+          "like_count": 6876,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/MHaBOvjJVZ",
+        "username": "allHVEM",
+        "verified": false
+      }
+    ]
+  }
+}

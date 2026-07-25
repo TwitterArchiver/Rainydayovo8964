@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2067582930978017441",
+    "created_at": "2026-06-18T19:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067685893591441907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1803423492890828805",
+          "start": 0,
+          "username": "quezi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067685893591441907",
+    "in_reply_to_user_id": "1803423492890828805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067685514690601076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quezi32 我也是…现在有些雷的我还看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2067582930978017441",
+        "created_at": "2026-06-18T19:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067685893591441907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1803423492890828805",
+              "start": 0,
+              "username": "quezi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067685893591441907",
+        "in_reply_to_user_id": "1803423492890828805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067685514690601076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quezi32 我也是…现在有些雷的我还看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803423492890828805",
+        "conversation_id": "2067582930978017441",
+        "created_at": "2026-06-18T19:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067685514690601076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067685514690601076",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067682123134443573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 但是感觉现在扩列加人会莫名其妙一句话就踩到对方雷了……不好意思我就这样小心翼翼了😿🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39087,
+          "following_count": 227,
+          "like_count": 2956,
+          "listed_count": 128,
+          "media_count": 435,
+          "tweet_count": 5944
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:44:12.000Z",
+        "description": "我是小缺^^先跟你说晚安吧",
+        "id": "1803423492890828805",
+        "location": "萧逸床上",
+        "name": "小缺干脆面",
+        "pinned_tweet_id": "2049746184772964537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803503510379782144/4oOHjCoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 44,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "quezi32",
+        "verified": false
+      }
+    ]
+  }
+}

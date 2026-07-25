@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2014269865415356730",
+    "created_at": "2026-01-22T09:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014275759968514133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675146800494440448",
+          "start": 0,
+          "username": "tangxiaolo83795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014275759968514133",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014275723440304390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangxiaolo83795 考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2014269865415356730",
+        "created_at": "2026-01-22T09:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014275759968514133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675146800494440448",
+              "start": 0,
+              "username": "tangxiaolo83795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014275759968514133",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014275723440304390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangxiaolo83795 考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2014269865415356730",
+        "created_at": "2026-01-22T09:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014275723440304390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675146800494440448",
+              "start": 0,
+              "username": "tangxiaolo83795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014275723440304390",
+        "in_reply_to_user_id": "1675146800494440448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014270734269374572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangxiaolo83795 辛辛苦苦看了一堆试也是要继续打工的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39118,
+          "following_count": 170,
+          "like_count": 2081,
+          "listed_count": 131,
+          "media_count": 362,
+          "tweet_count": 3847
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T14:18:23.000Z",
+        "description": "也不卖 纯馋人\n互关一切要求都会满足滴🤓对 我就这么好",
+        "id": "1675146800494440448",
+        "name": "ciiio",
+        "pinned_tweet_id": "2003744857211465964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902380116547702784/b3cpPgI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 308,
+          "like_count": 2982,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 220
+        },
+        "username": "tangxiaolo83795",
+        "verified": false
+      }
+    ]
+  }
+}

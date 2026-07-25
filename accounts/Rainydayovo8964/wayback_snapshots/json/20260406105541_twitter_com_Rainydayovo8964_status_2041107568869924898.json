@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041074038056079769",
+    "created_at": "2026-04-06T10:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041107568869924898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040401932536406016",
+          "start": 0,
+          "username": "Jnnnu03r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041107568869924898",
+    "in_reply_to_user_id": "2040401932536406016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041106800288911510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jnnnu03r 笑点低的一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T10:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041107568869924898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040401932536406016",
+              "start": 0,
+              "username": "Jnnnu03r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041107568869924898",
+        "in_reply_to_user_id": "2040401932536406016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041106800288911510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jnnnu03r 笑点低的一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040401932536406016",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T10:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041106800288911510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041106800288911510",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041074038056079769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 笑点低的穿不了笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38289,
+          "following_count": 198,
+          "like_count": 2524,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4744
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T12:12:28.000Z",
+        "description": "喵",
+        "id": "2040401932536406016",
+        "name": "Jnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040719046505832449/KxFhJ80Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Jnnnu03r",
+        "verified": false
+      }
+    ]
+  }
+}

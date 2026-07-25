@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2059603341144183016",
+    "created_at": "2026-05-27T14:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059639923653984384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059639923653984384",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059628355113423321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 有没有可能我在说给我自己听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2059603341144183016",
+        "created_at": "2026-05-27T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059639923653984384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059639923653984384",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059628355113423321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 有没有可能我在说给我自己听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410936828467712002",
+        "conversation_id": "2059603341144183016",
+        "created_at": "2026-05-27T13:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059628355113423321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059628355113423321",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059603341144183016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 有没有可能这只是个社交软件，刷的什么圈子是由你决定的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使\\  丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38981,
+          "following_count": 221,
+          "like_count": 2963,
+          "listed_count": 129,
+          "media_count": 429,
+          "tweet_count": 5794
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "我是正常人",
+        "id": "1410936828467712002",
+        "location": "神奈川県",
+        "name": "keibu",
+        "pinned_tweet_id": "1979283528404865497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 23,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 911
+        },
+        "username": "Blitz24053575",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T07:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068596039452618812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002284267423035392",
+          "start": 0,
+          "username": "latiaojiang33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068596039452618812",
+    "in_reply_to_user_id": "2002284267423035392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068588259983462762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@latiaojiang33 宝宝谢谢你说了这么多来安慰我🫂还完钱后！你一定要把钱好好攒着 不要让他们一味的索取你 要你就说没有 虽然是家人也要适当保护好自己呀 人要学着自私一点 开心一点 我们共勉！也希望你快快幸福！你这么好 他们不配🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T07:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068596039452618812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002284267423035392",
+              "start": 0,
+              "username": "latiaojiang33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068596039452618812",
+        "in_reply_to_user_id": "2002284267423035392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068588259983462762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@latiaojiang33 宝宝谢谢你说了这么多来安慰我🫂还完钱后！你一定要把钱好好攒着 不要让他们一味的索取你 要你就说没有 虽然是家人也要适当保护好自己呀 人要学着自私一点 开心一点 我们共勉！也希望你快快幸福！你这么好 他们不配🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002284267423035392",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T06:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068588259983462762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068588259983462762",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 前天端午节本来我要和家里人一起过  端午节前一天晚上突然吵架爆发了我一个月挣4000块钱还要还房贷信用卡  我妈还要以给我攒钱的名义索取我点   不转说我不懂事  我哭了一晚上感觉没人懂我  还说我你有什么压力大的  说她月月信用卡要还好几万问我有什么压力大的啊  我爸以前给我转的抚养费也都给她了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39150,
+          "following_count": 229,
+          "like_count": 2971,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6008
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T07:45:54.000Z",
+        "description": "🚪188｜170｜50kg｜郁郁女主",
+        "id": "2002284267423035392",
+        "name": "邪恶大辣条",
+        "pinned_tweet_id": "2002583897427878161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002286891924926468/NjmLOA9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "latiaojiang33",
+        "verified": false
+      }
+    ]
+  }
+}

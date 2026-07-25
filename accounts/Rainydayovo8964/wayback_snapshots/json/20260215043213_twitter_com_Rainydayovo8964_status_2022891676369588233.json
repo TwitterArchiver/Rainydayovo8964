@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2022891676369588233",
+    "created_at": "2026-02-15T04:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022891676369588233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022891676369588233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022556552570544438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 人和人交往还是少说话，克制表达欲，平静温和就行，不自卑也别炫耀。别为了获得共鸣，讲起过往没完没了。无意间表现的品质，被对方发现才更招人喜欢，胜过千言万语。仔细想想，你哪次滔滔不绝后，带来的不是悔恨。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2022891676369588233",
+        "created_at": "2026-02-15T04:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022891676369588233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022891676369588233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022556552570544438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 人和人交往还是少说话，克制表达欲，平静温和就行，不自卑也别炫耀。别为了获得共鸣，讲起过往没完没了。无意间表现的品质，被对方发现才更招人喜欢，胜过千言万语。仔细想想，你哪次滔滔不绝后，带来的不是悔恨。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2022556552570544438",
+        "created_at": "2026-02-14T06:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022556552570544438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022556552570544438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 29037,
+          "like_count": 1067,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "人和人交往还是少说话，克制表达欲，平静温和就行，不自卑也别炫耀。别为了获得共鸣，讲起过往没完没了。无意间表现的品质，被对方发现才更招人喜欢，胜过千言万语。仔细想想，你哪次滔滔不绝后，带来的不是悔恨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38810,
+          "following_count": 171,
+          "like_count": 2161,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4028
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "🚪 821",
+        "name": "苹果",
+        "pinned_tweet_id": "1936778447273263245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10020,
+          "following_count": 5,
+          "like_count": 1694,
+          "listed_count": 34,
+          "media_count": 573,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

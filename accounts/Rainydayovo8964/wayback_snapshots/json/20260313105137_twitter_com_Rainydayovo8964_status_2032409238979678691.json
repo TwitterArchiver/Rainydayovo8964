@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032323006798971035",
+    "created_at": "2026-03-13T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032409238979678691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676285751669956612",
+          "start": 0,
+          "username": "GG5940583085364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032409238979678691",
+    "in_reply_to_user_id": "1676285751669956612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032323006798971035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GG5940583085364 哪里有爱情 工作  本质上买卖罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032323006798971035",
+        "created_at": "2026-03-13T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032409238979678691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676285751669956612",
+              "start": 0,
+              "username": "GG5940583085364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032409238979678691",
+        "in_reply_to_user_id": "1676285751669956612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032323006798971035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GG5940583085364 哪里有爱情 工作  本质上买卖罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676285751669956612",
+        "conversation_id": "2032323006798971035",
+        "created_at": "2026-03-13T05:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032323006798971035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032323006798971035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14113,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢看那种咯咯哒vlog，感觉特别幸福，可能这就是我向往的工作 爱情 生活吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38771,
+          "following_count": 182,
+          "like_count": 2268,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4188
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T17:44:15.000Z",
+        "description": "给我钱好不好 我是傻逼我乱说的",
+        "id": "1676285751669956612",
+        "location": "天堂🚪520 1314",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754476974204928000/R3axqwsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57897,
+          "following_count": 125,
+          "like_count": 2822,
+          "listed_count": 129,
+          "media_count": 301,
+          "tweet_count": 5231
+        },
+        "username": "GG5940583085364",
+        "verified": false
+      }
+    ]
+  }
+}

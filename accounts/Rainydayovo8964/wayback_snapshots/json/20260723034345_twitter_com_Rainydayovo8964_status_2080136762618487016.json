@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2079449190799970533",
+    "created_at": "2026-07-23T03:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080136762618487016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568140283715682306",
+          "start": 0,
+          "username": "rexxxx746139501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080136762618487016",
+    "in_reply_to_user_id": "1568140283715682306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080130827510247781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rexxxx746139501 我也是。。。我刷到我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2079449190799970533",
+        "created_at": "2026-07-23T03:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080136762618487016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568140283715682306",
+              "start": 0,
+              "username": "rexxxx746139501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080136762618487016",
+        "in_reply_to_user_id": "1568140283715682306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080130827510247781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rexxxx746139501 我也是。。。我刷到我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568140283715682306",
+        "conversation_id": "2079449190799970533",
+        "created_at": "2026-07-23T03:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080130827510247781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080130827510247781",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079449190799970533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我不行了我已经分不出这是二创还是原作了毕竟我已经退游一年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39274,
+          "following_count": 239,
+          "like_count": 3010,
+          "listed_count": 129,
+          "media_count": 443,
+          "tweet_count": 6152
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T07:32:45.000Z",
+        "description": "为什么推文只能删除不能私密",
+        "id": "1568140283715682306",
+        "name": "Pinenut🌰",
+        "pinned_tweet_id": "2060172545299722528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573654055288590337/ilBvz7C2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "rexxxx746139501",
+        "verified": false
+      }
+    ]
+  }
+}

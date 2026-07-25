@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044053033127161944",
+    "created_at": "2026-04-14T14:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044059006608777273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857782029099876352",
+          "start": 0,
+          "username": "iiiamwhatusee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044059006608777273",
+    "in_reply_to_user_id": "1857782029099876352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044053033127161944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiiamwhatusee 我嫉妒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23705,
+        "height": 590,
+        "media_key": "13_2044052944677679104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044052944677679104/img/7lcXnad8QaijQDJ_.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044052944677679104/vid/avc1/584x270/MfwiojTsa_lHJOOr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044052944677679104/vid/avc1/780x360/OBP5ZsAD1jD7RypK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044052944677679104/vid/avc1/1280x590/InaEFYpE3sCxkLkf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044052944677679104/pl/niwjQgBCQOjUSL4I.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044053033127161944",
+        "created_at": "2026-04-14T14:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044059006608777273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857782029099876352",
+              "start": 0,
+              "username": "iiiamwhatusee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044059006608777273",
+        "in_reply_to_user_id": "1857782029099876352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044053033127161944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiiamwhatusee 我嫉妒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044052944677679104"
+          ]
+        },
+        "author_id": "1857782029099876352",
+        "conversation_id": "2044053033127161944",
+        "created_at": "2026-04-14T13:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044053033127161944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7M7o96AvK",
+              "end": 34,
+              "expanded_url": "https://x.com/iiiamwhatusee/status/2044053033127161944/video/1",
+              "media_key": "13_2044052944677679104",
+              "start": 11,
+              "url": "https://t.co/N7M7o96AvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044053033127161944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400球出了有感觉吗 https://t.co/N7M7o96AvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37858,
+          "following_count": 200,
+          "like_count": 2695,
+          "listed_count": 115,
+          "media_count": 402,
+          "tweet_count": 5120
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T13:45:38.000Z",
+        "description": "世界少了我也能转时就离开。最小的老子：@fansile2025 大大的老子：@LuvSic02274433 匿名信：https://t.co/gYIs7GitIe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "fansile2025"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "LuvSic02274433"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%91%E8%8…",
+                "end": 81,
+                "expanded_url": "https://ngl.link/%E9%BB%91%E8%89%B2%E5%89%91%E5%A3%AB",
+                "start": 58,
+                "url": "https://t.co/gYIs7GitIe"
+              }
+            ]
+          }
+        },
+        "id": "1857782029099876352",
+        "location": "你手中的一支烟",
+        "name": "你看向我的那个瞬间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024113670515744768/ms_J1fWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 257,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 5089
+        },
+        "username": "iiiamwhatusee",
+        "verified": false
+      }
+    ]
+  }
+}

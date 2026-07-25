@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042194029832782216",
+    "created_at": "2026-04-09T10:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042194029832782216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042194029832782216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的出租屋里没有桌子…上了一个半月半好难受 没地方吃饭 没地方放电脑玩游戏 在拼多多里对比了好几家 最终敲定了两个 一个43 一个78 差三十块钱 让我纠结了好久 最后朋友给我发了三十块 有点愧疚 但是我真的有点想要78的桌子 虽然很小吧 但是总算有地方吃饭了(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042194029832782216",
+        "created_at": "2026-04-09T10:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042194029832782216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042194029832782216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的出租屋里没有桌子…上了一个半月半好难受 没地方吃饭 没地方放电脑玩游戏 在拼多多里对比了好几家 最终敲定了两个 一个43 一个78 差三十块钱 让我纠结了好久 最后朋友给我发了三十块 有点愧疚 但是我真的有点想要78的桌子 虽然很小吧 但是总算有地方吃饭了(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37994,
+          "following_count": 198,
+          "like_count": 2563,
+          "listed_count": 126,
+          "media_count": 397,
+          "tweet_count": 4897
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2034267726382862535",
+    "created_at": "2026-03-18T17:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034314195764924863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1868432725289627648",
+          "start": 0,
+          "username": "gfpupu"
+        },
+        {
+          "end": 18,
+          "id": "1884291717500710912",
+          "start": 8,
+          "username": "waifupupu"
+        },
+        {
+          "end": 28,
+          "id": "1552529965371236352",
+          "start": 19,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 38,
+          "id": "1732486642525474816",
+          "start": 29,
+          "username": "ToBuerma"
+        },
+        {
+          "end": 51,
+          "id": "1591137880688144384",
+          "start": 39,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 62,
+          "id": "1847568958507098112",
+          "start": 52,
+          "username": "BulmaList"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034314195764924863",
+    "in_reply_to_user_id": "1868432725289627648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034267726382862535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gfpupu @waifupupu @ToBulaer @ToBuerma @KawasawaSen @BulmaList 等到更新哦哼哼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 269966,
+        "height": 720,
+        "media_key": "13_2034267551023112192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034267551023112192/img/9Y88pGwPwUw2gzJd.jpg",
+        "public_metrics": {
+          "view_count": 80445
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034267551023112192/vid/avc1/480x270/-kw8ChK93hOOvZs-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034267551023112192/vid/avc1/640x360/La0DamidCcmWAYQT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034267551023112192/vid/avc1/1280x720/C6mEni9zCeK2RoQc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034267551023112192/pl/3Z0Tt6lwtPpLkkP4.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2034267726382862535",
+        "created_at": "2026-03-18T17:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034314195764924863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1868432725289627648",
+              "start": 0,
+              "username": "gfpupu"
+            },
+            {
+              "end": 18,
+              "id": "1884291717500710912",
+              "start": 8,
+              "username": "waifupupu"
+            },
+            {
+              "end": 28,
+              "id": "1552529965371236352",
+              "start": 19,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 38,
+              "id": "1732486642525474816",
+              "start": 29,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 51,
+              "id": "1591137880688144384",
+              "start": 39,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 62,
+              "id": "1847568958507098112",
+              "start": 52,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034314195764924863",
+        "in_reply_to_user_id": "1868432725289627648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034267726382862535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gfpupu @waifupupu @ToBulaer @ToBuerma @KawasawaSen @BulmaList 等到更新哦哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034267551023112192"
+          ]
+        },
+        "author_id": "1868432725289627648",
+        "conversation_id": "2034267726382862535",
+        "created_at": "2026-03-18T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034267726382862535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "阿黑颜颜射"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1552529965371236352",
+              "start": 30,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 49,
+              "id": "1732486642525474816",
+              "start": 40,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 62,
+              "id": "1591137880688144384",
+              "start": 50,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 73,
+              "id": "1847568958507098112",
+              "start": 63,
+              "username": "BulmaList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qea5yFUQKE",
+              "end": 97,
+              "expanded_url": "https://x.com/gfpupu/status/2034267726382862535/video/1",
+              "media_key": "13_2034267551023112192",
+              "start": 74,
+              "url": "https://t.co/Qea5yFUQKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034267726382862535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1825,
+          "impression_count": 213231,
+          "like_count": 5352,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 663
+        },
+        "reply_settings": "everyone",
+        "text": "🍆💦生病了 谁不想被急头白脸地照顾一顿💗\n\n#阿黑颜颜射\n\n@ToBulaer\n@ToBuerma\n@KawasawaSen\n@BulmaList https://t.co/Qea5yFUQKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38700,
+          "following_count": 179,
+          "like_count": 2292,
+          "listed_count": 135,
+          "media_count": 379,
+          "tweet_count": 4252
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:07:35.000Z",
+        "description": "♡‌NO PPV‼️订阅观看往期所有内容\n正版订阅👇\n♡‌FANSONE✨https://t.co/GJHJRQh01l \n♡‌TG✨https://t.co/UgCwKUKJFP\n♡‌Onlyfans✨https://t.co/4M66T8QWgM\n♡‌以上三个平台内容一样 同步更新哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fansone.co/aheyanlz",
+                "end": 60,
+                "expanded_url": "https://fansone.co/aheyanlz",
+                "start": 37,
+                "url": "https://t.co/GJHJRQh01l"
+              },
+              {
+                "display_url": "t.me/aheyanlz_bot",
+                "end": 90,
+                "expanded_url": "http://t.me/aheyanlz_bot",
+                "start": 67,
+                "url": "https://t.co/UgCwKUKJFP"
+              },
+              {
+                "display_url": "onlyfans.com/pupuwaifu",
+                "end": 125,
+                "expanded_url": "https://onlyfans.com/pupuwaifu",
+                "start": 102,
+                "url": "https://t.co/4M66T8QWgM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pupuwaifu",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/pupuwaifu",
+                "start": 0,
+                "url": "https://t.co/lHUIf6q2Va"
+              }
+            ]
+          }
+        },
+        "id": "1868432725289627648",
+        "location": "pupuwaifu ✨➡️",
+        "name": "pupu噗噗♡‌",
+        "pinned_tweet_id": "2034267726382862535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004738280521408512/3lG9Nfz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622394,
+          "following_count": 7,
+          "like_count": 292,
+          "listed_count": 712,
+          "media_count": 20,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/lHUIf6q2Va",
+        "username": "gfpupu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T17:25:44.000Z",
+        "description": "♡You look lonely, I can fix that\n♡‌绿色号@pupuwaifu\n♡‌zfb订阅✨➡️https://t.co/5cC2ulFKMT\n♡‌TG订阅➡️https://t.co/7f2CAylTvb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "pupuwaifu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansone.co/aheyanlz",
+                "end": 82,
+                "expanded_url": "https://fansone.co/aheyanlz",
+                "start": 59,
+                "url": "https://t.co/5cC2ulFKMT"
+              },
+              {
+                "display_url": "t.me/aheyanlz_bot",
+                "end": 114,
+                "expanded_url": "http://t.me/aheyanlz_bot",
+                "start": 91,
+                "url": "https://t.co/7f2CAylTvb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pupuwaifu",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/pupuwaifu",
+                "start": 0,
+                "url": "https://t.co/ODxkFkoW41"
+              }
+            ]
+          }
+        },
+        "id": "1884291717500710912",
+        "location": "pupuwaifu官方网站 ✨➡️",
+        "name": "♡pupuwaifu♡",
+        "pinned_tweet_id": "2004908292259062216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019545301451771904/vnE3PDT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014804,
+          "following_count": 47,
+          "like_count": 5575,
+          "listed_count": 4195,
+          "media_count": 176,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/ODxkFkoW41",
+        "username": "waifupupu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "#分享美好 #AdultArt 《 佳佳🔞@jiajiacos丨团团@TuanCosWW 丨童童@cos06260 丨小雅@xiaoya9888丨萌萌👉@mmcosww05丨茶茶@naitaocos丨菡菡 @cos8183丨竹心@zhuxin97 丨梵高@savera789 丨妞妞@niuniucos26》",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "分享美好"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "AdultArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "jiajiacos"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "cos06260"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xiaoya9888"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "mmcosww05"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "naitaocos"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "cos8183"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "zhuxin97"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "savera789"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "niuniucos26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobulma.com",
+                "end": 23,
+                "expanded_url": "https://www.tobulma.com/",
+                "start": 0,
+                "url": "https://t.co/GLSl5ILkl6"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "我未关注则有概率盗图，理性消费💰",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1996642671218381236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946383,
+          "following_count": 1243,
+          "like_count": 3,
+          "listed_count": 2922,
+          "media_count": 0,
+          "tweet_count": 29299
+        },
+        "url": "https://t.co/GLSl5ILkl6",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-12-06T19:46:19.000Z",
+        "description": "认证私@kawasawasen〖 💯佳佳@jiajiacos0丨团团@TuanCosWW 丨童童@xiyu135712丨小雅@xiaoya9888丨萌萌👉@mmcosww05丨茶茶@naitaocos丨菡菡 @cos8183丨竹心@zhuxin97丨梵高@savera789丨妞妞@niuniucos26〗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "kawasawasen"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiajiacos0"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xiyu135712"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "xiaoya9888"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "mmcosww05"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "naitaocos"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "cos8183"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "zhuxin97"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "savera789"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "niuniucos26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XBulma/118",
+                "end": 23,
+                "expanded_url": "http://t.me/XBulma/118",
+                "start": 0,
+                "url": "https://t.co/OC0aUSFZHk"
+              }
+            ]
+          }
+        },
+        "id": "1732486642525474816",
+        "location": "只关注真人，谨慎消💰",
+        "name": "ToBuerma",
+        "pinned_tweet_id": "1989579694061322444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007698552248774658/4TsQBKX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807844,
+          "following_count": 367,
+          "like_count": 5,
+          "listed_count": 1682,
+          "media_count": 0,
+          "tweet_count": 7718
+        },
+        "url": "https://t.co/OC0aUSFZHk",
+        "username": "ToBuerma",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "私信沉下去 请多发几次\n〖 佳佳🔞@jiajiacos0丨团团@TuanCosWW 丨童童@xiyu135712丨小雅@xiaoya9888丨萌萌👉@mmcosww05丨茶茶@naitaocos丨菡菡 @cos8183丨梵高@savera789丨竹心@zhuxin97丨妞妞@niuniucos26〗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiajiacos0"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiyu135712"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "xiaoya9888"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "mmcosww05"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "naitaocos"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "cos8183"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "savera789"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "zhuxin97"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "niuniucos26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/UbdhSf2jbC"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "真人冲浪裙👉🏿",
+        "name": "川泽森",
+        "pinned_tweet_id": "1900419025198604514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113345,
+          "following_count": 39,
+          "like_count": 3,
+          "listed_count": 3807,
+          "media_count": 0,
+          "tweet_count": 24345
+        },
+        "url": "https://t.co/UbdhSf2jbC",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T09:22:38.000Z",
+        "description": "#唯一 100％纯原创榜单中心 「佳佳🔞@jiajiacos0丨团团@TuanCosWW 丨童童@xiyu135712丨小雅@xiaoya9888丨萌萌👉@mmcosww05丨茶茶@naitaocos丨菡菡 @cos8183丨竹心@zhuxin97 丨梵高@savera789丨妞妞@niuniucos26」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "唯一"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiajiacos0"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xiyu135712"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "xiaoya9888"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "mmcosww05"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "naitaocos"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "cos8183"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "zhuxin97"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "savera789"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "niuniucos26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/4CdNsCOD4c"
+              }
+            ]
+          }
+        },
+        "id": "1847568958507098112",
+        "location": "——真人🧵下—— → ",
+        "name": "原创榜单",
+        "pinned_tweet_id": "2008020711416447167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007832670999617536/xtmrpetV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389370,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 905,
+          "media_count": 0,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/4CdNsCOD4c",
+        "username": "BulmaList",
+        "verified": false
+      }
+    ]
+  }
+}

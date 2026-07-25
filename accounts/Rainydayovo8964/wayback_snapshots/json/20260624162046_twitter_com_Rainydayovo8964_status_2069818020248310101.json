@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2069612332100334026",
+    "created_at": "2026-06-24T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069818020248310101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820529098533576704",
+          "start": 0,
+          "username": "tthc2267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069818020248310101",
+    "in_reply_to_user_id": "1820529098533576704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069768301325218092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tthc2267 我感觉都是她恶补一堆这种知识然后念出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069818020248310101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820529098533576704",
+              "start": 0,
+              "username": "tthc2267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069818020248310101",
+        "in_reply_to_user_id": "1820529098533576704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069768301325218092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tthc2267 我感觉都是她恶补一堆这种知识然后念出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820529098533576704",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T13:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069768301325218092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069768301325218092",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3511,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069612332100334026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 她每条视频说的话全都是我在别的平台看到过的话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39152,
+          "following_count": 230,
+          "like_count": 2985,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6040
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T18:35:42.000Z",
+        "description": "希望是一个没有任何人认识我的地方",
+        "id": "1820529098533576704",
+        "name": "tthc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013588493054730240/DXUZSYnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "tthc2267",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068927953724182896",
+    "created_at": "2026-06-23T05:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069299312807547128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2056458046277373952",
+          "start": 0,
+          "username": "MILIDHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069299312807547128",
+    "in_reply_to_user_id": "2056458046277373952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069114492169154617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MILIDHM 这个我没吃过ovo 但是医生给我开的我正常吃都晕 断了更是一周内天旋地转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068927953724182896",
+        "created_at": "2026-06-23T05:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069299312807547128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2056458046277373952",
+              "start": 0,
+              "username": "MILIDHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069299312807547128",
+        "in_reply_to_user_id": "2056458046277373952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069114492169154617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MILIDHM 这个我没吃过ovo 但是医生给我开的我正常吃都晕 断了更是一周内天旋地转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056458046277373952",
+        "conversation_id": "2068927953724182896",
+        "created_at": "2026-06-22T17:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069114492169154617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069114492169154617",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068927953724182896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 谁能自己把劳拉西泮断了我真算ta牛逼+不要命，哪怕只是延迟了一个小时左右，只要过了药效时间头痛恶心天旋地转全齐，我一个喝酒基本上靠着东西都能站稳的人根本顶不住劳拉西泮，扶着墙都往地上倒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39174,
+          "following_count": 230,
+          "like_count": 2982,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6032
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T19:33:11.000Z",
+        "description": "我的猫真的很可爱你知道吗？\n知道你就s……是个非常懂得欣赏的人呢【点头】",
+        "id": "2056458046277373952",
+        "name": "我那么多的关注你们去哪了QAQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056460498695241728/-if2n9Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "MILIDHM",
+        "verified": false
+      }
+    ]
+  }
+}

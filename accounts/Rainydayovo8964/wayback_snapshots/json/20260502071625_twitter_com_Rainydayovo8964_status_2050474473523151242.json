@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050474473523151242",
+    "created_at": "2026-05-02T07:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050474473523151242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainydayovo896…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/rainydayovo8964/status/2042795201652232665",
+          "start": 123,
+          "url": "https://t.co/6zQgA5avjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050474473523151242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042795201652232665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续是购买了兔奶奶假睫毛 柏瑞美定妆喷雾  canmake 卧蚕 橘子面霜（试用） ooo修容 五月季眼线胶笔  歌剧魅影遮瑕膏  粉底原来有是pl的 粉饼也是之前的花间颂的 已严肃观看方圆圆  原谅我的拖延症 ..我觉得我应该买个唇釉或者口红 https://t.co/6zQgA5avjq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T07:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050474473523151242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainydayovo896…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/rainydayovo8964/status/2042795201652232665",
+              "start": 123,
+              "url": "https://t.co/6zQgA5avjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050474473523151242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续是购买了兔奶奶假睫毛 柏瑞美定妆喷雾  canmake 卧蚕 橘子面霜（试用） ooo修容 五月季眼线胶笔  歌剧魅影遮瑕膏  粉底原来有是pl的 粉饼也是之前的花间颂的 已严肃观看方圆圆  原谅我的拖延症 ..我觉得我应该买个唇釉或者口红 https://t.co/6zQgA5avjq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T02:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042795201652232665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042795201652232665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1009,
+          "impression_count": 135410,
+          "like_count": 1861,
+          "quote_count": 8,
+          "reply_count": 360,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "我想要一些好用的化妆用品..25了还不太会化妆…很多都是团购化的..都不太好看 好难过..我一定要学会化妆！🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38925,
+          "following_count": 207,
+          "like_count": 2801,
+          "listed_count": 131,
+          "media_count": 416,
+          "tweet_count": 5414
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

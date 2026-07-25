@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040348408935022688",
+    "created_at": "2026-04-04T10:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040374396913914231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038840002831093760",
+          "start": 0,
+          "username": "ChillyAbysuol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040374396913914231",
+    "in_reply_to_user_id": "2038840002831093760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040364804427391388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChillyAbysuol 这个我更害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040348408935022688",
+        "created_at": "2026-04-04T10:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040374396913914231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038840002831093760",
+              "start": 0,
+              "username": "ChillyAbysuol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040374396913914231",
+        "in_reply_to_user_id": "2038840002831093760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040364804427391388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChillyAbysuol 这个我更害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038840002831093760",
+        "conversation_id": "2040348408935022688",
+        "created_at": "2026-04-04T09:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040364804427391388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040364804427391388",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040348408935022688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实我觉得🚬也可以减肥 会抑制食欲…（宝宝如果不抽就当我没说w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38334,
+          "following_count": 191,
+          "like_count": 2452,
+          "listed_count": 134,
+          "media_count": 386,
+          "tweet_count": 4628
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T04:46:14.000Z",
+        "description": "所见即我",
+        "id": "2038840002831093760",
+        "name": "ChillyAbyss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038888688151846912/Ejbnwae1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "ChillyAbysuol",
+        "verified": false
+      }
+    ]
+  }
+}

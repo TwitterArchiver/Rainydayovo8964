@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-31T10:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038924049452249132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839033914632830976",
+          "start": 0,
+          "username": "YuovoNuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038924049452249132",
+    "in_reply_to_user_id": "1839033914632830976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038673357260968345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuovoNuo 我还支持过我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T10:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038924049452249132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839033914632830976",
+              "start": 0,
+              "username": "YuovoNuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038924049452249132",
+        "in_reply_to_user_id": "1839033914632830976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038673357260968345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuovoNuo 我还支持过我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839033914632830976",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T17:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038673357260968345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038673357260968345",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 尤其是她那句“我从来没说过我很穷”给我看的不知道说啥好了 18岁生日家里人就送了一辆17w的车… 而且早期视频给人一种家里很穷的感觉 她就是在营造和引导罢了 粉丝看她直播带货还去下单支持…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38246,
+          "following_count": 188,
+          "like_count": 2398,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4511
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T20:07:25.000Z",
+        "description": "",
+        "id": "1839033914632830976",
+        "name": "天真以为",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009712555552276480/HGgwM8Uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "YuovoNuo",
+        "verified": false
+      }
+    ]
+  }
+}

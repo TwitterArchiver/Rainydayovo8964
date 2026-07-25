@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040791896302514596",
+    "created_at": "2026-04-05T15:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040816352643199422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784103367889080320",
+          "start": 0,
+          "username": "chy798724487304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040816352643199422",
+    "in_reply_to_user_id": "1784103367889080320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040814254329335949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chy798724487304 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040816352643199422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784103367889080320",
+              "start": 0,
+              "username": "chy798724487304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040816352643199422",
+        "in_reply_to_user_id": "1784103367889080320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040814254329335949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chy798724487304 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784103367889080320",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040814254329335949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040814254329335949",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040791896302514596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 白屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38270,
+          "following_count": 196,
+          "like_count": 2508,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4699
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T06:12:52.000Z",
+        "description": "🚪｜brat万岁😋｜一些碎碎念&涩涩｜不线下 那些月抛自我介绍的人别给我发私信｜有话直说｜手控控控🤤！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimiovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mimiovo",
+                "start": 0,
+                "url": "https://t.co/Dt3EZGmLBw"
+              }
+            ]
+          }
+        },
+        "id": "1784103367889080320",
+        "name": "一只萌郁咪",
+        "pinned_tweet_id": "1825768332366328129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017982810188103680/CeeziVl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17706,
+          "following_count": 430,
+          "like_count": 61193,
+          "listed_count": 60,
+          "media_count": 208,
+          "tweet_count": 4929
+        },
+        "url": "https://t.co/Dt3EZGmLBw",
+        "username": "chy798724487304",
+        "verified": false
+      }
+    ]
+  }
+}

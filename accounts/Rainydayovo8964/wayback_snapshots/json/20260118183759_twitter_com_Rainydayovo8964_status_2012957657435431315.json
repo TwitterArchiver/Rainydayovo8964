@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012957579605901312"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2012957657435431315",
+    "created_at": "2026-01-18T18:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012957657435431315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DE5YozHE4D",
+          "end": 40,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2012957657435431315/video/1",
+          "media_key": "13_2012957579605901312",
+          "start": 17,
+          "url": "https://t.co/DE5YozHE4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012957657435431315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我常常告诉自己半夜不要发骚了…. https://t.co/DE5YozHE4D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23900,
+        "height": 776,
+        "media_key": "13_2012957579605901312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012957579605901312/img/VAQox-t73BCRW5So.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012957579605901312/vid/avc1/320x396/bPf-3ctMBcIB9YiD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012957579605901312/vid/avc1/480x596/ISaBFyZMdnv4JQOU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012957579605901312/vid/avc1/624x776/Hp0tbAxaO7B6XwnT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012957579605901312/pl/JJsSdd0m6r044W2s.m3u8"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012957579605901312"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2012957657435431315",
+        "created_at": "2026-01-18T18:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012957657435431315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE5YozHE4D",
+              "end": 40,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2012957657435431315/video/1",
+              "media_key": "13_2012957579605901312",
+              "start": 17,
+              "url": "https://t.co/DE5YozHE4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012957657435431315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我常常告诉自己半夜不要发骚了…. https://t.co/DE5YozHE4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39191,
+          "following_count": 167,
+          "like_count": 2052,
+          "listed_count": 131,
+          "media_count": 351,
+          "tweet_count": 3735
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

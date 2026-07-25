@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040791896302514596",
+    "created_at": "2026-04-05T15:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040816429340213285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655514709733302273",
+          "start": 0,
+          "username": "Destiny_26X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040816429340213285",
+    "in_reply_to_user_id": "1655514709733302273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040814911878750388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Destiny_26X 我不行了 白斩鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040816429340213285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655514709733302273",
+              "start": 0,
+              "username": "Destiny_26X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040816429340213285",
+        "in_reply_to_user_id": "1655514709733302273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040814911878750388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Destiny_26X 我不行了 白斩鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655514709733302273",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040814911878750388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040814911878750388",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040791896302514596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 白鸡哈哈哈哈我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38270,
+          "following_count": 196,
+          "like_count": 2508,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4700
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:07:30.000Z",
+        "description": "🚪52(加q纯绿闲聊 )88(聊骚偶尔爆图片)  所有🚪非特殊情况不退费，请冷静且慎重考虑\n   人形小猫｜m＞s｜brat｜1i＞4i｜摩羯intj｜不回未关注人的私信，谢谢 (防走失@Wildcat_YRX)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Wildcat_YRX"
+              }
+            ]
+          }
+        },
+        "id": "1655514709733302273",
+        "location": "自由",
+        "name": "等雪夜",
+        "pinned_tweet_id": "2039968881931071773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025251643194015745/gdqD9fF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 120,
+          "like_count": 1150,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 574
+        },
+        "username": "Destiny_26X",
+        "verified": false
+      }
+    ]
+  }
+}

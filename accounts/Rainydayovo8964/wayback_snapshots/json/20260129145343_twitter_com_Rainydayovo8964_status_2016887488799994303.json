@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2016887488799994303",
+    "created_at": "2026-01-29T14:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016887488799994303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1250770703088902144",
+          "start": 3,
+          "username": "Mumu__ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016887488799994303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016190071746236869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Mumu__ovo: 总会通过自毁的方式获得一点慰藉，把痛苦从左手倒腾去右手。其实也用不上自毁这种看起来很重的词，只是在逃避，在掩盖，在忽视，在破罐子破摔，然后被摔得粉碎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2016887488799994303",
+        "created_at": "2026-01-29T14:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016887488799994303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1250770703088902144",
+              "start": 3,
+              "username": "Mumu__ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016887488799994303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016190071746236869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Mumu__ovo: 总会通过自毁的方式获得一点慰藉，把痛苦从左手倒腾去右手。其实也用不上自毁这种看起来很重的词，只是在逃避，在掩盖，在忽视，在破罐子破摔，然后被摔得粉碎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250770703088902144",
+        "conversation_id": "2016190071746236869",
+        "created_at": "2026-01-27T16:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016190071746236869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016190071746236869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5660,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "总会通过自毁的方式获得一点慰藉，把痛苦从左手倒腾去右手。其实也用不上自毁这种看起来很重的词，只是在逃避，在掩盖，在忽视，在破罐子破摔，然后被摔得粉碎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38772,
+          "following_count": 171,
+          "like_count": 2106,
+          "listed_count": 133,
+          "media_count": 368,
+          "tweet_count": 3893
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T12:59:18.000Z",
+        "description": "推文内容不接受转载进墙内。背景图一目了然。",
+        "id": "1250770703088902144",
+        "name": "Mumu",
+        "pinned_tweet_id": "1607792933524373504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920557297186582528/m-A6c3vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193337,
+          "following_count": 65,
+          "like_count": 1014,
+          "listed_count": 267,
+          "media_count": 126,
+          "tweet_count": 3021
+        },
+        "username": "Mumu__ovo",
+        "verified": true
+      }
+    ]
+  }
+}

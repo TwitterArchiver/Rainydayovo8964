@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048661844274082280",
+    "created_at": "2026-04-27T16:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048808816268238927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825922373545283584",
+          "start": 0,
+          "username": "ygdpm121314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048808816268238927",
+    "in_reply_to_user_id": "1825922373545283584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048803598667321822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygdpm121314 谢谢你的回复 但是对于这个例子可能我无法苟同亲爱的朋友 还是再次感谢你 我发这个帖子也并不是只看钱 对钱特别看重的意思 也没有陷入有钱就好的想法 我更多是对于没有办法改变现实经济状况的和个人能力不足和无奈 钱确实不是必需品 但是我们必须承认一定程度的钱能给人带来幸福 最后还是谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048661844274082280",
+        "created_at": "2026-04-27T16:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048808816268238927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825922373545283584",
+              "start": 0,
+              "username": "ygdpm121314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048808816268238927",
+        "in_reply_to_user_id": "1825922373545283584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048803598667321822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygdpm121314 谢谢你的回复 但是对于这个例子可能我无法苟同亲爱的朋友 还是再次感谢你 我发这个帖子也并不是只看钱 对钱特别看重的意思 也没有陷入有钱就好的想法 我更多是对于没有办法改变现实经济状况的和个人能力不足和无奈 钱确实不是必需品 但是我们必须承认一定程度的钱能给人带来幸福 最后还是谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825922373545283584",
+        "conversation_id": "2048661844274082280",
+        "created_at": "2026-04-27T16:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048803598667321822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048803598667321822",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只看钱的话，那无论多少钱都不够；\n\n之前看过一期鲁豫的博客和许知远聊天，然后许知远说城市之光书店要出售，那一刻他觉得要是有钱就好了，就能把那个店给买下来；\n\n鲁豫听完了说太懂这个感受了，当年有个什么庄园要出售的时候，她心里也是这个想法，如果有钱买该多好；\n\n他俩这样的收入的人，碰到自己真正想要的东西都会跟普通人一样，两眼放光，觉得自己兜里的钱不够；\n\n所以如果只看钱的话，就很难在金钱上变得自由，年轻的时候想租个好房子，买个lv，后来想买车买房，更有钱的人买别墅游艇；\n\n只要有了「我有钱就好了这个想法」就容易陷入到无法解决的痛苦之中，而大多数人也没穷到吃不起饭的程度，所以也没必要感觉到不舒服，所有人都一样，哪怕强如马斯克，也会想要更多的钱，拥有更多的算力，造更多的火箭。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048661844274082280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 只看钱的话，那无论多少钱都不够；\n\n之前看过一期鲁豫的博客和许知远聊天，然后许知远说城市之光书店要出售，那一刻他觉得要是有钱就好了，就能把那个店给买下来；\n\n鲁豫听完了说太懂这个感受了，当年有个什么庄园要出售的时候，她心里也是这个想法，如果有钱买该多好；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38785,
+          "following_count": 207,
+          "like_count": 2788,
+          "listed_count": 128,
+          "media_count": 415,
+          "tweet_count": 5390
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T15:46:38.000Z",
+        "description": "🧍‍♂️男的，本职是个设计师 💻给自己打工 👀谢谢您看我，看我笑话就好",
+        "id": "1825922373545283584",
+        "name": "张秋之聊赚钱",
+        "pinned_tweet_id": "2032793649415860495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964708770149539841/GJ3wMt70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "ygdpm121314",
+        "verified": true
+      }
+    ]
+  }
+}

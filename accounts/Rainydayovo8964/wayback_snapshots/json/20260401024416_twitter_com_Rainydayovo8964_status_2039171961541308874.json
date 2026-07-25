@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038488099626586247",
+    "created_at": "2026-04-01T02:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039171961541308874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1121214017941323776",
+          "start": 0,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039171961541308874",
+    "in_reply_to_user_id": "1121214017941323776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038488099626586247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akf13978 我也想去。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038488077912743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoqG0LboAAXTgc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038482222492327936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEokx_CaoAALQjo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038488022237552640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoqDkxboAAf0g_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038488096875192321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoqH60boAEuM5m.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038488099626586247",
+        "created_at": "2026-04-01T02:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039171961541308874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1121214017941323776",
+              "start": 0,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039171961541308874",
+        "in_reply_to_user_id": "1121214017941323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038488099626586247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akf13978 我也想去。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038488077912743936",
+            "3_2038482222492327936",
+            "3_2038488022237552640",
+            "3_2038488096875192321"
+          ]
+        },
+        "author_id": "1121214017941323776",
+        "conversation_id": "2038488099626586247",
+        "created_at": "2026-03-30T05:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038488099626586247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yndOsVq2P9",
+              "end": 38,
+              "expanded_url": "https://x.com/akf13978/status/2038488099626586247/photo/1",
+              "media_key": "3_2038488077912743936",
+              "start": 15,
+              "url": "https://t.co/yndOsVq2P9"
+            },
+            {
+              "display_url": "pic.x.com/yndOsVq2P9",
+              "end": 38,
+              "expanded_url": "https://x.com/akf13978/status/2038488099626586247/photo/1",
+              "media_key": "3_2038482222492327936",
+              "start": 15,
+              "url": "https://t.co/yndOsVq2P9"
+            },
+            {
+              "display_url": "pic.x.com/yndOsVq2P9",
+              "end": 38,
+              "expanded_url": "https://x.com/akf13978/status/2038488099626586247/photo/1",
+              "media_key": "3_2038488022237552640",
+              "start": 15,
+              "url": "https://t.co/yndOsVq2P9"
+            },
+            {
+              "display_url": "pic.x.com/yndOsVq2P9",
+              "end": 38,
+              "expanded_url": "https://x.com/akf13978/status/2038488099626586247/photo/1",
+              "media_key": "3_2038488096875192321",
+              "start": 15,
+              "url": "https://t.co/yndOsVq2P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038488099626586247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么知道我看上了徐良演唱会 https://t.co/yndOsVq2P9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38278,
+          "following_count": 190,
+          "like_count": 2414,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4565
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "不常刷推/随口吐槽/碎碎念/会念念感兴趣的本/匿名箱https://t.co/j4ai6uVINK小号@akst7212",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akst7212"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/alxg137/",
+                "end": 49,
+                "expanded_url": "https://ngl.link/alxg137/",
+                "start": 26,
+                "url": "https://t.co/j4ai6uVINK"
+              }
+            ]
+          }
+        },
+        "id": "1121214017941323776",
+        "location": "Hong Kong",
+        "name": "青由也",
+        "pinned_tweet_id": "1952946652207325255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988332886970560514/p1dFkvIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 839,
+          "like_count": 1369,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 1923
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

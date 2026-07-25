@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T03:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048247389153300483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916509250005991425",
+          "start": 0,
+          "username": "hhsjssnns39550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048247389153300483",
+    "in_reply_to_user_id": "1916509250005991425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048241305529229314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhsjssnns39550 其实我想说的就是没有代入感这一点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T03:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048247389153300483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916509250005991425",
+              "start": 0,
+              "username": "hhsjssnns39550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048247389153300483",
+        "in_reply_to_user_id": "1916509250005991425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048241305529229314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhsjssnns39550 其实我想说的就是没有代入感这一点。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916509250005991425",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T03:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048241305529229314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048241305529229314",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我约过一次  老师蛮帅的 情绪价值也一直给 感觉到一直被照顾 但就是没有代入感吧 最有代入感的是看到老师的背影的时候 想的是 如果他在的话 应该也会是这样的吧。后面就不想再约委托啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38430,
+          "following_count": 208,
+          "like_count": 2769,
+          "listed_count": 115,
+          "media_count": 412,
+          "tweet_count": 5328
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T15:06:50.000Z",
+        "description": "🈚️…",
+        "id": "1916509250005991425",
+        "name": "青苹果🍏",
+        "pinned_tweet_id": "2046593573819469886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044810746056605696/X5MB_iom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "username": "hhsjssnns39550",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2079129357399085444",
+    "created_at": "2026-07-20T13:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079194951351709956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857265549576949760",
+          "start": 0,
+          "username": "Natila611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079194951351709956",
+    "in_reply_to_user_id": "1857265549576949760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079193699393909242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natila611 好的关注你了老师！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2079129357399085444",
+        "created_at": "2026-07-20T13:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079194951351709956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857265549576949760",
+              "start": 0,
+              "username": "Natila611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079194951351709956",
+        "in_reply_to_user_id": "1857265549576949760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079193699393909242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natila611 好的关注你了老师！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857265549576949760",
+        "conversation_id": "2079129357399085444",
+        "created_at": "2026-07-20T13:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079193699393909242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079193699393909242",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079129357399085444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 还在coding，搭和ai聊天然后控制玩具的那种，这个有点复杂还在搭建ing大家有兴趣可以关注一下我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39250,
+          "following_count": 237,
+          "like_count": 3007,
+          "listed_count": 129,
+          "media_count": 442,
+          "tweet_count": 6134
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T03:33:18.000Z",
+        "description": "和现实世界相反的另外一个人格 🫠",
+        "id": "1857265549576949760",
+        "name": "natila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939854949174939648/tGU9gMe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 282,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Natila611",
+        "verified": false
+      }
+    ]
+  }
+}

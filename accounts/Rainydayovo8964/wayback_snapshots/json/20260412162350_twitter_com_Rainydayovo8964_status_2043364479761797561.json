@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043362833644310695",
+    "created_at": "2026-04-12T16:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043364479761797561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042203854817878016",
+          "start": 0,
+          "username": "WenZhiQiangwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043364479761797561",
+    "in_reply_to_user_id": "2042203854817878016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043364210407854564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenZhiQiangwei 我一直在哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2043364202489028610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt86nwboAIepT0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-12T16:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043364479761797561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042203854817878016",
+              "start": 0,
+              "username": "WenZhiQiangwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043364479761797561",
+        "in_reply_to_user_id": "2042203854817878016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043364210407854564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenZhiQiangwei 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043364202489028610"
+          ]
+        },
+        "author_id": "2042203854817878016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-12T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043364210407854564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyZbcLwd2c",
+              "end": 40,
+              "expanded_url": "https://x.com/WenZhiQiangwei/status/2043364210407854564/photo/1",
+              "media_key": "3_2043364202489028610",
+              "start": 17,
+              "url": "https://t.co/NyZbcLwd2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043364210407854564",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362833644310695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 https://t.co/NyZbcLwd2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37820,
+          "following_count": 197,
+          "like_count": 2670,
+          "listed_count": 123,
+          "media_count": 402,
+          "tweet_count": 5057
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T11:33:08.000Z",
+        "description": "可以一起玩三角洲的私我，可以一起跑刀，也可以一起猛攻。不过比较菜",
+        "id": "2042203854817878016",
+        "name": "WenZhiQiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042204278589394945/P7QS5vsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "username": "WenZhiQiangwei",
+        "verified": false
+      }
+    ]
+  }
+}

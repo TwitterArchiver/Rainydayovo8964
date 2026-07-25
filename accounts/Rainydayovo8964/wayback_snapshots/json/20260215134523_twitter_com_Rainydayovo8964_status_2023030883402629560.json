@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2023030883402629560",
+    "created_at": "2026-02-15T13:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023030883402629560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023030883402629560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现有钱的网红情侣大部分一到结婚就预热 拍很多订婚的照片 不是干涉别人生活的意思 但是搞那种倒计时 还有一订婚 一打开主页连续十多个视频全都是有关订婚的话题 什么意思 什么推荐三金推荐五金 其实她们推荐的普通人根本买不起 .."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2023030883402629560",
+        "created_at": "2026-02-15T13:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023030883402629560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023030883402629560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现有钱的网红情侣大部分一到结婚就预热 拍很多订婚的照片 不是干涉别人生活的意思 但是搞那种倒计时 还有一订婚 一打开主页连续十多个视频全都是有关订婚的话题 什么意思 什么推荐三金推荐五金 其实她们推荐的普通人根本买不起 .."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38812,
+          "following_count": 173,
+          "like_count": 2161,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4038
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

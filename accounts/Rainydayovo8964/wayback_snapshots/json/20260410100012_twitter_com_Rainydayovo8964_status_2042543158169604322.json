@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042479825412395079",
+    "created_at": "2026-04-10T10:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042543158169604322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613468646323675138",
+          "start": 0,
+          "username": "KanameSamui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042543158169604322",
+    "in_reply_to_user_id": "1613468646323675138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042479825412395079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanameSamui 你还会这玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042479825412395079",
+        "created_at": "2026-04-10T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042543158169604322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613468646323675138",
+              "start": 0,
+              "username": "KanameSamui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042543158169604322",
+        "in_reply_to_user_id": "1613468646323675138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042479825412395079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanameSamui 你还会这玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613468646323675138",
+        "conversation_id": "2042479825412395079",
+        "created_at": "2026-04-10T05:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042479825412395079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042479825412395079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没玩舞萌我现在像四肢未开化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37927,
+          "following_count": 196,
+          "like_count": 2568,
+          "listed_count": 125,
+          "media_count": 398,
+          "tweet_count": 4910
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T09:31:24.000Z",
+        "description": "赛博算卦小摊+不知名碎碎念bot，偶尔也作为不知名歌手。",
+        "id": "1613468646323675138",
+        "name": "Kaname",
+        "pinned_tweet_id": "2041315300059271376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943915995493548033/fo6vdA8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 47,
+          "like_count": 2523,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 308
+        },
+        "username": "KanameSamui",
+        "verified": false
+      }
+    ]
+  }
+}

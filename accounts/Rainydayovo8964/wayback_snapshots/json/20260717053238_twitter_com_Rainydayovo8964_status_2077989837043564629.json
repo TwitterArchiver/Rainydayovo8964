@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2077989837043564629",
+    "created_at": "2026-07-17T05:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077989837043564629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ehugpkuv582579…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ehugpkuv582579/status/2077979663516000487",
+          "start": 16,
+          "url": "https://t.co/tLAr4nh3Xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077989837043564629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077979663516000487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈妈 我老公 我媳妇 我家人 https://t.co/tLAr4nh3Xt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077979660332527616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ3fdCbcAAaZl8.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2077989837043564629",
+        "created_at": "2026-07-17T05:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077989837043564629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ehugpkuv582579…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ehugpkuv582579/status/2077979663516000487",
+              "start": 16,
+              "url": "https://t.co/tLAr4nh3Xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077989837043564629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077979663516000487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈妈 我老公 我媳妇 我家人 https://t.co/tLAr4nh3Xt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077979660332527616"
+          ]
+        },
+        "author_id": "1874179938594807809",
+        "conversation_id": "2077979663516000487",
+        "created_at": "2026-07-17T04:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077979663516000487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1868530828852297728",
+              "start": 12,
+              "username": "jiujing_deng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoV1pCYTTI",
+              "end": 58,
+              "expanded_url": "https://x.com/ehugpkuv582579/status/2077979663516000487/photo/1",
+              "media_key": "3_2077979660332527616",
+              "start": 35,
+              "url": "https://t.co/PoV1pCYTTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077979663516000487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝子们我是酒精灯呀\n前世@jiujing_deng\n我这号登不上去惹 https://t.co/PoV1pCYTTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39261,
+          "following_count": 233,
+          "like_count": 2995,
+          "listed_count": 129,
+          "media_count": 440,
+          "tweet_count": 6113
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T19:44:57.000Z",
+        "description": "多周目",
+        "id": "1874179938594807809",
+        "name": "老公你别走",
+        "pinned_tweet_id": "2076692039836848391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074515085046022144/aVATmIaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "ehugpkuv582579",
+        "verified": false
+      }
+    ]
+  }
+}

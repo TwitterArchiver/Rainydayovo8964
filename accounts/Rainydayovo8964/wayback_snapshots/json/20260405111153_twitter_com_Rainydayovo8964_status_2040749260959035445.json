@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040678633652781324",
+    "created_at": "2026-04-05T11:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040749260959035445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040667541593538560",
+          "start": 0,
+          "username": "yuanovo66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040749260959035445",
+    "in_reply_to_user_id": "2040667541593538560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040678633652781324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanovo66 到底说了多少个好吧 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 310226,
+        "height": 1280,
+        "media_key": "13_2040678113802321920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040678113802321920/img/B2O2BuEh67eEk34p.jpg",
+        "public_metrics": {
+          "view_count": 96647
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040678113802321920/vid/avc1/320x568/4j2PMxAduEV2X1aB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040678113802321920/vid/avc1/480x852/yQ4VD9mYLHplDGRi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040678113802321920/vid/avc1/720x1280/SS2HPjrPGQ_1NhWh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040678113802321920/pl/Hc1z6ih-mO7q8k3W.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040678633652781324",
+        "created_at": "2026-04-05T11:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040749260959035445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040667541593538560",
+              "start": 0,
+              "username": "yuanovo66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040749260959035445",
+        "in_reply_to_user_id": "2040667541593538560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040678633652781324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanovo66 到底说了多少个好吧 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040678113802321920"
+          ]
+        },
+        "author_id": "2040667541593538560",
+        "conversation_id": "2040678633652781324",
+        "created_at": "2026-04-05T06:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040678633652781324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQmhhMG7ZV",
+              "end": 80,
+              "expanded_url": "https://x.com/yuanovo66/status/2040678633652781324/video/1",
+              "media_key": "13_2040678113802321920",
+              "start": 57,
+              "url": "https://t.co/HQmhhMG7ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040678633652781324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1590,
+          "impression_count": 51136,
+          "like_count": 4579,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎收看 06年大户日常找少萝宝宝线下的vlog 也叫嫖客vlog 建议看完中间有doi纯享版 还有中不中特别版 https://t.co/HQmhhMG7ZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38274,
+          "following_count": 195,
+          "like_count": 2493,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4664
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T05:49:26.000Z",
+        "description": "少萝品鉴家 视频女主均已成年 合法小萝莉 🚪188 288 过门进tg群私信我 双向就在群里艾特我 tg粉丝群https://t.co/mfjfzmsvAq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wudixiaoxiaoyu…",
+                "end": 78,
+                "expanded_url": "https://t.me/wudixiaoxiaoyuan88",
+                "start": 55,
+                "url": "https://t.co/mfjfzmsvAq"
+              }
+            ]
+          }
+        },
+        "id": "2040667541593538560",
+        "name": "小远",
+        "pinned_tweet_id": "2040715134134628512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040671051840147456/piu6behC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 22
+        },
+        "username": "yuanovo66",
+        "verified": false
+      }
+    ]
+  }
+}

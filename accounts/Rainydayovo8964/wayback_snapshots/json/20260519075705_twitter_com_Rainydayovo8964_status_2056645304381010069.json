@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2056621568667844691",
+    "created_at": "2026-05-19T07:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056645304381010069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922566969653690368",
+          "start": 0,
+          "username": "dantataTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056645304381010069",
+    "in_reply_to_user_id": "1922566969653690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056621568667844691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dantataTvT 啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2056621568667844691",
+        "created_at": "2026-05-19T07:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056645304381010069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922566969653690368",
+              "start": 0,
+              "username": "dantataTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056645304381010069",
+        "in_reply_to_user_id": "1922566969653690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056621568667844691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dantataTvT 啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922566969653690368",
+        "conversation_id": "2056621568667844691",
+        "created_at": "2026-05-19T06:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056621568667844691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056621568667844691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2375,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们还搁这刷推特呢？人家搞网恋的都坐上高铁出发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38961,
+          "following_count": 216,
+          "like_count": 2943,
+          "listed_count": 129,
+          "media_count": 421,
+          "tweet_count": 5710
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:17:50.000Z",
+        "description": "你走进我的世界拥抱了我 从此我的世界只剩你\n288/520/1314/3344/5200",
+        "id": "1922566969653690368",
+        "location": "🚪↑↑（过门可接视频11，游戏陪玩“瓦神话，洲女护航”）",
+        "name": "蛋挞挞",
+        "pinned_tweet_id": "2056350848884883849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053083352719331328/3m7cypyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16157,
+          "following_count": 27,
+          "like_count": 9467,
+          "listed_count": 32,
+          "media_count": 30,
+          "tweet_count": 131
+        },
+        "username": "dantataTvT",
+        "verified": false
+      }
+    ]
+  }
+}

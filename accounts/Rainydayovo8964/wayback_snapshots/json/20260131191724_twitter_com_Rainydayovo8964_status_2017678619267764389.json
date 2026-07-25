@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2017565483005084095",
+    "created_at": "2026-01-31T19:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T20:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017678619267764389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394922863962955779",
+          "start": 0,
+          "username": "AKANBX666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017678619267764389",
+    "in_reply_to_user_id": "1394922863962955779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017654462060630467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKANBX666 然后还装自己多有实力 实际上都是拼多多 这种都是骗小孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2017565483005084095",
+        "created_at": "2026-01-31T19:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017678619267764389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394922863962955779",
+              "start": 0,
+              "username": "AKANBX666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017678619267764389",
+        "in_reply_to_user_id": "1394922863962955779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017654462060630467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKANBX666 然后还装自己多有实力 实际上都是拼多多 这种都是骗小孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394922863962955779",
+        "conversation_id": "2017565483005084095",
+        "created_at": "2026-01-31T17:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017654462060630467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017654462060630467",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017565483005084095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 看了几部片子，拿着拼夕夕9.9包邮的劣质sm十件套，开个钟点房，滴着廉价色素蜡烛，辣鸡APP上标注⭕️龄十年，自称手黑强制严厉，ID带大写S。😇这种最会骗双向，玉玉，小自己年龄很多的女孩了。自己都照顾不好，还去学人当爹，自称年上，唯一拿的出手的就是老。可怜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  只玩这个软件 其他平台默认盗图 发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38790,
+          "following_count": 169,
+          "like_count": 2124,
+          "listed_count": 133,
+          "media_count": 369,
+          "tweet_count": 3922
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T07:48:36.000Z",
+        "description": "关注的都是精品；只赞🐻小的；关注的都万粉爆火；xp广泛；驰名双标；拉黑我的死妈，嘻嘻",
+        "id": "1394922863962955779",
+        "name": "只关注🐻小的",
+        "pinned_tweet_id": "1966507430403277059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012120597447467008/b68jAR77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 6379,
+          "like_count": 8207,
+          "listed_count": 11,
+          "media_count": 150,
+          "tweet_count": 765
+        },
+        "username": "AKANBX666",
+        "verified": true
+      }
+    ]
+  }
+}

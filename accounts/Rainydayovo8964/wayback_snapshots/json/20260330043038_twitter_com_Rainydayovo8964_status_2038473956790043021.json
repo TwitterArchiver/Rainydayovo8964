@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T04:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038473956790043021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780028117920444416",
+          "start": 0,
+          "username": "moonouox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038473956790043021",
+    "in_reply_to_user_id": "1780028117920444416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038469723269243337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonouox 是的..倒不是说她的视频只是很反感经常营销父母重男轻女 营销治病妹妹 还有妹妹网恋啥的..家里本身也不穷 父母也给她买车 不懂哪里重男轻女不重视她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T04:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038473956790043021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780028117920444416",
+              "start": 0,
+              "username": "moonouox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038473956790043021",
+        "in_reply_to_user_id": "1780028117920444416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038469723269243337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonouox 是的..倒不是说她的视频只是很反感经常营销父母重男轻女 营销治病妹妹 还有妹妹网恋啥的..家里本身也不穷 父母也给她买车 不懂哪里重男轻女不重视她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780028117920444416",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T04:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038469723269243337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038469723269243337",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 。。我也很不喜欢这个，但是就是因为她拍的东西有割裂感才火的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38248,
+          "following_count": 187,
+          "like_count": 2381,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4469
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T00:19:17.000Z",
+        "description": "懊悔过去的选择是在欺负当年的自己",
+        "id": "1780028117920444416",
+        "name": "别惹我我有精神病",
+        "pinned_tweet_id": "1953051015600591211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038334867604406272/U8kzwaV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 309,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 394
+        },
+        "username": "moonouox",
+        "verified": false
+      }
+    ]
+  }
+}

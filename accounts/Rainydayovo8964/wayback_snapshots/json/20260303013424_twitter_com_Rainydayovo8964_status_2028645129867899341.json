@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2028625202645766275",
+    "created_at": "2026-03-03T01:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028645129867899341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1709565332669825024",
+          "start": 0,
+          "username": "CrowwwArmbrust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028645129867899341",
+    "in_reply_to_user_id": "1709565332669825024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028644799721717827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrowwwArmbrust 没招了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2028625202645766275",
+        "created_at": "2026-03-03T01:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028645129867899341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709565332669825024",
+              "start": 0,
+              "username": "CrowwwArmbrust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028645129867899341",
+        "in_reply_to_user_id": "1709565332669825024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028644799721717827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrowwwArmbrust 没招了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709565332669825024",
+        "conversation_id": "2028625202645766275",
+        "created_at": "2026-03-03T01:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028644799721717827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028644799721717827",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028625202645766275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 已经是一个熟练的打工人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的人类 完全都在乱哭诉 只玩这个软件",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38861,
+          "following_count": 178,
+          "like_count": 2236,
+          "listed_count": 136,
+          "media_count": 373,
+          "tweet_count": 4147
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T13:45:21.000Z",
+        "description": "",
+        "id": "1709565332669825024",
+        "name": "宿命蒼藍II",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027201234403520512/itEp4pXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "CrowwwArmbrust",
+        "verified": false
+      }
+    ]
+  }
+}

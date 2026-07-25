@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T04:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039196243055063042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791709647520387073",
+          "start": 0,
+          "username": "imc1482886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039196243055063042",
+    "in_reply_to_user_id": "1791709647520387073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039186985924104559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imc1482886 我就电饭锅空气炸锅炒锅 洗衣机 灯 冰箱 手机电脑！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T04:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039196243055063042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791709647520387073",
+              "start": 0,
+              "username": "imc1482886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039196243055063042",
+        "in_reply_to_user_id": "1791709647520387073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039186985924104559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imc1482886 我就电饭锅空气炸锅炒锅 洗衣机 灯 冰箱 手机电脑！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791709647520387073",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T03:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039186985924104559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039186985924104559",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039169231418531944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 很少了，你咋用的。不过现在用电器少。夏天可能会多些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38275,
+          "following_count": 190,
+          "like_count": 2422,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4574
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:57:31.000Z",
+        "description": "缺爱批  线上是个话痨  喜欢欣赏和夸夸，像个有情的夸夸机器人，可以多回我评论多和我互动聊天吗🥺🥺//男生男生男生！♂！别搞错了",
+        "id": "1791709647520387073",
+        "name": "imc",
+        "pinned_tweet_id": "2034553693119611156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967524423638097920/gtbYG5av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 69,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2594
+        },
+        "username": "imc1482886",
+        "verified": false
+      }
+    ]
+  }
+}

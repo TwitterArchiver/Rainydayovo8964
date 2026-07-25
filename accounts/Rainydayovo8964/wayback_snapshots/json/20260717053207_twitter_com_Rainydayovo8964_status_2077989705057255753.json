@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077979660332527616"
+      ],
+      "media_source_tweet_id": [
+        "2077979663516000487"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2077989705057255753",
+    "created_at": "2026-07-17T05:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077989705057255753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1874179938594807809",
+          "start": 3,
+          "username": "ehugpkuv582579"
+        },
+        {
+          "end": 45,
+          "id": "1868530828852297728",
+          "start": 32,
+          "username": "jiujing_deng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PoV1pCYTTI",
+          "end": 78,
+          "expanded_url": "https://x.com/ehugpkuv582579/status/2077979663516000487/photo/1",
+          "media_key": "3_2077979660332527616",
+          "start": 55,
+          "url": "https://t.co/PoV1pCYTTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077989705057255753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077979663516000487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ehugpkuv582579: 宝子们我是酒精灯呀\n前世@jiujing_deng\n我这号登不上去惹 https://t.co/PoV1pCYTTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077979660332527616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ3fdCbcAAaZl8.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077979660332527616"
+          ]
+        },
+        "author_id": "1874179938594807809",
+        "conversation_id": "2077979663516000487",
+        "created_at": "2026-07-17T04:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077979663516000487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1868530828852297728",
+              "start": 12,
+              "username": "jiujing_deng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoV1pCYTTI",
+              "end": 58,
+              "expanded_url": "https://x.com/ehugpkuv582579/status/2077979663516000487/photo/1",
+              "media_key": "3_2077979660332527616",
+              "start": 35,
+              "url": "https://t.co/PoV1pCYTTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077979663516000487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝子们我是酒精灯呀\n前世@jiujing_deng\n我这号登不上去惹 https://t.co/PoV1pCYTTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077979660332527616"
+          ],
+          "media_source_tweet_id": [
+            "2077979663516000487"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2077989705057255753",
+        "created_at": "2026-07-17T05:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077989705057255753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1874179938594807809",
+              "start": 3,
+              "username": "ehugpkuv582579"
+            },
+            {
+              "end": 45,
+              "id": "1868530828852297728",
+              "start": 32,
+              "username": "jiujing_deng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoV1pCYTTI",
+              "end": 78,
+              "expanded_url": "https://x.com/ehugpkuv582579/status/2077979663516000487/photo/1",
+              "media_key": "3_2077979660332527616",
+              "start": 55,
+              "url": "https://t.co/PoV1pCYTTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077989705057255753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077979663516000487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ehugpkuv582579: 宝子们我是酒精灯呀\n前世@jiujing_deng\n我这号登不上去惹 https://t.co/PoV1pCYTTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39261,
+          "following_count": 233,
+          "like_count": 2995,
+          "listed_count": 129,
+          "media_count": 440,
+          "tweet_count": 6112
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T19:44:57.000Z",
+        "description": "多周目",
+        "id": "1874179938594807809",
+        "name": "老公你别走",
+        "pinned_tweet_id": "2076692039836848391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074515085046022144/aVATmIaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "ehugpkuv582579",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T05:37:24.000Z",
+        "description": "",
+        "id": "1868530828852297728",
+        "name": "灯",
+        "pinned_tweet_id": "2031632631226577266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009697366908252161/O_tGDU4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 58,
+          "like_count": 888,
+          "listed_count": 7,
+          "media_count": 10,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "jiujing_deng",
+        "verified": false
+      }
+    ]
+  }
+}

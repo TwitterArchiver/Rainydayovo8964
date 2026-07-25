@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041892413439144026",
+    "created_at": "2026-04-08T15:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041901357750481137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597009303663091717",
+          "start": 0,
+          "username": "ShenZhiXiaoYe"
+        },
+        {
+          "end": 24,
+          "id": "1552529965371236352",
+          "start": 15,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 34,
+          "id": "1732486642525474816",
+          "start": 25,
+          "username": "ToBuerma"
+        },
+        {
+          "end": 47,
+          "id": "1591137880688144384",
+          "start": 35,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 58,
+          "id": "1847568958507098112",
+          "start": 48,
+          "username": "BulmaList"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041901357750481137",
+    "in_reply_to_user_id": "1597009303663091717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041892413439144026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenZhiXiaoYe @ToBulaer @ToBuerma @KawasawaSen @BulmaList 这个门哥的指甲怎么如此之白"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112700,
+        "height": 720,
+        "media_key": "13_2041890090839097344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041890090839097344/img/nkl-q_Ny-T25rQH8.jpg",
+        "public_metrics": {
+          "view_count": 942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041890090839097344/vid/avc1/480x270/X2SpC9QSNQzmdoxp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041890090839097344/vid/avc1/640x360/4RvMCqTSGZLGCfZ9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041890090839097344/vid/avc1/1280x720/ayPvCSp_Rz6habKP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041890090839097344/pl/fjMOOPtKt9s_3XYR.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041892413439144026",
+        "created_at": "2026-04-08T15:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041901357750481137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597009303663091717",
+              "start": 0,
+              "username": "ShenZhiXiaoYe"
+            },
+            {
+              "end": 24,
+              "id": "1552529965371236352",
+              "start": 15,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 34,
+              "id": "1732486642525474816",
+              "start": 25,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 47,
+              "id": "1591137880688144384",
+              "start": 35,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 58,
+              "id": "1847568958507098112",
+              "start": 48,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041901357750481137",
+        "in_reply_to_user_id": "1597009303663091717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041892413439144026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenZhiXiaoYe @ToBulaer @ToBuerma @KawasawaSen @BulmaList 这个门哥的指甲怎么如此之白"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041890090839097344"
+          ]
+        },
+        "author_id": "1597009303663091717",
+        "conversation_id": "2041892413439144026",
+        "created_at": "2026-04-08T14:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041892413439144026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1552529965371236352",
+              "start": 15,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 34,
+              "id": "1732486642525474816",
+              "start": 25,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 47,
+              "id": "1591137880688144384",
+              "start": 35,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 58,
+              "id": "1847568958507098112",
+              "start": 48,
+              "username": "BulmaList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8kraGOkNu",
+              "end": 82,
+              "expanded_url": "https://x.com/ShenZhiXiaoYe/status/2041892413439144026/video/1",
+              "media_key": "13_2041890090839097344",
+              "start": 59,
+              "url": "https://t.co/x8kraGOkNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041892413439144026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2094,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "会吸会夹的小野酱上线\n\n-\n\n@ToBulaer @ToBuerma\n@KawasawaSen @BulmaList https://t.co/x8kraGOkNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38116,
+          "following_count": 198,
+          "like_count": 2559,
+          "listed_count": 127,
+          "media_count": 394,
+          "tweet_count": 4857
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T23:27:52.000Z",
+        "description": "小野日记 🚪520/1314",
+        "id": "1597009303663091717",
+        "name": "小野神",
+        "pinned_tweet_id": "2041092976743768218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603813335119675398/gzVVguyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72608,
+          "following_count": 62,
+          "like_count": 317,
+          "listed_count": 169,
+          "media_count": 61,
+          "tweet_count": 94
+        },
+        "username": "ShenZhiXiaoYe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "#分享美好 #AdultArt 《 佳佳🔞 @jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨竹心@zhuxin019丨梵高@bhab3531丨妹团@saxenarupali",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "分享美好"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "AdultArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "naitaocos"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "hancos8"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "zhuxin019"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "bhab3531"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "saxenarupali"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobulma.com",
+                "end": 23,
+                "expanded_url": "https://www.tobulma.com/",
+                "start": 0,
+                "url": "https://t.co/GLSl5ILkl6"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "我未关注则有概率盗图，理性消费💰",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1996642671218381236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940022,
+          "following_count": 1189,
+          "like_count": 3,
+          "listed_count": 2886,
+          "media_count": 0,
+          "tweet_count": 29868
+        },
+        "url": "https://t.co/GLSl5ILkl6",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-12-06T19:46:19.000Z",
+        "description": "认证私@kawasawasen〖 💯佳佳@jiajiapaly丨团团@TuanCosWW 茶茶@naitaocos丨菡菡 @hancos8丨梵高@bhab3531丨妹团@saxenarupali",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "kawasawasen"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "naitaocos"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "hancos8"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "bhab3531"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "saxenarupali"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XBulma/118",
+                "end": 23,
+                "expanded_url": "http://t.me/XBulma/118",
+                "start": 0,
+                "url": "https://t.co/OC0aUSFZHk"
+              }
+            ]
+          }
+        },
+        "id": "1732486642525474816",
+        "location": "只关注原创真人，不担保，谨慎消💰",
+        "name": "ToBuerma",
+        "pinned_tweet_id": "1989579694061322444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007698552248774658/4TsQBKX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796521,
+          "following_count": 426,
+          "like_count": 5,
+          "listed_count": 1643,
+          "media_count": 0,
+          "tweet_count": 8597
+        },
+        "url": "https://t.co/OC0aUSFZHk",
+        "username": "ToBuerma",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "私信沉下去 请多发几次\n〖 佳佳🔞@jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨梵高@bhab3531丨妹团@saxenarupali",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "naitaocos"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "hancos8"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "bhab3531"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "saxenarupali"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/UbdhSf2jbC"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "真人冲浪裙👉🏿",
+        "name": "川泽森",
+        "pinned_tweet_id": "1900419025198604514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101154,
+          "following_count": 38,
+          "like_count": 4,
+          "listed_count": 3741,
+          "media_count": 0,
+          "tweet_count": 24554
+        },
+        "url": "https://t.co/UbdhSf2jbC",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T09:22:38.000Z",
+        "description": "#唯一 100％纯原创榜单中心 「佳佳🔞@jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨梵高@bhab3531丨妹团@saxenarupali",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "唯一"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "naitaocos"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "hancos8"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "bhab3531"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "saxenarupali"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/4CdNsCOD4c"
+              }
+            ]
+          }
+        },
+        "id": "1847568958507098112",
+        "location": "——真人🧵下—— → ",
+        "name": "原创榜单",
+        "pinned_tweet_id": "2008020711416447167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007832670999617536/xtmrpetV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385546,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 881,
+          "media_count": 0,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/4CdNsCOD4c",
+        "username": "BulmaList",
+        "verified": false
+      }
+    ]
+  }
+}

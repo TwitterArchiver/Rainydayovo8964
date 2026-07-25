@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2029780207654293656",
+    "created_at": "2026-03-08T02:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030477327453602260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981254278074540035",
+          "start": 0,
+          "username": "xxbbcookie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030477327453602260",
+    "in_reply_to_user_id": "1981254278074540035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030312372225646738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxbbcookie 我就说总有人羡慕我的农村户口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2029780207654293656",
+        "created_at": "2026-03-08T02:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030477327453602260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981254278074540035",
+              "start": 0,
+              "username": "xxbbcookie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030477327453602260",
+        "in_reply_to_user_id": "1981254278074540035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030312372225646738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxbbcookie 我就说总有人羡慕我的农村户口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981254278074540035",
+        "conversation_id": "2029780207654293656",
+        "created_at": "2026-03-07T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030312372225646738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030312372225646738",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029780207654293656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我就说总有人羡慕我的农村户口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38745,
+          "following_count": 182,
+          "like_count": 2259,
+          "listed_count": 136,
+          "media_count": 373,
+          "tweet_count": 4168
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T07:00:18.000Z",
+        "description": "我就这样呆萌且懵逼得看着这个世界。",
+        "id": "1981254278074540035",
+        "name": "小狗耳朵软软嘟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016809124508684288/XLFJopoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 18,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 321
+        },
+        "username": "xxbbcookie",
+        "verified": false
+      }
+    ]
+  }
+}

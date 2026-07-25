@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041019698800967924",
+    "created_at": "2026-04-06T16:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041189259860980152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037801861043154944",
+          "start": 0,
+          "username": "busehuozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041189259860980152",
+    "in_reply_to_user_id": "2037801861043154944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041175522185777398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@busehuozheganma 求推荐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T16:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041189259860980152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037801861043154944",
+              "start": 0,
+              "username": "busehuozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041189259860980152",
+        "in_reply_to_user_id": "2037801861043154944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175522185777398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@busehuozheganma 求推荐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037801861043154944",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041175522185777398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041175522185777398",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041019698800967924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 明制汉服！我前两天买了一件日常穿巨显瘦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2526,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4762
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T08:04:31.000Z",
+        "description": "03年 新年愿望是拐个帅哥回家疯狂法\n荷包蛋你2027之前能瘦回110斤吗？？我求求你别吃了\n可以给我发匿名哦：https://t.co/mPCEyDgP4Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hebaodan",
+                "end": 79,
+                "expanded_url": "https://ngl.link/hebaodan",
+                "start": 56,
+                "url": "https://t.co/mPCEyDgP4Z"
+              }
+            ]
+          }
+        },
+        "id": "2037801861043154944",
+        "location": "1.2km",
+        "name": "荷包蛋大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037803677180981248/ORqLgYx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "busehuozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

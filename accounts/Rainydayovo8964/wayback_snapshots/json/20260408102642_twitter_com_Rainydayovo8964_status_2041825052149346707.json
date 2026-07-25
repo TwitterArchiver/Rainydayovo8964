@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041793026008477756",
+    "created_at": "2026-04-08T10:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041825052149346707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1562817821926600704",
+          "start": 0,
+          "username": "Soo_L7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041825052149346707",
+    "in_reply_to_user_id": "1562817821926600704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041819862927077869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Soo_L7 谁说不是呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041793026008477756",
+        "created_at": "2026-04-08T10:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041825052149346707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1562817821926600704",
+              "start": 0,
+              "username": "Soo_L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041825052149346707",
+        "in_reply_to_user_id": "1562817821926600704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041819862927077869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Soo_L7 谁说不是呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562817821926600704",
+        "conversation_id": "2041793026008477756",
+        "created_at": "2026-04-08T10:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041819862927077869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041819862927077869",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041793026008477756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 挣的推上的钱是玩互联网中最难挣的钱😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38132,
+          "following_count": 198,
+          "like_count": 2558,
+          "listed_count": 127,
+          "media_count": 392,
+          "tweet_count": 4841
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T15:03:10.000Z",
+        "description": "暧｜自用vpn https://t.co/Rxgd6YZ9YN｜推广自辨\n防炸@C26H26ccch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "C26H26ccch"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tw02.damoplane.one/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://tw02.damoplane.one/#/register?code=WYhNQYPq",
+                "start": 8,
+                "url": "https://t.co/Rxgd6YZ9YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soo_l79?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soo_l79?igsh=MTIwZnhiNW83aTYxZQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/R1paNbpxNO"
+              }
+            ]
+          }
+        },
+        "id": "1562817821926600704",
+        "location": "☆🚪288",
+        "name": "小北别哭",
+        "pinned_tweet_id": "1825927781789872642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040802618298204160/CQW5B5Ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23238,
+          "following_count": 137,
+          "like_count": 17469,
+          "listed_count": 48,
+          "media_count": 1036,
+          "tweet_count": 6320
+        },
+        "url": "https://t.co/R1paNbpxNO",
+        "username": "Soo_L7",
+        "verified": false
+      }
+    ]
+  }
+}

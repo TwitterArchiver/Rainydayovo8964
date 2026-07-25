@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048298786255224832",
+        "3_2048298786217492480"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048298815518867621",
+    "created_at": "2026-04-26T07:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048298815518867621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBlT4hLSr4",
+          "end": 30,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2048298815518867621/photo/1",
+          "media_key": "3_2048298786255224832",
+          "start": 7,
+          "url": "https://t.co/NBlT4hLSr4"
+        },
+        {
+          "display_url": "pic.x.com/NBlT4hLSr4",
+          "end": 30,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2048298815518867621/photo/1",
+          "media_key": "3_2048298786217492480",
+          "start": 7,
+          "url": "https://t.co/NBlT4hLSr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048298815518867621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这还是抖音吗 https://t.co/NBlT4hLSr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2048298786255224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0E5MybQAAmkhc.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1398,
+        "media_key": "3_2048298786217492480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0E5MpbgAAl2G0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048298786255224832",
+            "3_2048298786217492480"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048298815518867621",
+        "created_at": "2026-04-26T07:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048298815518867621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBlT4hLSr4",
+              "end": 30,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2048298815518867621/photo/1",
+              "media_key": "3_2048298786255224832",
+              "start": 7,
+              "url": "https://t.co/NBlT4hLSr4"
+            },
+            {
+              "display_url": "pic.x.com/NBlT4hLSr4",
+              "end": 30,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2048298815518867621/photo/1",
+              "media_key": "3_2048298786217492480",
+              "start": 7,
+              "url": "https://t.co/NBlT4hLSr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048298815518867621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这还是抖音吗 https://t.co/NBlT4hLSr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38472,
+          "following_count": 208,
+          "like_count": 2769,
+          "listed_count": 115,
+          "media_count": 413,
+          "tweet_count": 5339
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

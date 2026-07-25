@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2054422271809491115",
+    "created_at": "2026-05-13T11:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054525566142099705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020428033954635776",
+          "start": 0,
+          "username": "jinyuWang142943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054525566142099705",
+    "in_reply_to_user_id": "2020428033954635776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054448216427618328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinyuWang142943 好！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2054422271809491115",
+        "created_at": "2026-05-13T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054525566142099705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2020428033954635776",
+              "start": 0,
+              "username": "jinyuWang142943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054525566142099705",
+        "in_reply_to_user_id": "2020428033954635776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054448216427618328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinyuWang142943 好！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020428033954635776",
+        "conversation_id": "2054422271809491115",
+        "created_at": "2026-05-13T06:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054448216427618328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054448216427618328",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以说\n自慰用来发泄情绪，是很常见的应对方式，心理医生见过太多类似的事，不会因为这个对你有负面评价。更重要的是，如果这个行为跟你的情绪调节有关，它就是心理工作的相关素材，说出来能帮助医生更准确地理解你目前的状态。\n当然，说不说最终是你的选择。如果现在感觉说出来不自在，可以先观察一下这次见面的氛围，等信任感建立起来再提也不迟。有时，第一次见面不需要把所有事情都交代清楚。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2058,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054422271809491115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 可以说\n自慰用来发泄情绪，是很常见的应对方式，心理医生见过太多类似的事，不会因为这个对你有负面评价。更重要的是，如果这个行为跟你的情绪调节有关，它就是心理工作的相关素材，说出来能帮助医生更准确地理解你目前的状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39042,
+          "following_count": 216,
+          "like_count": 2921,
+          "listed_count": 130,
+          "media_count": 421,
+          "tweet_count": 5676
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T09:23:00.000Z",
+        "description": "资深精神科医生",
+        "id": "2020428033954635776",
+        "name": "𝓦𝓳𝓲𝓷𝔂𝓾🦘🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020428137377705984/n_TaNLFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 127,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 181
+        },
+        "username": "jinyuWang142943",
+        "verified": false
+      }
+    ]
+  }
+}

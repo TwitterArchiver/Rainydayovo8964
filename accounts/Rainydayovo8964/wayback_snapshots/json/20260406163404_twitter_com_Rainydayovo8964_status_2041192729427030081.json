@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041019698800967924",
+    "created_at": "2026-04-06T16:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041192729427030081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028420098105446400",
+          "start": 0,
+          "username": "SYiN264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041192729427030081",
+    "in_reply_to_user_id": "2028420098105446400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041191309072110056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SYiN264 谢谢你🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T16:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041192729427030081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028420098105446400",
+              "start": 0,
+              "username": "SYiN264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041192729427030081",
+        "in_reply_to_user_id": "2028420098105446400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041191309072110056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SYiN264 谢谢你🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028420098105446400",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T16:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041191309072110056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041191309072110056",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041189919520178578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 那可以试试洛丽塔或者jk 这两个都还好 会蓬蓬的 显腰身显瘦 有的还很便宜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2543,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4792
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:41:55.000Z",
+        "description": "钱性恋 喜欢我先打钱 可以叫我小茵^ ^想到啥发啥 性子莫名其妙｜女孩子可以来找我玩呀｜不聊骚｜不yp｜不是处男的离我远点",
+        "id": "2028420098105446400",
+        "name": "SYiN",
+        "pinned_tweet_id": "2040449112076644701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669291251458048/HNDWlbi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 43,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 144
+        },
+        "username": "SYiN264",
+        "verified": false
+      }
+    ]
+  }
+}

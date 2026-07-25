@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T10:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039295478760931746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1521300564352454657",
+          "start": 0,
+          "username": "weixianguanxi23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039295478760931746",
+    "in_reply_to_user_id": "1521300564352454657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039206837548175588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weixianguanxi23 我也刚交了100😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039295478760931746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1521300564352454657",
+              "start": 0,
+              "username": "weixianguanxi23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039295478760931746",
+        "in_reply_to_user_id": "1521300564352454657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039206837548175588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weixianguanxi23 我也刚交了100😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521300564352454657",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T05:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039206837548175588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039206837548175588",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039169231418531944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 好崩溃刚交了一百电费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38342,
+          "following_count": 190,
+          "like_count": 2432,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4603
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T01:28:36.000Z",
+        "description": "间歇性情绪好 持续性情绪坏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noora80731",
+                "end": 23,
+                "expanded_url": "https://ngl.link/noora80731",
+                "start": 0,
+                "url": "https://t.co/w3IGb1Q1xl"
+              }
+            ]
+          }
+        },
+        "id": "1521300564352454657",
+        "name": "咕叽咕叽",
+        "pinned_tweet_id": "1974745977908244740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525009843140042752/RS2XmGY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 209,
+          "like_count": 4928,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/w3IGb1Q1xl",
+        "username": "weixianguanxi23",
+        "verified": false
+      }
+    ]
+  }
+}

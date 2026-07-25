@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2053131060503007236",
+    "created_at": "2026-05-09T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053131905533702609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431794460547944456",
+          "start": 0,
+          "username": "kunkunkun188"
+        },
+        {
+          "end": 23,
+          "id": "1552529965371236352",
+          "start": 14,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 33,
+          "id": "1732486642525474816",
+          "start": 24,
+          "username": "ToBuerma"
+        },
+        {
+          "end": 46,
+          "id": "1591137880688144384",
+          "start": 34,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 57,
+          "id": "1847568958507098112",
+          "start": 47,
+          "username": "BulmaList"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053131905533702609",
+    "in_reply_to_user_id": "1431794460547944456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053131060503007236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunkunkun188 @ToBulaer @ToBuerma @KawasawaSen @BulmaList 好美呀(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24300,
+        "height": 1920,
+        "media_key": "13_2053130937605742592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053130937605742592/img/gi7T4jDVjkea_Kam.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053130937605742592/vid/avc1/1080x1920/49QEcxugOHobW5dq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053130937605742592/vid/avc1/720x1280/QZV8Mzj_8VCZeAwR.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053130937605742592/vid/avc1/320x568/7zGo9RmSuXmUIEDW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053130937605742592/vid/avc1/480x852/JI73Gkp9uRhBbA9f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053130937605742592/pl/_fqg1A4kO_yfN6rt.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2053131060503007236",
+        "created_at": "2026-05-09T15:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053131905533702609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431794460547944456",
+              "start": 0,
+              "username": "kunkunkun188"
+            },
+            {
+              "end": 23,
+              "id": "1552529965371236352",
+              "start": 14,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 33,
+              "id": "1732486642525474816",
+              "start": 24,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 46,
+              "id": "1591137880688144384",
+              "start": 34,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 57,
+              "id": "1847568958507098112",
+              "start": 47,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053131905533702609",
+        "in_reply_to_user_id": "1431794460547944456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053131060503007236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunkun188 @ToBulaer @ToBuerma @KawasawaSen @BulmaList 好美呀(&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053130937605742592"
+          ]
+        },
+        "author_id": "1431794460547944456",
+        "conversation_id": "2053131060503007236",
+        "created_at": "2026-05-09T15:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053131060503007236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1552529965371236352",
+              "start": 10,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 31,
+              "id": "1732486642525474816",
+              "start": 22,
+              "username": "ToBuerma"
+            },
+            {
+              "end": 46,
+              "id": "1591137880688144384",
+              "start": 34,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 59,
+              "id": "1847568958507098112",
+              "start": 49,
+              "username": "BulmaList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjblgVtvuQ",
+              "end": 83,
+              "expanded_url": "https://x.com/kunkunkun188/status/2053131060503007236/video/1",
+              "media_key": "13_2053130937605742592",
+              "start": 60,
+              "url": "https://t.co/MjblgVtvuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053131060503007236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 834,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小姨の自慰实录💦\n\n@ToBulaer  \n@ToBuerma  \n@KawasawaSen  \n@BulmaList https://t.co/MjblgVtvuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39052,
+          "following_count": 213,
+          "like_count": 2891,
+          "listed_count": 131,
+          "media_count": 421,
+          "tweet_count": 5624
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T01:43:13.000Z",
+        "description": "🎺@kunkunkun181🩵🩵🩵🩵🩵🩵🩵 🩵 🩵 ALL MY WORKS: https://t.co/lgJnVExPNa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "kunkunkun181"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/kunkunkun181",
+                "end": 63,
+                "expanded_url": "http://linktr.ee/kunkunkun181",
+                "start": 40,
+                "url": "https://t.co/lgJnVExPNa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kunkunkun188_b…",
+                "end": 23,
+                "expanded_url": "https://t.me/Kunkunkun188_bot",
+                "start": 0,
+                "url": "https://t.co/uYKcX1vvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1431794460547944456",
+        "location": "MY only TG",
+        "name": "困困狗",
+        "pinned_tweet_id": "2048047291878215841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546226883838496768/5kHDoMYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565218,
+          "following_count": 184,
+          "like_count": 2358,
+          "listed_count": 3144,
+          "media_count": 71,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/uYKcX1vvfJ",
+        "username": "kunkunkun188",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "#分享美好 #AdultArt 《 佳佳🔞 @jiacospaiy丨团团@cha_suiji丨茶茶@naitaocos丨菡菡 @3qgyn丨小雅 @xy58586601丨梵高@0usym6789丨小羊@ParakeetsMusic丨夏天天@koudonk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "分享美好"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "AdultArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "jiacospaiy"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "cha_suiji"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "naitaocos"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "3qgyn"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "xy58586601"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "0usym6789"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "ParakeetsMusic"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "koudonk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/qjnGEvQTIE"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "我未关注则有概率盗图，理性消费💰",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1996642671218381236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970486,
+          "following_count": 1157,
+          "like_count": 4,
+          "listed_count": 2951,
+          "media_count": 0,
+          "tweet_count": 30447
+        },
+        "url": "https://t.co/qjnGEvQTIE",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-12-06T19:46:19.000Z",
+        "description": "认证私 @KawasawaSen（私信容易被吞 多私信我几次）〖 💯佳佳@jiacospaiy丨团团@cha_suiji丨茶茶@naitaocos丨菡菡 @3qgyn丨小雅 @xy58586601丨梵高@0usym6789丨小羊@ParakeetsMusic丨夏天天 @koudonk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "KawasawaSen"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "jiacospaiy"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "cha_suiji"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "naitaocos"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "3qgyn"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "xy58586601"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "0usym6789"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "ParakeetsMusic"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "koudonk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XBulma/118",
+                "end": 23,
+                "expanded_url": "http://t.me/XBulma/118",
+                "start": 0,
+                "url": "https://t.co/OC0aUSFZHk"
+              }
+            ]
+          }
+        },
+        "id": "1732486642525474816",
+        "location": "只关注原创真人，不担保，谨慎消💰",
+        "name": "ToBuerma",
+        "pinned_tweet_id": "1989579694061322444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007698552248774658/4TsQBKX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814672,
+          "following_count": 471,
+          "like_count": 9,
+          "listed_count": 1680,
+          "media_count": 0,
+          "tweet_count": 9716
+        },
+        "url": "https://t.co/OC0aUSFZHk",
+        "username": "ToBuerma",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "TG被盗，私信沉下去 请多发几次\n〖 佳佳🔞@jiacospaiy丨团团@cha_suiji丨茶茶@naitaocos丨小雅 @xy58586601丨菡菡 @3qgyn丨梵高@0usym6789丨小羊@ParakeetsMusic丨夏天天@koudonk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "jiacospaiy"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "cha_suiji"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "naitaocos"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xy58586601"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "username": "3qgyn"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "0usym6789"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "ParakeetsMusic"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "koudonk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/UbdhSf2jbC"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "真人冲浪裙👉🏿",
+        "name": "川泽森",
+        "pinned_tweet_id": "2051666123482153322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125769,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 3807,
+          "media_count": 0,
+          "tweet_count": 24937
+        },
+        "url": "https://t.co/UbdhSf2jbC",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T09:22:38.000Z",
+        "description": "#唯一 100％纯原创榜单中心 「佳佳🔞@jiacospaiy丨团团@cha_suiji丨茶茶 @naitaocos丨菡菡 @3qgyn丨小雅 @xy58586601丨梵高 @0usym6789丨小羊 @ParakeetsMusic丨夏天天 @koudonk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "唯一"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiacospaiy"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "cha_suiji"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "naitaocos"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "username": "3qgyn"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "xy58586601"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "0usym6789"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "ParakeetsMusic"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "koudonk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/4CdNsCOD4c"
+              }
+            ]
+          }
+        },
+        "id": "1847568958507098112",
+        "location": "——真人🧵下—— → ",
+        "name": "原创榜单",
+        "pinned_tweet_id": "2008020711416447167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007832670999617536/xtmrpetV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403311,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 932,
+          "media_count": 1,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/4CdNsCOD4c",
+        "username": "BulmaList",
+        "verified": false
+      }
+    ]
+  }
+}

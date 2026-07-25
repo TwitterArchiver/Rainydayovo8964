@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2069612332100334026",
+    "created_at": "2026-06-24T16:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069817864899678525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639634640205123584",
+          "start": 0,
+          "username": "nana112823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817864899678525",
+    "in_reply_to_user_id": "1639634640205123584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069806496851046544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana112823 可能因为现在做女性向受众太大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T16:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069817864899678525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639634640205123584",
+              "start": 0,
+              "username": "nana112823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817864899678525",
+        "in_reply_to_user_id": "1639634640205123584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069806496851046544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana112823 可能因为现在做女性向受众太大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639634640205123584",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T15:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069806496851046544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069806496851046544",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069612332100334026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 早拉黑了，现在居然还能刷到营销号夸她，没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39152,
+          "following_count": 230,
+          "like_count": 2984,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6039
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T14:25:49.000Z",
+        "description": "姐磕CP没惹任何人",
+        "id": "1639634640205123584",
+        "location": "Amherst, NY",
+        "name": "nana",
+        "pinned_tweet_id": "1642406888984956930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639635401320316929/YtsUh9___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 210,
+          "like_count": 2498,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "nana112823",
+        "verified": false
+      }
+    ]
+  }
+}

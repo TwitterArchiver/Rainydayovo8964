@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052308550635098129",
+    "created_at": "2026-05-07T17:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052440986651910334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023276731097063424",
+          "start": 0,
+          "username": "yunduang23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052440986651910334",
+    "in_reply_to_user_id": "2023276731097063424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052415213887279187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunduang23 啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T17:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052440986651910334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023276731097063424",
+              "start": 0,
+              "username": "yunduang23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052440986651910334",
+        "in_reply_to_user_id": "2023276731097063424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052415213887279187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunduang23 啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023276731097063424",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052415213887279187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052415213887279187",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308550635098129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 有一说一来这里基本是看黄色的，但是，某些行为，比如说在ass里面放酸奶沙拉，我靠。能让我想吐，知道吧！色是色了点，但是不是变态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38957,
+          "following_count": 211,
+          "like_count": 2874,
+          "listed_count": 133,
+          "media_count": 419,
+          "tweet_count": 5596
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T06:03:30.000Z",
+        "description": "醴野第二个号",
+        "id": "2023276731097063424",
+        "location": "yunnan",
+        "name": "爻归野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023277587204878336/Wswkkhcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 2746,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1342
+        },
+        "username": "yunduang23",
+        "verified": false
+      }
+    ]
+  }
+}

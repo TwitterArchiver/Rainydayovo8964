@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T10:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039293540736606711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1730308458770264065",
+          "start": 0,
+          "username": "Syix_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039293540736606711",
+    "in_reply_to_user_id": "1730308458770264065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039293035025232101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Syix_9 我感觉你的电费都赶上租房子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039293540736606711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1730308458770264065",
+              "start": 0,
+              "username": "Syix_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293540736606711",
+        "in_reply_to_user_id": "1730308458770264065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039293035025232101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Syix_9 我感觉你的电费都赶上租房子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730308458770264065",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039293035025232101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293035025232101",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039292722511794304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 就是啊！我怀疑被房东做局了！每个月都那么多！主要我还不做饭都用不到什么电器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38341,
+          "following_count": 190,
+          "like_count": 2431,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4590
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T19:31:40.000Z",
+        "description": "想拥有坚硬躯壳",
+        "id": "1730308458770264065",
+        "name": "姒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942934097514430466/3Xhg_cUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 1,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Syix_9",
+        "verified": false
+      }
+    ]
+  }
+}

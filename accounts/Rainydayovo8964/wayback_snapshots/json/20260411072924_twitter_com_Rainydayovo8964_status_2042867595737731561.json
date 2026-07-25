@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T07:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042867595737731561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002397377886601216",
+          "start": 0,
+          "username": "12chai_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042867595737731561",
+    "in_reply_to_user_id": "2002397377886601216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042855385565139214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12chai_y 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T07:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042867595737731561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002397377886601216",
+              "start": 0,
+              "username": "12chai_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042867595737731561",
+        "in_reply_to_user_id": "2002397377886601216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042855385565139214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12chai_y 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002397377886601216",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T06:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042855385565139214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042855385565139214",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 戈戈舞202号眼影盘 很平价 而且很上色 是粉棕色的 我刚开始化妆的时候就是从这个开始的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37815,
+          "following_count": 196,
+          "like_count": 2604,
+          "listed_count": 123,
+          "media_count": 399,
+          "tweet_count": 4963
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T15:15:25.000Z",
+        "description": "06les ppl 0.5 天蝎isfp 不网调 不约炮 提问箱：https://t.co/sdIKwo1Ke5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/12chai1",
+                "end": 56,
+                "expanded_url": "https://ngl.link/12chai1",
+                "start": 33,
+                "url": "https://t.co/sdIKwo1Ke5"
+              }
+            ]
+          }
+        },
+        "id": "2002397377886601216",
+        "location": "0.1km",
+        "name": "12chai_",
+        "pinned_tweet_id": "2031746500519428143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013246083468603393/Y5kUwJD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 58,
+          "like_count": 1109,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 313
+        },
+        "username": "12chai_y",
+        "verified": false
+      }
+    ]
+  }
+}

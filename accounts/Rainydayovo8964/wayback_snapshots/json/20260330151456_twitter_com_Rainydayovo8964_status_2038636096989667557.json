@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T15:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038636096989667557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020332837032054784",
+          "start": 0,
+          "username": "zxcvbnmqaz27581"
+        },
+        {
+          "end": 29,
+          "id": "1425384964497891328",
+          "start": 17,
+          "username": "babigongzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038636096989667557",
+    "in_reply_to_user_id": "2020332837032054784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038608109426643004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxcvbnmqaz27581 @babigongzhu 相机了永远只顾自己的状态..很多张妹妹都糊糊的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T15:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038636096989667557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2020332837032054784",
+              "start": 0,
+              "username": "zxcvbnmqaz27581"
+            },
+            {
+              "end": 29,
+              "id": "1425384964497891328",
+              "start": 17,
+              "username": "babigongzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038636096989667557",
+        "in_reply_to_user_id": "2020332837032054784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038608109426643004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxcvbnmqaz27581 @babigongzhu 相机了永远只顾自己的状态..很多张妹妹都糊糊的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020332837032054784",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038608109426643004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 29,
+              "id": "1425384964497891328",
+              "start": 17,
+              "username": "babigongzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038608109426643004",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038493542797214125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 @babigongzhu 终于知道为什么我看他总是有一股很怪异的感觉就是每当他打扮的漂漂亮亮跟妹妹一对比的那种感觉好那啥。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38247,
+          "following_count": 186,
+          "like_count": 2393,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4494
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T03:04:37.000Z",
+        "description": "🇨🇳/18↑/🧁\n私は光之美少女が好きです🥺\nぜひ私と友達になってください🥰\n私の日本語が苦手なので、翻訳ツールの誤りがあればごめんください",
+        "id": "2020332837032054784",
+        "location": "美妙天堂",
+        "name": "🧁💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033493025314500608/RDk2oVad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "zxcvbnmqaz27581",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T09:14:02.000Z",
+        "description": "碎碎念",
+        "id": "1425384964497891328",
+        "name": "芭比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724409568938057729/YuxdjRR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 185,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "babigongzhu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2075403145275117994",
+    "created_at": "2026-07-11T02:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075775706362200336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996169324143521792",
+          "start": 0,
+          "username": "JiangX50687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075775706362200336",
+    "in_reply_to_user_id": "1996169324143521792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075760547254169974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangX50687 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2075403145275117994",
+        "created_at": "2026-07-11T02:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075775706362200336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996169324143521792",
+              "start": 0,
+              "username": "JiangX50687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075775706362200336",
+        "in_reply_to_user_id": "1996169324143521792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075760547254169974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangX50687 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996169324143521792",
+        "conversation_id": "2075403145275117994",
+        "created_at": "2026-07-11T01:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075760547254169974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075760547254169974",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075403145275117994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 天使用户123你到底是什么人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39153,
+          "following_count": 232,
+          "like_count": 2994,
+          "listed_count": 128,
+          "media_count": 440,
+          "tweet_count": 6085
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T10:47:19.000Z",
+        "description": "isfp水瓶/sub/大奶品鉴师/碎碎念账号",
+        "id": "1996169324143521792",
+        "name": "猫不理饭团_",
+        "pinned_tweet_id": "2072962564208701579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071227079807356928/wii2IUtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 41,
+          "like_count": 6038,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "JiangX50687",
+        "verified": false
+      }
+    ]
+  }
+}

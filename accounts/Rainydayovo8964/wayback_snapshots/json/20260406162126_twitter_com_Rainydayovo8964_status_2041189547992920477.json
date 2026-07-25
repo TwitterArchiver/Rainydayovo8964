@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041019698800967924",
+    "created_at": "2026-04-06T16:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041189547992920477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538163447900393472",
+          "start": 0,
+          "username": "pangpan22380226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041189547992920477",
+    "in_reply_to_user_id": "1538163447900393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041130121357349306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pangpan22380226 我也是！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T16:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041189547992920477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538163447900393472",
+              "start": 0,
+              "username": "pangpan22380226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041189547992920477",
+        "in_reply_to_user_id": "1538163447900393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041130121357349306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangpan22380226 我也是！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538163447900393472",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T12:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130121357349306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130121357349306",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041019698800967924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我将码住这个帖子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2533,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4770
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T14:16:07.000Z",
+        "description": "",
+        "id": "1538163447900393472",
+        "name": "おやすみ",
+        "pinned_tweet_id": "1550602261071507457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995544288890159104/nrsNywkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 60,
+          "like_count": 831,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "pangpan22380226",
+        "verified": false
+      }
+    ]
+  }
+}

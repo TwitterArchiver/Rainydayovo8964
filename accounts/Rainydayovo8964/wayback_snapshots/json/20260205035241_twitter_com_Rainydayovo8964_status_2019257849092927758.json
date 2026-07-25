@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2018994471812378787",
+    "created_at": "2026-02-05T03:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019257849092927758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936283321568509952",
+          "start": 0,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019257849092927758",
+    "in_reply_to_user_id": "1936283321568509952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018994471812378787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxing311 我被针对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2018994471812378787",
+        "created_at": "2026-02-05T03:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019257849092927758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936283321568509952",
+              "start": 0,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019257849092927758",
+        "in_reply_to_user_id": "1936283321568509952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018994471812378787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxing311 我被针对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936283321568509952",
+        "conversation_id": "2018994471812378787",
+        "created_at": "2026-02-04T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018994471812378787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018994471812378787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5747,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实推特上的处 才是性压抑的王 明明嘴都没亲过几次 背后却想的无比黄色与暴力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38726,
+          "following_count": 172,
+          "like_count": 2146,
+          "listed_count": 134,
+          "media_count": 371,
+          "tweet_count": 3987
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "不约不下海不出原味不参与性行为 只对粉丝好  龙须背头肌肉男可以联系我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mingxing311",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mingxing311",
+                "start": 0,
+                "url": "https://t.co/QpyVa34sqw"
+              }
+            ]
+          }
+        },
+        "id": "1936283321568509952",
+        "location": "🚪288//520//888",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "2009560938052272579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010392681273565186/X8xRagi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 43,
+          "like_count": 6401,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/QpyVa34sqw",
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

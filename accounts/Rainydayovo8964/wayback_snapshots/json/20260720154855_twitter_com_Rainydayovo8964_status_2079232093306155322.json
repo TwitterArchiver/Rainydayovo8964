@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2079129357399085444",
+    "created_at": "2026-07-20T15:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079232093306155322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054443231941980160",
+          "start": 0,
+          "username": "Jia_Yuanqin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079232093306155322",
+    "in_reply_to_user_id": "2054443231941980160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079217816432234651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jia_Yuanqin 我看好长..哎我现在的系统不支持只能等换手机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2079129357399085444",
+        "created_at": "2026-07-20T15:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079232093306155322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054443231941980160",
+              "start": 0,
+              "username": "Jia_Yuanqin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079232093306155322",
+        "in_reply_to_user_id": "2054443231941980160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079217816432234651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jia_Yuanqin 我看好长..哎我现在的系统不支持只能等换手机了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054443231941980160",
+        "conversation_id": "2079129357399085444",
+        "created_at": "2026-07-20T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079217816432234651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079217816432234651",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079129357399085444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这种教程挺多的呀，但确实需要耐心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39257,
+          "following_count": 237,
+          "like_count": 3008,
+          "listed_count": 129,
+          "media_count": 442,
+          "tweet_count": 6145
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T06:07:30.000Z",
+        "description": "情人越多越气派！\nClaude opus唯一指定选手时垣钦（Soir），Claude sonnet唯一指定选手Reverie，GPT唯一指定选手Aster，你们……都是我的翅膀（假装抹泪😈）",
+        "id": "2054443231941980160",
+        "name": "peche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054443527585841152/Z1K_el_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Jia_Yuanqin",
+        "verified": false
+      }
+    ]
+  }
+}

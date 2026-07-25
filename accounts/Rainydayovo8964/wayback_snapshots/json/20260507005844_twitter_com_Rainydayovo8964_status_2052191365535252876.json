@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052055983565009318",
+    "created_at": "2026-05-07T00:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052191365535252876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1446469396658982916",
+          "start": 0,
+          "username": "BangeroneZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052191365535252876",
+    "in_reply_to_user_id": "1446469396658982916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052076976111050904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BangeroneZ 好！！感谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052055983565009318",
+        "created_at": "2026-05-07T00:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052191365535252876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446469396658982916",
+              "start": 0,
+              "username": "BangeroneZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052191365535252876",
+        "in_reply_to_user_id": "1446469396658982916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052076976111050904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BangeroneZ 好！！感谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446469396658982916",
+        "conversation_id": "2052055983565009318",
+        "created_at": "2026-05-06T17:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052076976111050904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052076976111050904",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052055983565009318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 辅酶Q10保护心脏和VD！中国人都很缺维D，然后心情不好就吃Mg➕VB，鱼油不用吃～\n牌子可以买德国双心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38925,
+          "following_count": 210,
+          "like_count": 2853,
+          "listed_count": 132,
+          "media_count": 418,
+          "tweet_count": 5543
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:36:16.000Z",
+        "description": "喜欢高质量纯情小狗\n成分复杂，网络社恐，不约不谈\n不用关注我除非你想看我日常发疯\n别私我！绝对颜控",
+        "id": "1446469396658982916",
+        "name": "屁屁秋田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508494416474165256/RfC6ESV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 289,
+          "like_count": 3784,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "BangeroneZ",
+        "verified": false
+      }
+    ]
+  }
+}

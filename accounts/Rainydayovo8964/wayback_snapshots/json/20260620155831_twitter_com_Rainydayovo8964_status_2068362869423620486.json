@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-20T15:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068362869423620486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808858157852282881",
+          "start": 0,
+          "username": "sakityou24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068362869423620486",
+    "in_reply_to_user_id": "1808858157852282881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068335889806397457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakityou24 我真的很在意别人怎么看我..😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T15:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068362869423620486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808858157852282881",
+              "start": 0,
+              "username": "sakityou24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068362869423620486",
+        "in_reply_to_user_id": "1808858157852282881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068335889806397457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakityou24 我真的很在意别人怎么看我..😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808858157852282881",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T14:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068335889806397457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068335889806397457",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 大多数人都跟你一样，能养活自己就不错了，比我强多了。不要想太多，好好生活对自己好一点，别在意别人怎么看你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 229,
+          "like_count": 2958,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5962
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T13:39:39.000Z",
+        "description": "希望能随心所欲的生活",
+        "id": "1808858157852282881",
+        "name": "adma_hua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808858340312936448/9DZwk-9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 9,
+          "like_count": 4902,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "sakityou24",
+        "verified": false
+      }
+    ]
+  }
+}

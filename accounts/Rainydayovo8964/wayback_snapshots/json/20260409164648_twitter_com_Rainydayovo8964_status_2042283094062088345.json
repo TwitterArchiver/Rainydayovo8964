@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042281303543099589",
+    "created_at": "2026-04-09T16:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042283094062088345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042203854817878016",
+          "start": 0,
+          "username": "WenZhiQiangwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042283094062088345",
+    "in_reply_to_user_id": "2042203854817878016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042282489864208628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenZhiQiangwei 对的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042281303543099589",
+        "created_at": "2026-04-09T16:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042283094062088345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042203854817878016",
+              "start": 0,
+              "username": "WenZhiQiangwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042283094062088345",
+        "in_reply_to_user_id": "2042203854817878016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042282489864208628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenZhiQiangwei 对的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042203854817878016",
+        "conversation_id": "2042281303543099589",
+        "created_at": "2026-04-09T16:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042282489864208628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042282489864208628",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042281303543099589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实就和好朋友换发型一样的叭，因为之前的样子看习惯了，突然换了个发型一下就不习惯，多看两眼就习惯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37971,
+          "following_count": 196,
+          "like_count": 2567,
+          "listed_count": 126,
+          "media_count": 398,
+          "tweet_count": 4907
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T11:33:08.000Z",
+        "description": "",
+        "id": "2042203854817878016",
+        "name": "WenZhiQiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042204278589394945/P7QS5vsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "WenZhiQiangwei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043362833644310695",
+    "created_at": "2026-04-13T01:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043496450412446102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867591439439613952",
+          "start": 0,
+          "username": "ShuFrank33224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043496450412446102",
+    "in_reply_to_user_id": "1867591439439613952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043386825948238286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuFrank33224 我加加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-13T01:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043496450412446102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867591439439613952",
+              "start": 0,
+              "username": "ShuFrank33224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043496450412446102",
+        "in_reply_to_user_id": "1867591439439613952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043386825948238286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuFrank33224 我加加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867591439439613952",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-12T17:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043386825948238286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043386825948238286",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362833644310695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 让我加加！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37810,
+          "following_count": 199,
+          "like_count": 2675,
+          "listed_count": 120,
+          "media_count": 402,
+          "tweet_count": 5078
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:25:07.000Z",
+        "description": "不约，绿的倒是可以，ip南京，有绿的可以私我。",
+        "id": "1867591439439613952",
+        "location": "你看看你背后呢",
+        "name": "我一电棍电死你们这帮搁沙特搞电诈的臭傻逼",
+        "pinned_tweet_id": "2029990842832998626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033888428233003013/rwsoFLJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 213,
+          "like_count": 1957,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 271
+        },
+        "username": "ShuFrank33224",
+        "verified": false
+      }
+    ]
+  }
+}

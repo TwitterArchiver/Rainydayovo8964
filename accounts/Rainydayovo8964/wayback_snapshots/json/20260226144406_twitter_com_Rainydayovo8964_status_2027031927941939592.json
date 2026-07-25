@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2027021519143281007",
+    "created_at": "2026-02-26T14:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027031927941939592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930534441644175360",
+          "start": 0,
+          "username": "willingbnc75588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027031927941939592",
+    "in_reply_to_user_id": "1930534441644175360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027031388361535509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willingbnc75588 我也是这样的环境 但是我总对别人的校园充满幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2027021519143281007",
+        "created_at": "2026-02-26T14:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027031927941939592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930534441644175360",
+              "start": 0,
+              "username": "willingbnc75588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027031927941939592",
+        "in_reply_to_user_id": "1930534441644175360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027031388361535509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willingbnc75588 我也是这样的环境 但是我总对别人的校园充满幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930534441644175360",
+        "conversation_id": "2027021519143281007",
+        "created_at": "2026-02-26T14:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027031388361535509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027031388361535509",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027021519143281007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 本人从小看不得一点校园小说，因为俺的校园生活除了学习就是考试，太压抑痛苦了，和校园小说的描写的完全是两个世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38802,
+          "following_count": 176,
+          "like_count": 2220,
+          "listed_count": 136,
+          "media_count": 372,
+          "tweet_count": 4106
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:58:39.000Z",
+        "description": "想要变成有钱人",
+        "id": "1930534441644175360",
+        "location": "HELL",
+        "name": "菜菜子",
+        "pinned_tweet_id": "1931584810344128573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683200886476802/ywV4jJri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 28,
+          "like_count": 11052,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 2577
+        },
+        "username": "willingbnc75588",
+        "verified": false
+      }
+    ]
+  }
+}

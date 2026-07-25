@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T01:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068504904029937936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551408270539194368",
+          "start": 0,
+          "username": "wanglong276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068504904029937936",
+    "in_reply_to_user_id": "1551408270539194368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068465957753004239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanglong276 谢谢你呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T01:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068504904029937936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551408270539194368",
+              "start": 0,
+              "username": "wanglong276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068504904029937936",
+        "in_reply_to_user_id": "1551408270539194368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068465957753004239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanglong276 谢谢你呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551408270539194368",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T22:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068465957753004239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068465957753004239",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 做一个有情有欲的正常人就好了  谁也不是圣人没必要为难自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39142,
+          "following_count": 229,
+          "like_count": 2959,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5966
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T03:25:44.000Z",
+        "description": "翻墙看世界",
+        "id": "1551408270539194368",
+        "location": "中国式现代化猪圈",
+        "name": "大古熬成汤",
+        "pinned_tweet_id": "1968238424248451097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043308085737824256/lOei80dl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 7471,
+          "like_count": 18301,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "wanglong276",
+        "verified": false
+      }
+    ]
+  }
+}

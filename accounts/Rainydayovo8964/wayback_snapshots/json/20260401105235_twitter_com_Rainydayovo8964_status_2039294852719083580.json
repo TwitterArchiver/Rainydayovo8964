@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T10:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039294852719083580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 26,
+          "id": "1732468347206594560",
+          "start": 14,
+          "username": "ManQiu12872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039294852719083580",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039288211298820595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @ManQiu12872 我用来烤鸡腿热饭烤鸡翅烤红薯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039294852719083580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 26,
+              "id": "1732468347206594560",
+              "start": 14,
+              "username": "ManQiu12872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039294852719083580",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039288211298820595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @ManQiu12872 我用来烤鸡腿热饭烤鸡翅烤红薯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T10:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039288211298820595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 29,
+              "id": "1732468347206594560",
+              "start": 17,
+              "username": "ManQiu12872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039288211298820595",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039178544534954278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 @ManQiu12872 你确定你真的用空气炸锅吗？空气炸锅可费电啊，要是隔两天用一会儿那也不会只有五十，你比我们宿舍用电都省"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38341,
+          "following_count": 190,
+          "like_count": 2432,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4599
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "是男的，上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 336,
+          "like_count": 66736,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 5704
+        },
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T18:33:52.000Z",
+        "description": "没想到失去的勇气我还留着",
+        "id": "1732468347206594560",
+        "name": "满秋",
+        "pinned_tweet_id": "1892896216922673509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024330202147672065/uDE4B-PF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 6,
+          "like_count": 38224,
+          "listed_count": 2,
+          "media_count": 1380,
+          "tweet_count": 3083
+        },
+        "username": "ManQiu12872",
+        "verified": false
+      }
+    ]
+  }
+}

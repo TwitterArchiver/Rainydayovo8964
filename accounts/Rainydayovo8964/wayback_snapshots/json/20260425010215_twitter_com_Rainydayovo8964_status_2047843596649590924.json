@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047843596649590924",
+    "created_at": "2026-04-25T01:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047843596649590924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047843596649590924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047245288717668510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 请多一些莫名其妙吧，事情莫名其妙就解决了，莫名其妙就出现转机了，好运气莫名奇妙就降临了，生活莫名其妙就变得更顺利更好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047843596649590924",
+        "created_at": "2026-04-25T01:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047843596649590924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047843596649590924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047245288717668510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 请多一些莫名其妙吧，事情莫名其妙就解决了，莫名其妙就出现转机了，好运气莫名奇妙就降临了，生活莫名其妙就变得更顺利更好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2047245288717668510",
+        "created_at": "2026-04-23T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047245288717668510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047245288717668510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 34188,
+          "like_count": 1592,
+          "quote_count": 22,
+          "reply_count": 114,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "请多一些莫名其妙吧，事情莫名其妙就解决了，莫名其妙就出现转机了，好运气莫名奇妙就降临了，生活莫名其妙就变得更顺利更好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38122,
+          "following_count": 207,
+          "like_count": 2742,
+          "listed_count": 114,
+          "media_count": 409,
+          "tweet_count": 5269
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你",
+        "id": "1581937806435573760",
+        "location": "不要骚扰我 不接广告",
+        "name": "呆呆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 18,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 375
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

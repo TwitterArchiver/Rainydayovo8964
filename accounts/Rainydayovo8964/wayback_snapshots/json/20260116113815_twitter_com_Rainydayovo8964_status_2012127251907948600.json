@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012127243364126720"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2012127251907948600",
+    "created_at": "2026-01-16T11:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T12:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012127251907948600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ag1tCEx5HM",
+          "end": 36,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2012127251907948600/photo/1",
+          "media_key": "3_2012127243364126720",
+          "start": 13,
+          "url": "https://t.co/ag1tCEx5HM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012127251907948600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一点点的橘子奶青我想你了 https://t.co/ag1tCEx5HM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_2012127243364126720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yDES-a0AA84pq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012127243364126720"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012127251907948600",
+        "created_at": "2026-01-16T11:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012127251907948600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag1tCEx5HM",
+              "end": 36,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2012127251907948600/photo/1",
+              "media_key": "3_2012127243364126720",
+              "start": 13,
+              "url": "https://t.co/ag1tCEx5HM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012127251907948600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点点的橘子奶青我想你了 https://t.co/ag1tCEx5HM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39153,
+          "following_count": 168,
+          "like_count": 2039,
+          "listed_count": 132,
+          "media_count": 347,
+          "tweet_count": 3685
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

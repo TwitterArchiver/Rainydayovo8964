@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T07:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048302331390025730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987884534629912576",
+          "start": 0,
+          "username": "charon2ooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048302331390025730",
+    "in_reply_to_user_id": "1987884534629912576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048270079763333184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charon2ooo 对啊！！这一点无法理解！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T07:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302331390025730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987884534629912576",
+              "start": 0,
+              "username": "charon2ooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302331390025730",
+        "in_reply_to_user_id": "1987884534629912576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048270079763333184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charon2ooo 对啊！！这一点无法理解！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987884534629912576",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T05:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048270079763333184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048270079763333184",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我也完全不理解，cos委托无论从哪个方面来看都是完完全全的ooc，她们到底咋代进去的，而且现在很多coser都自诩女同，接cos委托的前提是你得了解这个角色吧，你们乙小妹不是说不让女同玩乙游吗，那一堆“女同”coser来cos乙女向男主陪女生玩是何意味……？你们委托和委托人的性取向到底怎么定义O_o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38472,
+          "following_count": 208,
+          "like_count": 2769,
+          "listed_count": 115,
+          "media_count": 413,
+          "tweet_count": 5347
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:06:28.000Z",
+        "description": "",
+        "id": "1987884534629912576",
+        "name": "百",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987884625176432640/YQnaqPzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "charon2ooo",
+        "verified": false
+      }
+    ]
+  }
+}

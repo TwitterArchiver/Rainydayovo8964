@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2067999892254130365",
+    "created_at": "2026-06-20T16:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068364319147098602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650435393370882048",
+          "start": 0,
+          "username": "flechazo777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068364319147098602",
+    "in_reply_to_user_id": "1650435393370882048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067999892254130365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flechazo777_ 你特别好 我去年的时候就喜欢你！！不要内耗呀37  你是个特别善良的小女孩 希望你不要因为其他人的言论否定自己！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2067999892254130365",
+        "created_at": "2026-06-20T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068364319147098602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650435393370882048",
+              "start": 0,
+              "username": "flechazo777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364319147098602",
+        "in_reply_to_user_id": "1650435393370882048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067999892254130365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flechazo777_ 你特别好 我去年的时候就喜欢你！！不要内耗呀37  你是个特别善良的小女孩 希望你不要因为其他人的言论否定自己！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650435393370882048",
+        "conversation_id": "2067999892254130365",
+        "created_at": "2026-06-19T15:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067999892254130365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067999892254130365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7077,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人，女人都总是在审判擦边女，总是有女生讲她们日常会受到恶意就是因为我们这些人，我干这么多年其实也有很多女生骂我是臭鸡，我也不知道我这样做是不是真的对女生来讲是坏的，我总感觉有点不好意思，有点对不起她们，但是我其实也没有对女生坏，我都特别喜欢且珍惜她们，我也不想看见别人和我一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 229,
+          "like_count": 2959,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5963
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T09:44:08.000Z",
+        "description": "",
+        "id": "1650435393370882048",
+        "name": "Yuri",
+        "pinned_tweet_id": "2023123853694963933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894717221303140352/kHERlBDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25734,
+          "following_count": 37,
+          "like_count": 45,
+          "listed_count": 57,
+          "media_count": 80,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "flechazo777_",
+        "verified": false
+      }
+    ]
+  }
+}

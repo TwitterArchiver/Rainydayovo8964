@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023446859461065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2038484733785759744",
+          "start": 0,
+          "username": "xiekegbhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023446859461065",
+    "in_reply_to_user_id": "2038484733785759744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042997134786728192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiekegbhk 好呀好呀 谢谢你宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023446859461065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2038484733785759744",
+              "start": 0,
+              "username": "xiekegbhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023446859461065",
+        "in_reply_to_user_id": "2038484733785759744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042997134786728192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiekegbhk 好呀好呀 谢谢你宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038484733785759744",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T16:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042997134786728192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042997134786728192",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 宝宝我推荐girl crush的高光，我买的颜色是水光浴，特别漂亮特别水光，用在脸上显得皮肤特别特别好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2630,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5016
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:14:33.000Z",
+        "description": "",
+        "id": "2038484733785759744",
+        "name": "哥哥点到为止",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038485089894711296/l1O4qBtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "xiekegbhk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2064985065608896820",
+    "created_at": "2026-06-12T02:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065266487372452066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037146842404970498",
+          "start": 0,
+          "username": "5WsdSzC3M473242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065266487372452066",
+    "in_reply_to_user_id": "2037146842404970498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065101124873683216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5WsdSzC3M473242 我也要吐了 继续装爱女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-12T02:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266487372452066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037146842404970498",
+              "start": 0,
+              "username": "5WsdSzC3M473242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266487372452066",
+        "in_reply_to_user_id": "2037146842404970498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065101124873683216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5WsdSzC3M473242 我也要吐了 继续装爱女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037146842404970498",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-11T15:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065101124873683216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065101124873683216",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064985065608896820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 dy评论区好多发这种文案的女生说互联网上不要这么敏感，还说这种评论区都是萌妹子发自拍说姐姐不要删，很友好爱女啊，我真的要吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39013,
+          "following_count": 224,
+          "like_count": 2937,
+          "listed_count": 129,
+          "media_count": 435,
+          "tweet_count": 5912
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T12:37:18.000Z",
+        "description": "刚玩推特的新手，喜欢和所有人做朋友，不厌男也不厌女，请不要聊黄谢谢。可以分享生活🥰🥰",
+        "id": "2037146842404970498",
+        "name": "岁岁平安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060582610859073536/X9Apxhec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "5WsdSzC3M473242",
+        "verified": false
+      }
+    ]
+  }
+}

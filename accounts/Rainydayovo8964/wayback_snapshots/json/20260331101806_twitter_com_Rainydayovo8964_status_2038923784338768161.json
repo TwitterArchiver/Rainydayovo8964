@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-31T10:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038923784338768161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008743214795325440",
+          "start": 0,
+          "username": "KongF45506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038923784338768161",
+    "in_reply_to_user_id": "2008743214795325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038878405593379172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KongF45506 对啊！谁能一下子拿那么多..可见多宠她..然后还说自己爸妈不爱她.说爱妹妹..妹妹都生病了..家里更爱谁一眼能看出来吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T10:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038923784338768161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008743214795325440",
+              "start": 0,
+              "username": "KongF45506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038923784338768161",
+        "in_reply_to_user_id": "2008743214795325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038878405593379172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KongF45506 对啊！谁能一下子拿那么多..可见多宠她..然后还说自己爸妈不爱她.说爱妹妹..妹妹都生病了..家里更爱谁一眼能看出来吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008743214795325440",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T07:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038878405593379172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038878405593379172",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 就先说那台17万的车一般家庭没有闲钱也不足够当下生活的情况下根本不会去买一辆17万的车给孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38246,
+          "following_count": 188,
+          "like_count": 2398,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4509
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T03:31:26.000Z",
+        "description": "",
+        "id": "2008743214795325440",
+        "name": "空匪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037215807651143681/cwkyIe3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "KongF45506",
+        "verified": false
+      }
+    ]
+  }
+}

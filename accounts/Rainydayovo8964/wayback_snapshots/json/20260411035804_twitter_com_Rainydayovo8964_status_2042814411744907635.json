@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T03:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042814411744907635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1464205428322336768",
+          "start": 0,
+          "username": "songyiqiuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042814411744907635",
+    "in_reply_to_user_id": "1464205428322336768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042805865091039723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songyiqiuo 收到宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T03:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042814411744907635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1464205428322336768",
+              "start": 0,
+              "username": "songyiqiuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042814411744907635",
+        "in_reply_to_user_id": "1464205428322336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042805865091039723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songyiqiuo 收到宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464205428322336768",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T03:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042805865091039723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042805865091039723",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 免胶假睫毛真的特别爽……最近喜欢贴不朽情缘，三簇，尾部像眼线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37828,
+          "following_count": 196,
+          "like_count": 2584,
+          "listed_count": 123,
+          "media_count": 399,
+          "tweet_count": 4937
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T12:12:59.000Z",
+        "description": "我的抹茶蛋糕呢",
+        "id": "1464205428322336768",
+        "name": "eveland",
+        "pinned_tweet_id": "2025613430238195990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571888327649021958/4_0hm1qL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 947,
+          "like_count": 9387,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 983
+        },
+        "username": "songyiqiuo",
+        "verified": false
+      }
+    ]
+  }
+}

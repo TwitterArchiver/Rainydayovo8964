@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050474473523151242",
+    "created_at": "2026-05-02T13:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050568364192637131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789403171393355776",
+          "start": 0,
+          "username": "cchuan227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050568364192637131",
+    "in_reply_to_user_id": "1789403171393355776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050497539934454021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cchuan227 收到！！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050568364192637131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789403171393355776",
+              "start": 0,
+              "username": "cchuan227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050568364192637131",
+        "in_reply_to_user_id": "1789403171393355776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050497539934454021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cchuan227 收到！！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789403171393355776",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T08:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050497539934454021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050497539934454021",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050474473523151242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 平价唇釉/口红推荐蜜丝婷双头/木柯诗双头/3ce丝绒唇釉/3ce小硬糖/3ce小蜜勺/酵色唇泥/蜜丝婷唇釉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38909,
+          "following_count": 208,
+          "like_count": 2804,
+          "listed_count": 132,
+          "media_count": 416,
+          "tweet_count": 5420
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T21:12:24.000Z",
+        "description": "没有🚪目标是做一直幸福的情侣推，老公→水獭🦦@zhedousha/姐弟恋/喜欢碎碎念，什么都发点并非纯黄也并非纯绿/私信基本上已读不回感兴趣才会回/提问箱https://t.co/QVPJlhWYnj\n关注的话感谢喜欢啵啵啵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "zhedousha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cchuan227",
+                "end": 100,
+                "expanded_url": "https://ngl.link/cchuan227",
+                "start": 77,
+                "url": "https://t.co/QVPJlhWYnj"
+              }
+            ]
+          }
+        },
+        "id": "1789403171393355776",
+        "name": "串串！",
+        "pinned_tweet_id": "2033154327590928412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992475750214295552/0jzhpWkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4300,
+          "following_count": 86,
+          "like_count": 4648,
+          "listed_count": 9,
+          "media_count": 494,
+          "tweet_count": 2223
+        },
+        "username": "cchuan227",
+        "verified": false
+      }
+    ]
+  }
+}

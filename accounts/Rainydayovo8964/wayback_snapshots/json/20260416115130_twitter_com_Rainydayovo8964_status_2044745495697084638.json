@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044728256298123676",
+    "created_at": "2026-04-16T11:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044745495697084638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038435420707397632",
+          "start": 0,
+          "username": "SamooMalik80506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044745495697084638",
+    "in_reply_to_user_id": "2038435420707397632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044738198153068923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamooMalik80506 这两个我都好喜欢😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044728256298123676",
+        "created_at": "2026-04-16T11:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044745495697084638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038435420707397632",
+              "start": 0,
+              "username": "SamooMalik80506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044745495697084638",
+        "in_reply_to_user_id": "2038435420707397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044738198153068923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamooMalik80506 这两个我都好喜欢😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038435420707397632",
+        "conversation_id": "2044728256298123676",
+        "created_at": "2026-04-16T11:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044738198153068923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044738198153068923",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044728256298123676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 如果你想要经典打卡、历史文化感很强——\n选北京，比如 故宫、长城、天安门。\n但人多、节奏快，会比较累。如果你想轻松一点、风景好又好吃——\n选青岛，有海、有风，像 栈桥、八大关 很适合拍照。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37861,
+          "following_count": 204,
+          "like_count": 2717,
+          "listed_count": 115,
+          "media_count": 405,
+          "tweet_count": 5164
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T02:00:15.000Z",
+        "description": "",
+        "id": "2038435420707397632",
+        "name": "Chocolate chip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038449305863020544/Wk2120yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 107
+        },
+        "username": "SamooMalik80506",
+        "verified": false
+      }
+    ]
+  }
+}

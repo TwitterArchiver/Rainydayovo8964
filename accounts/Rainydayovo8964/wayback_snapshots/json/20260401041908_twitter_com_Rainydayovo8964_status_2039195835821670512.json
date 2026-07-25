@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2039169231418531944",
+    "created_at": "2026-04-01T04:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039195835821670512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777379946144616450",
+          "start": 0,
+          "username": "MirecLee2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039195835821670512",
+    "in_reply_to_user_id": "1777379946144616450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039188037398356054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MirecLee2 夏天我有风扇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T04:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039195835821670512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777379946144616450",
+              "start": 0,
+              "username": "MirecLee2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039195835821670512",
+        "in_reply_to_user_id": "1777379946144616450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039188037398356054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MirecLee2 夏天我有风扇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777379946144616450",
+        "conversation_id": "2039169231418531944",
+        "created_at": "2026-04-01T03:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039188037398356054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039188037398356054",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039169231418531944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 可以看出来没开空调的没用，如果夏天能维持这个说明特别厉害了（我自己住没开空调一个月水电 78 开了空调 300）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38274,
+          "following_count": 190,
+          "like_count": 2420,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4572
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:56:26.000Z",
+        "description": "加油健身",
+        "id": "1777379946144616450",
+        "location": "Hong Kong",
+        "name": "MirecLee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977257360289849344/TXo594EU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 345,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1889
+        },
+        "username": "MirecLee2",
+        "verified": false
+      }
+    ]
+  }
+}

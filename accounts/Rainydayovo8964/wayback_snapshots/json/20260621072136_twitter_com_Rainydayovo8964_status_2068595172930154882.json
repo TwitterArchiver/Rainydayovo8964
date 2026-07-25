@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T07:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068595172930154882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1628043629192450048",
+          "start": 0,
+          "username": "AugOnlyL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068595172930154882",
+    "in_reply_to_user_id": "1628043629192450048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068377481892278352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AugOnlyL 谢谢你呀😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T07:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068595172930154882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1628043629192450048",
+              "start": 0,
+              "username": "AugOnlyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068595172930154882",
+        "in_reply_to_user_id": "1628043629192450048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068377481892278352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AugOnlyL 谢谢你呀😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628043629192450048",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T16:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068377481892278352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377481892278352",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 你已经很厉害啦，欠债只要还钱了，就不用不好意思，又不是白嫖别人的钱。\n你是一个懂得感恩的好孩子，以后会越来越好的，在自己能力范围内尽孝就好了，不要给自己太大的压力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39149,
+          "following_count": 229,
+          "like_count": 2968,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6001
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T14:47:19.000Z",
+        "description": "ADHD｜ED｜双相情感障碍\n163cm/37kg",
+        "id": "1628043629192450048",
+        "name": "你迟来的顿悟很可爱",
+        "pinned_tweet_id": "2065451003496034610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066007372208996352/Du_Pjghz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 1,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "AugOnlyL",
+        "verified": false
+      }
+    ]
+  }
+}

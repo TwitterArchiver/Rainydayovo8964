@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2008133338113229166",
+    "created_at": "2026-01-05T11:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008133338113229166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008133338113229166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "敢闯红灯的不论是车还是人 我感觉都在和阎王对赌 赌输了就在生死簿上写下自己的名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2008133338113229166",
+        "created_at": "2026-01-05T11:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008133338113229166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008133338113229166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢闯红灯的不论是车还是人 我感觉都在和阎王对赌 赌输了就在生死簿上写下自己的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997569467438747648/d0ZiRU9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39365,
+          "following_count": 171,
+          "like_count": 2034,
+          "listed_count": 132,
+          "media_count": 343,
+          "tweet_count": 3656
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

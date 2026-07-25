@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052308550635098129",
+    "created_at": "2026-05-07T12:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052363490099396774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "868615204598419456",
+          "start": 0,
+          "username": "CarlosPenedo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052363490099396774",
+    "in_reply_to_user_id": "868615204598419456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052354813837590531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosPenedo2 太阴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T12:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052363490099396774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "868615204598419456",
+              "start": 0,
+              "username": "CarlosPenedo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052363490099396774",
+        "in_reply_to_user_id": "868615204598419456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052354813837590531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosPenedo2 太阴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868615204598419456",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T11:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052354813837590531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052354813837590531",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308550635098129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我居然看到了来自阴间的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38902,
+          "following_count": 211,
+          "like_count": 2863,
+          "listed_count": 132,
+          "media_count": 419,
+          "tweet_count": 5561
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-27T23:49:37.000Z",
+        "description": "祝我天天开心",
+        "id": "868615204598419456",
+        "name": "jdnj2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047285989480284161/fTVTbkWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 137
+        },
+        "username": "CarlosPenedo2",
+        "verified": false
+      }
+    ]
+  }
+}

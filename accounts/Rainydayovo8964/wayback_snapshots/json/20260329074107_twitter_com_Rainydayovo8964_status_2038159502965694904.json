@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038136069947048035",
+    "created_at": "2026-03-29T07:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038159502965694904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968651032336142336",
+          "start": 0,
+          "username": "Boo_boo0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038159502965694904",
+    "in_reply_to_user_id": "1968651032336142336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038158826466406696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boo_boo0404 快跑吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T07:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038159502965694904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968651032336142336",
+              "start": 0,
+              "username": "Boo_boo0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038159502965694904",
+        "in_reply_to_user_id": "1968651032336142336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038158826466406696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boo_boo0404 快跑吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968651032336142336",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038158826466406696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038158826466406696",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038136069947048035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我朋友家亲戚更离谱，给我朋友介绍一个大九岁的男的，那男的自己在南京上班，要求我朋友结婚后要在贫困县照顾他爸妈到死，我朋友不同意，她姐就趁她生病扯着她头发把她扯下床，不停扇她脸，说她如果找别人就要四十万彩礼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38209,
+          "following_count": 186,
+          "like_count": 2368,
+          "listed_count": 135,
+          "media_count": 383,
+          "tweet_count": 4435
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T12:19:37.000Z",
+        "description": "",
+        "id": "1968651032336142336",
+        "name": "Evy BD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036117268913172480/UEmpdTHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 115,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "Boo_boo0404",
+        "verified": false
+      }
+    ]
+  }
+}

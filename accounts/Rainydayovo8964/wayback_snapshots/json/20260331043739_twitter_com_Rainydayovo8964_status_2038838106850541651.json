@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-31T04:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038838106850541651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563946282607325184",
+          "start": 0,
+          "username": "han01180118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038838106850541651",
+    "in_reply_to_user_id": "1563946282607325184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038651174623355277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@han01180118 没有穷的义务！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T04:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038838106850541651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563946282607325184",
+              "start": 0,
+              "username": "han01180118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038838106850541651",
+        "in_reply_to_user_id": "1563946282607325184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038651174623355277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@han01180118 没有穷的义务！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563946282607325184",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T16:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038651174623355277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038651174623355277",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我从来没有说过自己穷！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38255,
+          "following_count": 188,
+          "like_count": 2398,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4508
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T17:47:15.000Z",
+        "description": "千言万语汇成一个淡淡地操",
+        "id": "1563946282607325184",
+        "name": "困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030925745732964352/D7O9mPEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 531,
+          "like_count": 3691,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 2265
+        },
+        "username": "han01180118",
+        "verified": false
+      }
+    ]
+  }
+}

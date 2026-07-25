@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2012394340845269487",
+    "created_at": "2026-01-17T05:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012394340845269487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012394340845269487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最好的闺蜜要结婚了 我问她为什么选择婚姻 她和我说因为她们相亲认识 两家知根知底 这已经是很好的结果 我又问她 那你真的喜欢他吗 你确定就是他了吗 她说也就那样 并没有特别喜欢 只是真的很合适 我说婚姻要慎重 你们才认识三个月 她说她会认真考虑 前几天收到了她的一条信息 下个月二月份 她的婚礼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2012394340845269487",
+        "created_at": "2026-01-17T05:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012394340845269487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012394340845269487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好的闺蜜要结婚了 我问她为什么选择婚姻 她和我说因为她们相亲认识 两家知根知底 这已经是很好的结果 我又问她 那你真的喜欢他吗 你确定就是他了吗 她说也就那样 并没有特别喜欢 只是真的很合适 我说婚姻要慎重 你们才认识三个月 她说她会认真考虑 前几天收到了她的一条信息 下个月二月份 她的婚礼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类    小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39127,
+          "following_count": 168,
+          "like_count": 2046,
+          "listed_count": 132,
+          "media_count": 348,
+          "tweet_count": 3693
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

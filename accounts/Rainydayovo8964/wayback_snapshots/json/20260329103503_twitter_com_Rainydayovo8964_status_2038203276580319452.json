@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038136069947048035",
+    "created_at": "2026-03-29T10:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038203276580319452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1836448795955204097",
+          "start": 0,
+          "username": "jaaaaaaaa6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038203276580319452",
+    "in_reply_to_user_id": "1836448795955204097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038200458951684486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaaaaaaaa6666 我懂你意思 但是对方收拾打扮真的不太干净..也不求对方多帅 起码把自己打扮的清爽一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T10:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038203276580319452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1836448795955204097",
+              "start": 0,
+              "username": "jaaaaaaaa6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038203276580319452",
+        "in_reply_to_user_id": "1836448795955204097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038200458951684486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaaaaaaaa6666 我懂你意思 但是对方收拾打扮真的不太干净..也不求对方多帅 起码把自己打扮的清爽一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836448795955204097",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T10:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038200458951684486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038200458951684486",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038136069947048035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我的意思是 按照现在的经济衰退的大环境\n你再潇洒5年 到了30左右 只有40岁还穷的男生会要你\n择偶难度陡增 \n到那时候只有永远单身和做大女主两种极端选择\n你有个负责任的父母 不要听信网上小红书的姐妹的建议\n跟你有利益连结的只有父母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38209,
+          "following_count": 186,
+          "like_count": 2367,
+          "listed_count": 135,
+          "media_count": 383,
+          "tweet_count": 4443
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T16:54:58.000Z",
+        "description": "你看 你又急 又破防了",
+        "id": "1836448795955204097",
+        "name": "Riley Lynn",
+        "pinned_tweet_id": "2038183262225568022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836448844906926083/D55QRMh7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 1701,
+          "like_count": 67347,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 48406
+        },
+        "username": "jaaaaaaaa6666",
+        "verified": false
+      }
+    ]
+  }
+}

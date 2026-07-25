@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2079075793888850411",
+    "created_at": "2026-07-20T05:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079075793888850411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079075793888850411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来之前特别喜欢全民k歌的凤九和锦零 特别喜欢磕他们的cp即使他们和我一样大 还qq空间留言过..不过两个人好神秘 不知道是不是分手反复和好还是什么 现在长大了有时候也在纠结他们当时到底是商业cp还是真的处过.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2079075793888850411",
+        "created_at": "2026-07-20T05:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079075793888850411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079075793888850411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来之前特别喜欢全民k歌的凤九和锦零 特别喜欢磕他们的cp即使他们和我一样大 还qq空间留言过..不过两个人好神秘 不知道是不是分手反复和好还是什么 现在长大了有时候也在纠结他们当时到底是商业cp还是真的处过.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39245,
+          "following_count": 234,
+          "like_count": 3006,
+          "listed_count": 129,
+          "media_count": 441,
+          "tweet_count": 6127
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

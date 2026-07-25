@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041004034300207404",
+    "created_at": "2026-04-06T10:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041102359301083424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2587750568",
+          "start": 0,
+          "username": "babiru36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041102359301083424",
+    "in_reply_to_user_id": "2587750568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041099773269139653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babiru36 傻逼吧 一分钱没拿你的 还有我不认识你 清明节你还好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041004034300207404",
+        "created_at": "2026-04-06T10:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041102359301083424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2587750568",
+              "start": 0,
+              "username": "babiru36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041102359301083424",
+        "in_reply_to_user_id": "2587750568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041099773269139653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babiru36 傻逼吧 一分钱没拿你的 还有我不认识你 清明节你还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2587750568",
+        "conversation_id": "2041004034300207404",
+        "created_at": "2026-04-06T10:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041099773269139653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041099773269139653",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041004034300207404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我草你妈的臭逼，诈骗母狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38287,
+          "following_count": 198,
+          "like_count": 2524,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4743
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-25T15:48:25.000Z",
+        "description": "Stocks are a field of expertise | Focusing on analyzing US-listed companies | US Stock Analyst | CFA",
+        "id": "2587750568",
+        "location": "Los Angeles",
+        "name": "Everley Nora",
+        "pinned_tweet_id": "2032546436060000568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001253183465906179/u7zdHTwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 81,
+          "like_count": 2096,
+          "listed_count": 14,
+          "media_count": 4830,
+          "tweet_count": 11321
+        },
+        "username": "babiru36",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2051966952026116534",
+    "created_at": "2026-05-06T10:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051978406947070353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717523083668647936",
+          "start": 0,
+          "username": "cc11223344555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051978406947070353",
+    "in_reply_to_user_id": "1717523083668647936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051971025395470454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cc11223344555 特别有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2051966952026116534",
+        "created_at": "2026-05-06T10:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051978406947070353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717523083668647936",
+              "start": 0,
+              "username": "cc11223344555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051978406947070353",
+        "in_reply_to_user_id": "1717523083668647936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051971025395470454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cc11223344555 特别有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717523083668647936",
+        "conversation_id": "2051966952026116534",
+        "created_at": "2026-05-06T10:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051971025395470454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051971025395470454",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051966952026116534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 完全没看过但是感觉很有意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 54,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 31,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38922,
+          "following_count": 210,
+          "like_count": 2848,
+          "listed_count": 133,
+          "media_count": 417,
+          "tweet_count": 5517
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T12:46:37.000Z",
+        "description": "08 直♂ OCD ADHD 双向精分 不线下/不线上 有事情发私信 我是一个很温良的人",
+        "id": "1717523083668647936",
+        "location": "空心",
+        "name": "tug08",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012655104864714752/erRcXs8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "cc11223344555",
+        "verified": false
+      }
+    ]
+  }
+}

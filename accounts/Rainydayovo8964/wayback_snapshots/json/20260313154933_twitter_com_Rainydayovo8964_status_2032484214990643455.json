@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032303375602369016",
+    "created_at": "2026-03-13T15:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032484214990643455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952025375082700800",
+          "start": 0,
+          "username": "snyng21513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032484214990643455",
+    "in_reply_to_user_id": "1952025375082700800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032473345359528306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snyng21513 上班的同事太讨厌了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032484214990643455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952025375082700800",
+              "start": 0,
+              "username": "snyng21513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032484214990643455",
+        "in_reply_to_user_id": "1952025375082700800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032473345359528306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snyng21513 上班的同事太讨厌了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952025375082700800",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032473345359528306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032473345359528306",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032303375602369016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我上班的精神状态！！！阴暗爬行！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38762,
+          "following_count": 182,
+          "like_count": 2273,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4204
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T15:15:19.000Z",
+        "description": "",
+        "id": "1952025375082700800",
+        "name": "余昂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998802199758229504/_BBtcxot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 277
+        },
+        "username": "snyng21513",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2027689200649441513",
+    "created_at": "2026-02-28T10:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027689200649441513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016894714788843520",
+          "start": 3,
+          "username": "DIKhhybb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027689200649441513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027106608598471108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DIKhhybb: 找个对象不难 找个解决需求的也容易 难得是走心 是睡了还想一起吃饭 吃饭了还想散步 是欲望退去后看见对方不完美觉得也挺好 容易的是上头难得是不腻 是话后安静的待着也不烦 是两个人待一起了比一个人更轻松 太多关系 始于需求终于了解 身体近了灵魂远了 这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2027689200649441513",
+        "created_at": "2026-02-28T10:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027689200649441513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016894714788843520",
+              "start": 3,
+              "username": "DIKhhybb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027689200649441513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027106608598471108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DIKhhybb: 找个对象不难 找个解决需求的也容易 难得是走心 是睡了还想一起吃饭 吃饭了还想散步 是欲望退去后看见对方不完美觉得也挺好 容易的是上头难得是不腻 是话后安静的待着也不烦 是两个人待一起了比一个人更轻松 太多关系 始于需求终于了解 身体近了灵魂远了 这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016894714788843520",
+        "conversation_id": "2027106608598471108",
+        "created_at": "2026-02-26T19:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027106608598471108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027106608598471108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16106,
+          "like_count": 244,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "找个对象不难 找个解决需求的也容易 难得是走心 是睡了还想一起吃饭 吃饭了还想散步 是欲望退去后看见对方不完美觉得也挺好 容易的是上头难得是不腻 是话后安静的待着也不烦 是两个人待一起了比一个人更轻松 太多关系 始于需求终于了解 身体近了灵魂远了 这个时代什么都有 就是难得有地方让你彻底安心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的人类 完全都在乱哭诉 只玩这个软件",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38762,
+          "following_count": 176,
+          "like_count": 2225,
+          "listed_count": 136,
+          "media_count": 372,
+          "tweet_count": 4111
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T15:25:03.000Z",
+        "description": "恭喜发现秘密基地 喜欢我的人都会收获幸福~ （私信随机回复 骂我的和盗图的全家死绝🤙🏻仅此一号 置顶推广自辩）",
+        "id": "2016894714788843520",
+        "location": "天堂中迷航 纯绿v88 大家先对自己好一些~^ω^",
+        "name": "烤冷面",
+        "pinned_tweet_id": "2027328710979018876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020859803116146688/-1Y6fn3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 218,
+          "like_count": 3136,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 424
+        },
+        "username": "DIKhhybb",
+        "verified": false
+      }
+    ]
+  }
+}

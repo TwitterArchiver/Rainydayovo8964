@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042777797014569127",
+    "created_at": "2026-04-12T09:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043257451903156662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1121214017941323776",
+          "start": 0,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043257451903156662",
+    "in_reply_to_user_id": "1121214017941323776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043204210129600794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akf13978 笑的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042777797014569127",
+        "created_at": "2026-04-12T09:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043257451903156662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1121214017941323776",
+              "start": 0,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043257451903156662",
+        "in_reply_to_user_id": "1121214017941323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043204210129600794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akf13978 笑的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121214017941323776",
+        "conversation_id": "2042777797014569127",
+        "created_at": "2026-04-12T05:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043204210129600794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043204210129600794",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042777797014569127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 点了，难不成学历高的几把还能大点吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37834,
+          "following_count": 197,
+          "like_count": 2666,
+          "listed_count": 123,
+          "media_count": 401,
+          "tweet_count": 5046
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "不常刷推/随口吐槽/碎碎念/会念念感兴趣的本/匿名箱https://t.co/j4ai6uVINK小号@akst7212",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akst7212"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/alxg137/",
+                "end": 49,
+                "expanded_url": "https://ngl.link/alxg137/",
+                "start": 26,
+                "url": "https://t.co/j4ai6uVINK"
+              }
+            ]
+          }
+        },
+        "id": "1121214017941323776",
+        "location": "Hong Kong",
+        "name": "青由也",
+        "pinned_tweet_id": "1952946652207325255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988332886970560514/p1dFkvIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 825,
+          "like_count": 1448,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1998
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

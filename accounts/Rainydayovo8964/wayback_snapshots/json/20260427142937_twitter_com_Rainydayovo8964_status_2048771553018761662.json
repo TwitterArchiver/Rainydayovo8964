@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048631856367861826",
+    "created_at": "2026-04-27T14:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048771553018761662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038040883828858880",
+          "start": 0,
+          "username": "ichenovo1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048771553018761662",
+    "in_reply_to_user_id": "2038040883828858880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048757344683643124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichenovo1314 我也。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048631856367861826",
+        "created_at": "2026-04-27T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048771553018761662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038040883828858880",
+              "start": 0,
+              "username": "ichenovo1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771553018761662",
+        "in_reply_to_user_id": "2038040883828858880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048757344683643124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichenovo1314 我也。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038040883828858880",
+        "conversation_id": "2048631856367861826",
+        "created_at": "2026-04-27T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048757344683643124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048757344683643124",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048631856367861826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 可是现在水果短剧里的ai真的很好看\n我不行了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38787,
+          "following_count": 207,
+          "like_count": 2779,
+          "listed_count": 128,
+          "media_count": 414,
+          "tweet_count": 5387
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T23:49:55.000Z",
+        "description": "可以叫我13/心情总是不好/switch /♊/嘴毒/欢迎找我互fo！",
+        "id": "2038040883828858880",
+        "name": "良家少男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041526825495769088/a81u5EOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 98,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 188
+        },
+        "username": "ichenovo1314",
+        "verified": false
+      }
+    ]
+  }
+}

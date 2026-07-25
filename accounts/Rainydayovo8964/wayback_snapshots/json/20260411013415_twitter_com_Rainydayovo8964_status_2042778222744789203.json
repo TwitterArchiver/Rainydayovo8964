@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042634821944643660",
+    "created_at": "2026-04-11T01:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042778222744789203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650484579537674241",
+          "start": 0,
+          "username": "Lxxx0liz99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042778222744789203",
+    "in_reply_to_user_id": "1650484579537674241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042711831756836930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lxxx0liz99 我也需要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-11T01:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042778222744789203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650484579537674241",
+              "start": 0,
+              "username": "Lxxx0liz99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042778222744789203",
+        "in_reply_to_user_id": "1650484579537674241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042711831756836930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lxxx0liz99 我也需要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650484579537674241",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-10T21:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042711831756836930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042711831756836930",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042634821944643660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我需要好物分享"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37849,
+          "following_count": 196,
+          "like_count": 2576,
+          "listed_count": 123,
+          "media_count": 399,
+          "tweet_count": 4924
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T12:59:31.000Z",
+        "description": "ISFP 06//纯绿色 爱发废话 不聊s不约 消息随缘回 不定时上线ing欢迎互fo喵",
+        "id": "1650484579537674241",
+        "name": "能不能再多在意我一點呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035809614793736192/9Vu5Fb_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 95,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 275
+        },
+        "username": "Lxxx0liz99",
+        "verified": false
+      }
+    ]
+  }
+}

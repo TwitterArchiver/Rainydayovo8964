@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2071938150839066644",
+    "created_at": "2026-07-01T00:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072122750840279343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2071529103946326016",
+          "start": 0,
+          "username": "Ghe3jof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072122750840279343",
+    "in_reply_to_user_id": "2071529103946326016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072015245414154248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghe3jof 当然啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2071938150839066644",
+        "created_at": "2026-07-01T00:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072122750840279343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2071529103946326016",
+              "start": 0,
+              "username": "Ghe3jof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072122750840279343",
+        "in_reply_to_user_id": "2071529103946326016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072015245414154248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghe3jof 当然啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071529103946326016",
+        "conversation_id": "2071938150839066644",
+        "created_at": "2026-06-30T17:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072015245414154248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072015245414154248",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071938150839066644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 能纯打游戏吗我比较瘾大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39103,
+          "following_count": 230,
+          "like_count": 2984,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6055
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T09:41:07.000Z",
+        "description": "May you and I find our own paths in life.",
+        "id": "2071529103946326016",
+        "location": "我是一条鱼",
+        "name": "loveyed’",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071533921540730880/5J-UndzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Ghe3jof",
+        "verified": false
+      }
+    ]
+  }
+}

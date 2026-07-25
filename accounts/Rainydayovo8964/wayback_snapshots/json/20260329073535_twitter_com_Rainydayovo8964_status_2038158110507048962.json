@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038136069947048035",
+    "created_at": "2026-03-29T07:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038158110507048962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684968079938539521",
+          "start": 0,
+          "username": "yitiaoyuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038158110507048962",
+    "in_reply_to_user_id": "1684968079938539521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038156060356485131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitiaoyuli 是这样 毕竟都是互相筛选 可能对方眼里我也不怎么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T07:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038158110507048962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684968079938539521",
+              "start": 0,
+              "username": "yitiaoyuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038158110507048962",
+        "in_reply_to_user_id": "1684968079938539521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038156060356485131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitiaoyuli 是这样 毕竟都是互相筛选 可能对方眼里我也不怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684968079938539521",
+        "conversation_id": "2038136069947048035",
+        "created_at": "2026-03-29T07:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038156060356485131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038156060356485131",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038155621271576854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 那的确是个不错的选择，当然谈恋爱也是，毕竟不是说非要结婚，哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38208,
+          "following_count": 186,
+          "like_count": 2368,
+          "listed_count": 135,
+          "media_count": 383,
+          "tweet_count": 4429
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T16:44:35.000Z",
+        "description": "2014年炒过比特币，莱特币，钱包里面还有两千多莱特币。\n2026年再抄亏损200余万，努力生活。\n现阶段希望能学习AI落地应用拯救自己。\n混口饭吃的欧意邀请：（返佣25%）https://t.co/Y6WKN8okGp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "promooboost.com/join/78251256",
+                "end": 110,
+                "expanded_url": "https://www.promooboost.com/join/78251256",
+                "start": 87,
+                "url": "https://t.co/Y6WKN8okGp"
+              }
+            ]
+          }
+        },
+        "id": "1684968079938539521",
+        "name": "李牧之",
+        "pinned_tweet_id": "2037832534579646841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037426429261160448/toRshJ1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 821,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 621
+        },
+        "username": "yitiaoyuli",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068642829837140032",
+    "created_at": "2026-06-21T13:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068695233995714606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545787330690134016",
+          "start": 0,
+          "username": "luocirui1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068695233995714606",
+    "in_reply_to_user_id": "1545787330690134016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068642829837140032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luocirui1 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068642829837140032",
+        "created_at": "2026-06-21T13:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068695233995714606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545787330690134016",
+              "start": 0,
+              "username": "luocirui1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695233995714606",
+        "in_reply_to_user_id": "1545787330690134016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068642829837140032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luocirui1 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545787330690134016",
+        "conversation_id": "2068642829837140032",
+        "created_at": "2026-06-21T10:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068642829837140032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068642829837140032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关你们要我Wx不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39160,
+          "following_count": 230,
+          "like_count": 2974,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6014
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:10:09.000Z",
+        "description": "淡推｜性取向正常｜只接转帖｜私信都会看",
+        "id": "1545787330690134016",
+        "location": "没回私信就是睡着了",
+        "name": "🍞",
+        "pinned_tweet_id": "1905300983854587923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971587153517019136/YNnhjtHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9421,
+          "following_count": 565,
+          "like_count": 13629,
+          "listed_count": 23,
+          "media_count": 317,
+          "tweet_count": 6494
+        },
+        "url": "",
+        "username": "luocirui1",
+        "verified": false
+      }
+    ]
+  }
+}

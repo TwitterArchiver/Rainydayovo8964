@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T14:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048402722194432340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2004868601493553157",
+          "start": 0,
+          "username": "wxia1703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048402722194432340",
+    "in_reply_to_user_id": "2004868601493553157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388508130361569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxia1703 我也无法。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T14:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048402722194432340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2004868601493553157",
+              "start": 0,
+              "username": "wxia1703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048402722194432340",
+        "in_reply_to_user_id": "2004868601493553157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388508130361569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxia1703 我也无法。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004868601493553157",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T13:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048388508130361569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048388508130361569",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 像替代品一样 总归不是本人 所有我不喜欢委托 也不会约  和一个陌生的人约会当作他 唉我做不到 🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38561,
+          "following_count": 208,
+          "like_count": 2775,
+          "listed_count": 122,
+          "media_count": 413,
+          "tweet_count": 5366
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T10:55:30.000Z",
+        "description": "",
+        "id": "2004868601493553157",
+        "name": "夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027320271712223232/N9_N0DRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 126,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "wxia1703",
+        "verified": false
+      }
+    ]
+  }
+}

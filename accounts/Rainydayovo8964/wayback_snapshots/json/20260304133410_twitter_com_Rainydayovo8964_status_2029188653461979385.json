@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2029097597672276300",
+    "created_at": "2026-03-04T13:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029188653461979385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2026563371777335296",
+          "start": 0,
+          "username": "41doch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029188653461979385",
+    "in_reply_to_user_id": "2026563371777335296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029108150293705125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@41doch 我来回换着用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2029097597672276300",
+        "created_at": "2026-03-04T13:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029188653461979385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2026563371777335296",
+              "start": 0,
+              "username": "41doch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029188653461979385",
+        "in_reply_to_user_id": "2026563371777335296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029108150293705125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@41doch 我来回换着用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026563371777335296",
+        "conversation_id": "2029097597672276300",
+        "created_at": "2026-03-04T08:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029108150293705125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029108150293705125",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029097597672276300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这倒是确实，不过写代码还是用deepseek 吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的人类 完全都在乱哭诉 只玩这个软件",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38816,
+          "following_count": 177,
+          "like_count": 2241,
+          "listed_count": 136,
+          "media_count": 373,
+          "tweet_count": 4156
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T07:43:28.000Z",
+        "description": "很普通的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hinata57169",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hinata57169",
+                "start": 0,
+                "url": "https://t.co/u8TEsu1GXn"
+              }
+            ]
+          }
+        },
+        "id": "2026563371777335296",
+        "location": "Kanagawa-ken, Japan",
+        "name": "一个普通人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029155261286662144/FMcqJSzj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/u8TEsu1GXn",
+        "username": "41doch",
+        "verified": false
+      }
+    ]
+  }
+}

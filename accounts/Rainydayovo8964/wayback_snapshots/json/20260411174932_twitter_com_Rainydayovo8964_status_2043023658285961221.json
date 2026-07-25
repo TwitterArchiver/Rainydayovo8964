@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042795201652232665",
+    "created_at": "2026-04-11T17:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023658285961221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036453022470119430",
+          "start": 0,
+          "username": "caomeiweishayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023658285961221",
+    "in_reply_to_user_id": "2036453022470119430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042890391691616744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweishayu 好的宝宝！我穿搭其实感觉也很差！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T17:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023658285961221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036453022470119430",
+              "start": 0,
+              "username": "caomeiweishayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023658285961221",
+        "in_reply_to_user_id": "2036453022470119430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042890391691616744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweishayu 好的宝宝！我穿搭其实感觉也很差！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036453022470119430",
+        "conversation_id": "2042795201652232665",
+        "created_at": "2026-04-11T08:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042890391691616744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042890391691616744",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042795201652232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 嘿嘿既然都分享的化妆品我来分享一下化妆心得吧！眉眼很重要！氛围感也很重要！穿搭和发型大于妆容精致度！想要眼睛好看的假睫毛很重要上下都重要哦！平常的妆买点水光感粉嫩口红就好，韩女妆适合所有休闲场合还贴脸尤其zyy仿妆，最后穿搭和发型真的很重要！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2634,
+          "listed_count": 123,
+          "media_count": 400,
+          "tweet_count": 5020
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:40:22.000Z",
+        "description": "ESTP 04 ♑️ 纯粹的碎碎念",
+        "id": "2036453022470119430",
+        "name": "过五关沾肉酱",
+        "pinned_tweet_id": "2041529887605870644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041106456351490048/4aRf1aj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "caomeiweishayu",
+        "verified": false
+      }
+    ]
+  }
+}

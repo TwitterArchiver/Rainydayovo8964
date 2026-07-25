@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2024002367478182370",
+    "created_at": "2026-02-18T12:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024093444927619211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1223598352123584513",
+          "start": 0,
+          "username": "xxddinghenkbek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024093444927619211",
+    "in_reply_to_user_id": "1223598352123584513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024038427839320110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxddinghenkbek 是的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2024002367478182370",
+        "created_at": "2026-02-18T12:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024093444927619211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1223598352123584513",
+              "start": 0,
+              "username": "xxddinghenkbek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024093444927619211",
+        "in_reply_to_user_id": "1223598352123584513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024038427839320110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxddinghenkbek 是的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223598352123584513",
+        "conversation_id": "2024002367478182370",
+        "created_at": "2026-02-18T08:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024038427839320110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024038427839320110",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024002367478182370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我也有这种困扰。有的人不熟，我也不爱说太多，也不想显示的很热情。但是总要求我得能说会道，八面玲珑。想想还是算了吧，太抽象了。而且工作的时候，又要求和领导少喝酒少抽烟。对人要求太尼玛分裂了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38833,
+          "following_count": 176,
+          "like_count": 2194,
+          "listed_count": 135,
+          "media_count": 374,
+          "tweet_count": 4093
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T13:26:02.000Z",
+        "description": "The world is so interesting ,I must be enjoy the life.",
+        "id": "1223598352123584513",
+        "name": "MOTDXH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857409243013599232/qzdXZ6Vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 518,
+          "like_count": 1073,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 3203
+        },
+        "username": "xxddinghenkbek",
+        "verified": false
+      }
+    ]
+  }
+}

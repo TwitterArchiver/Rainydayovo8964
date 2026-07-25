@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040238623036227584"
+      ],
+      "media_source_tweet_id": [
+        "2040238628505636920"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040536359090389348",
+    "created_at": "2026-04-04T21:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040536359090389348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QN3BF8NTji",
+          "end": 45,
+          "expanded_url": "https://x.com/Miiharukawa/status/2040238628505636920/photo/1",
+          "media_key": "3_2040238623036227584",
+          "start": 22,
+          "url": "https://t.co/QN3BF8NTji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040536359090389348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040238628505636920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我就这样 https://t.co/QN3BF8NTji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2040238623036227584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBiN88bQAAutU6.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040238623036227584"
+          ],
+          "media_source_tweet_id": [
+            "2040238628505636920"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040536359090389348",
+        "created_at": "2026-04-04T21:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040536359090389348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QN3BF8NTji",
+              "end": 45,
+              "expanded_url": "https://x.com/Miiharukawa/status/2040238628505636920/photo/1",
+              "media_key": "3_2040238623036227584",
+              "start": 22,
+              "url": "https://t.co/QN3BF8NTji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040536359090389348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040238628505636920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我就这样 https://t.co/QN3BF8NTji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040238623036227584"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040238628505636920",
+        "created_at": "2026-04-04T01:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040238628505636920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QN3BF8NTji",
+              "end": 28,
+              "expanded_url": "https://x.com/Miiharukawa/status/2040238628505636920/photo/1",
+              "media_key": "3_2040238623036227584",
+              "start": 5,
+              "url": "https://t.co/QN3BF8NTji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040238628505636920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23255,
+          "like_count": 924,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/QN3BF8NTji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38323,
+          "following_count": 193,
+          "like_count": 2461,
+          "listed_count": 130,
+          "media_count": 387,
+          "tweet_count": 4646
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 168,
+          "like_count": 4277,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 1347
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

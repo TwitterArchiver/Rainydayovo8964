@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013614486499008627",
+    "created_at": "2026-01-20T14:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013622911551115383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1162919446488342528",
+          "start": 0,
+          "username": "PPPygmalion"
+        },
+        {
+          "end": 24,
+          "id": "1823405068034744320",
+          "start": 13,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013622911551115383",
+    "in_reply_to_user_id": "1162919446488342528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013614486499008627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PPPygmalion @hown530150 我滴天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013614420367228928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpZCXwAA5JFj.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013614420337836033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpY7XQAEoZU4.jpg",
+        "width": 543
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013614420379713536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpZFWQAA_MKo.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2013614486499008627",
+        "created_at": "2026-01-20T14:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013622911551115383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1162919446488342528",
+              "start": 0,
+              "username": "PPPygmalion"
+            },
+            {
+              "end": 24,
+              "id": "1823405068034744320",
+              "start": 13,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013622911551115383",
+        "in_reply_to_user_id": "1162919446488342528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013614486499008627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PPPygmalion @hown530150 我滴天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013614420367228928",
+            "3_2013614420337836033",
+            "3_2013614420379713536"
+          ]
+        },
+        "author_id": "1162919446488342528",
+        "conversation_id": "2013614486499008627",
+        "created_at": "2026-01-20T14:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013614486499008627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420367228928",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            },
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420337836033",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            },
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420379713536",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013614486499008627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转发并评论这条抽：1314r✖️1、520r✖️2、52r✖️20。挂久一点十天后开奖。\n不用关注，因为我不靠这个起号。\n\n前期提要见主页前几条推文。\nP1是1314r的🚪哥，被端盘子月赚3000的讨口子🚪姐骂没情商。\n评论区是520r的🚪哥，被该🚪姐临时加价讨要不成恼羞成怒，进行疯狂辱骂。\n我原本以为上次52r✖️10就是最后抽奖了。但今天两位入过同一个🚪姐的哥们找到我，提供了被欺骗辱骂的聊天记录。三人协商集资组织这次抽奖。既然入🚪没有反馈，不如将🚪费回馈大家。\nP23是该🚪姐各个社交账号，举报截图可提高获奖概率。\n如果有新的🚪哥提供被欺骗辱骂的聊天记录，有后续抽奖的可能性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 292,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "转发并评论这条抽：1314r✖️1、520r✖️2、52r✖️20。挂久一点十天后开奖。\n不用关注，因为我不靠这个起号。\n\n前期提要见主页前几条推文。\nP1是1314r的🚪哥，被端盘子月赚3000的讨口子🚪姐骂没情商。\n评论区是520r的🚪哥，被该🚪姐临时加价讨要不成恼羞成怒，进行疯狂辱骂。 https://t.co/eIcsV8uIOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39166,
+          "following_count": 167,
+          "like_count": 2071,
+          "listed_count": 131,
+          "media_count": 358,
+          "tweet_count": 3805
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T02:49:48.000Z",
+        "description": "最想要的死法是戴耳机听歌时手机塞进嘴巴里突发爆炸",
+        "id": "1162919446488342528",
+        "name": "皮格马利翁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472955501373980672/t18sP6xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1438,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "PPPygmalion",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "焦虑中。。。",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "pinned_tweet_id": "1985364106699043291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 764,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 6248
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

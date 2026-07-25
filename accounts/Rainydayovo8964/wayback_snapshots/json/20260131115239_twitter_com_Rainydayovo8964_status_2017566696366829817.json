@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2017565483005084095",
+    "created_at": "2026-01-31T11:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017566696366829817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732468347206594560",
+          "start": 0,
+          "username": "ManQiu12872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017566696366829817",
+    "in_reply_to_user_id": "1732468347206594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017566117850660978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManQiu12872 就是想发泄罢了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2017565483005084095",
+        "created_at": "2026-01-31T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017566696366829817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732468347206594560",
+              "start": 0,
+              "username": "ManQiu12872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017566696366829817",
+        "in_reply_to_user_id": "1732468347206594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017566117850660978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManQiu12872 就是想发泄罢了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732468347206594560",
+        "conversation_id": "2017565483005084095",
+        "created_at": "2026-01-31T11:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017566117850660978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017566117850660978",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017565483005084095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 《想约炮的时候最精了》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  只玩这个软件 其他平台默认盗图 发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38787,
+          "following_count": 169,
+          "like_count": 2122,
+          "listed_count": 133,
+          "media_count": 369,
+          "tweet_count": 3908
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T18:33:52.000Z",
+        "description": "没想到失去的勇气我还留着",
+        "id": "1732468347206594560",
+        "name": "满秋",
+        "pinned_tweet_id": "1892896216922673509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976921044507410432/LKSD50oe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 6,
+          "like_count": 34757,
+          "listed_count": 2,
+          "media_count": 1308,
+          "tweet_count": 2762
+        },
+        "username": "ManQiu12872",
+        "verified": false
+      }
+    ]
+  }
+}

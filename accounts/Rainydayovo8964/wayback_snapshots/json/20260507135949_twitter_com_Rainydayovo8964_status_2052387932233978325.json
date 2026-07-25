@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052308550635098129",
+    "created_at": "2026-05-07T13:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052387932233978325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049335233376571392",
+          "start": 0,
+          "username": "Jasomerhoxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052387932233978325",
+    "in_reply_to_user_id": "2049335233376571392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052385246822400494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasomerhoxn 死了9000万个道士4000万个纸扎匠100万个修女100万个神父4000万捞尸人7万棺材匠7000个紫袍道士10000万个蓝袍道士1000个鬼杀队成员10000个柱甚至连如来佛关公耶稣都被撞伤了消耗了1000兆吨糯米1000000000张黄符700亿立方黑狗血9000亿吨大蒜1000亿根木桩500亿根黑驴蹄3000支桃木剑都没镇住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T13:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052387932233978325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049335233376571392",
+              "start": 0,
+              "username": "Jasomerhoxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052387932233978325",
+        "in_reply_to_user_id": "2049335233376571392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052385246822400494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasomerhoxn 死了9000万个道士4000万个纸扎匠100万个修女100万个神父4000万捞尸人7万棺材匠7000个紫袍道士10000万个蓝袍道士1000个鬼杀队成员10000个柱甚至连如来佛关公耶稣都被撞伤了消耗了1000兆吨糯米1000000000张黄符700亿立方黑狗血9000亿吨大蒜1000亿根木桩500亿根黑驴蹄3000支桃木剑都没镇住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049335233376571392",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T13:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052385246822400494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052385246822400494",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308550635098129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 老衲今日怕是要在此圆寂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38904,
+          "following_count": 211,
+          "like_count": 2867,
+          "listed_count": 132,
+          "media_count": 419,
+          "tweet_count": 5571
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:50:42.000Z",
+        "description": "",
+        "id": "2049335233376571392",
+        "name": "Jasomer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049335687401631744/B9C1l-99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "Jasomerhoxn",
+        "verified": false
+      }
+    ]
+  }
+}

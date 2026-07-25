@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040348408935022688",
+    "created_at": "2026-04-04T09:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040356725417750972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036840148277796864",
+          "start": 0,
+          "username": "Zozo_zzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040356725417750972",
+    "in_reply_to_user_id": "2036840148277796864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040351239465308184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zozo_zzu 好嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040348408935022688",
+        "created_at": "2026-04-04T09:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040356725417750972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036840148277796864",
+              "start": 0,
+              "username": "Zozo_zzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040356725417750972",
+        "in_reply_to_user_id": "2036840148277796864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040351239465308184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zozo_zzu 好嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036840148277796864",
+        "conversation_id": "2040348408935022688",
+        "created_at": "2026-04-04T08:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040351239465308184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040351239465308184",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040348408935022688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 可以试试🤲🏻我打过两种副作用都很小就是不想吃饭之类的（身边长辈朋友也都在打所以应该不算幸存者偏差，还蛮安全的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38330,
+          "following_count": 191,
+          "like_count": 2449,
+          "listed_count": 134,
+          "media_count": 386,
+          "tweet_count": 4625
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:19:24.000Z",
+        "description": "胡思乱想的垃圾桶🗑️",
+        "id": "2036840148277796864",
+        "name": "Zizi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039401097375465472/5bMeijYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "username": "Zozo_zzu",
+        "verified": false
+      }
+    ]
+  }
+}

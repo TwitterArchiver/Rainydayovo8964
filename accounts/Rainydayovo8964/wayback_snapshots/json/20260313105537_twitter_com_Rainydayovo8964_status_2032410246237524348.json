@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032410246237524348",
+    "created_at": "2026-03-13T10:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032410246237524348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012829695558176768",
+          "start": 3,
+          "username": "scat77m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032410246237524348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032121441794314726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scat77m: 其实我的理想型是淫乱的性爱和萌萌的纯爱并存的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032410246237524348",
+        "created_at": "2026-03-13T10:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032410246237524348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012829695558176768",
+              "start": 3,
+              "username": "scat77m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032410246237524348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032121441794314726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scat77m: 其实我的理想型是淫乱的性爱和萌萌的纯爱并存的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012829695558176768",
+        "conversation_id": "2032121441794314726",
+        "created_at": "2026-03-12T15:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032121441794314726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032121441794314726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 45658,
+          "like_count": 1120,
+          "quote_count": 20,
+          "reply_count": 60,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "其实我的理想型是淫乱的性爱和萌萌的纯爱并存的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38772,
+          "following_count": 182,
+          "like_count": 2270,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4196
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:09:40.000Z",
+        "description": "喜欢有礼貌的人",
+        "id": "2012829695558176768",
+        "name": "困呜呜淇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029473189664047109/tY33mXnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 16,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "username": "scat77m",
+        "verified": false
+      }
+    ]
+  }
+}

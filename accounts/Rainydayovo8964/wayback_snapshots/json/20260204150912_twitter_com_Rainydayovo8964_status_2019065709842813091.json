@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2019008424844091799",
+    "created_at": "2026-02-04T15:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019065709842813091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968116864669847553",
+          "start": 0,
+          "username": "kimojicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019065709842813091",
+    "in_reply_to_user_id": "1968116864669847553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019055169724702895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimojicc 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2019008424844091799",
+        "created_at": "2026-02-04T15:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019065709842813091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968116864669847553",
+              "start": 0,
+              "username": "kimojicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019065709842813091",
+        "in_reply_to_user_id": "1968116864669847553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019055169724702895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimojicc 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968116864669847553",
+        "conversation_id": "2019008424844091799",
+        "created_at": "2026-02-04T14:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019055169724702895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019055169724702895",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019008424844091799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 水军的主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38720,
+          "following_count": 171,
+          "like_count": 2142,
+          "listed_count": 134,
+          "media_count": 370,
+          "tweet_count": 3984
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T00:56:53.000Z",
+        "description": "06/♏️/infj ｜和平/瓦 可陪玩｜🚪88/520/1314 /2778纯绿半绿（m不打算调任何人）不线下｜加联系有🚪",
+        "id": "1968116864669847553",
+        "location": "可以给我打赏吗",
+        "name": "香香圆圆",
+        "pinned_tweet_id": "2002416124156391570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001957693515616257/kYjJQtS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 16,
+          "like_count": 262,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 313
+        },
+        "username": "kimojicc",
+        "verified": false
+      }
+    ]
+  }
+}

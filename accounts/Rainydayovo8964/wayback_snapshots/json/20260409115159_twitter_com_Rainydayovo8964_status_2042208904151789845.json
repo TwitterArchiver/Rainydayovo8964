@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042194461892252021",
+    "created_at": "2026-04-09T11:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042208904151789845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000609711155240961",
+          "start": 0,
+          "username": "FrankL91080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042208904151789845",
+    "in_reply_to_user_id": "2000609711155240961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042207072893448325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankL91080 😭谢谢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042194461892252021",
+        "created_at": "2026-04-09T11:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042208904151789845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000609711155240961",
+              "start": 0,
+              "username": "FrankL91080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042208904151789845",
+        "in_reply_to_user_id": "2000609711155240961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042207072893448325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankL91080 😭谢谢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000609711155240961",
+        "conversation_id": "2042194461892252021",
+        "created_at": "2026-04-09T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042207072893448325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042207072893448325",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194461892252021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 对自己好不用愧疚 你要陪自己一辈子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37997,
+          "following_count": 198,
+          "like_count": 2563,
+          "listed_count": 126,
+          "media_count": 397,
+          "tweet_count": 4899
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T16:51:50.000Z",
+        "description": "天下第一妹控。（不是亲妹没必要骂我）",
+        "id": "2000609711155240961",
+        "location": "神治明宫",
+        "name": "小洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000836874429194241/xl0VfjH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 127
+        },
+        "username": "FrankL91080",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2052308550635098129",
+    "created_at": "2026-05-07T14:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052388073376559342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1718528751036981248",
+          "start": 0,
+          "username": "liome_whale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052388073376559342",
+    "in_reply_to_user_id": "1718528751036981248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052384428706705433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liome_whale 是的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2052384425816780800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuIwuNacAA_tV-.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T14:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052388073376559342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1718528751036981248",
+              "start": 0,
+              "username": "liome_whale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388073376559342",
+        "in_reply_to_user_id": "1718528751036981248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052384428706705433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liome_whale 是的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052384425816780800"
+          ]
+        },
+        "author_id": "1718528751036981248",
+        "conversation_id": "2052308550635098129",
+        "created_at": "2026-05-07T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052384428706705433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GO514m8qYw",
+              "end": 54,
+              "expanded_url": "https://x.com/liome_whale/status/2052384428706705433/photo/1",
+              "media_key": "3_2052384425816780800",
+              "start": 31,
+              "url": "https://t.co/GO514m8qYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052384428706705433",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308550635098129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这就是三步之内必有解药吗… https://t.co/GO514m8qYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38904,
+          "following_count": 211,
+          "like_count": 2867,
+          "listed_count": 132,
+          "media_count": 419,
+          "tweet_count": 5572
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T07:23:01.000Z",
+        "description": "这个家伙很懒，根本没想写什么",
+        "id": "1718528751036981248",
+        "name": "liome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790021234769481728/zX8Hy0lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "liome_whale",
+        "verified": false
+      }
+    ]
+  }
+}

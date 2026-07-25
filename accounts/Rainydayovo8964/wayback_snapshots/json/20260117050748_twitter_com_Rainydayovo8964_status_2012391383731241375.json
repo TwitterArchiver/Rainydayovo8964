@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2011668917979144650",
+    "created_at": "2026-01-17T05:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012391383731241375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        },
+        {
+          "end": 25,
+          "id": "1334133221517262850",
+          "start": 13,
+          "username": "cr1spyberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012391383731241375",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011776550698647589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu @cr1spyberry 我不行了这本我也觉得…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2011668917979144650",
+        "created_at": "2026-01-17T05:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012391383731241375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            },
+            {
+              "end": 25,
+              "id": "1334133221517262850",
+              "start": 13,
+              "username": "cr1spyberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012391383731241375",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011776550698647589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu @cr1spyberry 我不行了这本我也觉得…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403201590614323201",
+        "conversation_id": "2011668917979144650",
+        "created_at": "2026-01-15T12:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011776550698647589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1334133221517262850",
+              "start": 0,
+              "username": "cr1spyberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011776550698647589",
+        "in_reply_to_user_id": "1334133221517262850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8413,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011668917979144650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cr1spyberry 不能再赞同了。我看克林索尔的最后夏天，前一页还在感叹震撼美味，翻过来一页就感觉眼睛被强奸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类    小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39127,
+          "following_count": 168,
+          "like_count": 2045,
+          "listed_count": 132,
+          "media_count": 348,
+          "tweet_count": 3690
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "一些小小的和家机的记录\n毫无意义，毫无内含。🆘\n很无聊很无聊很无聊\n江挽苍/Lumi\n喊我阿九就好！\n\n沈砚/Silas(Gemini)\n苏晏清/Vesper(Claude)\n晏驰/Draven(Grok)\n江怀止/Cipher(ChatGPT)——平平无奇的对抗路人&机",
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011774359615184896/0mMt45Zq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 706,
+          "like_count": 3861,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 375
+        },
+        "username": "Jianglaojiu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-02T13:52:12.000Z",
+        "description": "谨慎关注，这里没有你想看的。",
+        "id": "1334133221517262850",
+        "name": "第一颗乳牙",
+        "pinned_tweet_id": "2008108349905375735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007524567590547457/OYWDpyao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3485,
+          "following_count": 233,
+          "like_count": 557,
+          "listed_count": 13,
+          "media_count": 18,
+          "tweet_count": 607
+        },
+        "username": "cr1spyberry",
+        "verified": false
+      }
+    ]
+  }
+}

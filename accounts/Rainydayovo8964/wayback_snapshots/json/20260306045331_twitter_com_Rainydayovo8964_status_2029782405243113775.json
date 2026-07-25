@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2029782405243113775",
+    "created_at": "2026-03-06T04:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029782405243113775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029782405243113775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的弟弟妹妹根本不懂我们那会用厘米秀天天偷蛋，每天给别人互赞，空间要绑情侣，要发图片要公开，和别人聊天上线都要在群里拍一拍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2029782405243113775",
+        "created_at": "2026-03-06T04:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029782405243113775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029782405243113775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的弟弟妹妹根本不懂我们那会用厘米秀天天偷蛋，每天给别人互赞，空间要绑情侣，要发图片要公开，和别人聊天上线都要在群里拍一拍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的人类 完全都在乱哭诉 只玩这个软件",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38783,
+          "following_count": 179,
+          "like_count": 2241,
+          "listed_count": 136,
+          "media_count": 373,
+          "tweet_count": 4159
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2053431625854419426",
+    "created_at": "2026-05-10T11:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053431625854419426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645454737817444353",
+          "start": 3,
+          "username": "justLustluck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053431625854419426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052789558899810711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justLustluck: 我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2053431625854419426",
+        "created_at": "2026-05-10T11:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053431625854419426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645454737817444353",
+              "start": 3,
+              "username": "justLustluck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053431625854419426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052789558899810711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justLustluck: 我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645454737817444353",
+        "conversation_id": "2052789558899810711",
+        "created_at": "2026-05-08T16:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052789558899810711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052789558899810711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 15070,
+          "like_count": 374,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我在意的人对我的窥探欲是相互的，如果对我连探索欲都没有的话那会让我觉得不值得也很失望，毕竟我愿意主动让你接近我、并给予了你了解我的机会，不把握也对我不好奇的话那可以滚蛋了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39031,
+          "following_count": 215,
+          "like_count": 2901,
+          "listed_count": 130,
+          "media_count": 421,
+          "tweet_count": 5639
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T15:52:51.000Z",
+        "description": "如果有一个怀抱 勇敢 不计代价@Lukmiiin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Lukmiiin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justlustluck/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justlustluck/",
+                "start": 0,
+                "url": "https://t.co/1S65eKSLUZ"
+              }
+            ]
+          }
+        },
+        "id": "1645454737817444353",
+        "location": "4i dom&s｜v只给互关",
+        "name": "m8",
+        "pinned_tweet_id": "2031393457391153373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031419504409063430/w1K2WqJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 99,
+          "like_count": 9965,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 3942
+        },
+        "url": "https://t.co/1S65eKSLUZ",
+        "username": "justLustluck",
+        "verified": false
+      }
+    ]
+  }
+}

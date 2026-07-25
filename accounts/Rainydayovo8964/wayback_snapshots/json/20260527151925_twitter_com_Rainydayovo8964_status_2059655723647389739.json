@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2059603341144183016",
+    "created_at": "2026-05-27T15:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059655723647389739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749129005977219072",
+          "start": 0,
+          "username": "YouSu32642"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059655723647389739",
+    "in_reply_to_user_id": "1749129005977219072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059655043952128456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouSu32642 对不起👐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2059603341144183016",
+        "created_at": "2026-05-27T15:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655723647389739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749129005977219072",
+              "start": 0,
+              "username": "YouSu32642"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655723647389739",
+        "in_reply_to_user_id": "1749129005977219072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059655043952128456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouSu32642 对不起👐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749129005977219072",
+        "conversation_id": "2059603341144183016",
+        "created_at": "2026-05-27T15:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655043952128456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655043952128456",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059603341144183016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 天使你根本不是天使。T^T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 92,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 69,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38983,
+          "following_count": 221,
+          "like_count": 2963,
+          "listed_count": 129,
+          "media_count": 429,
+          "tweet_count": 5803
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T17:57:29.000Z",
+        "description": "已经对健身穿搭男毫无抵抗力了‖私信礼貌回复‖边界感很重要‖只是个爱打游戏的零天赋笨蛋",
+        "id": "1749129005977219072",
+        "location": "Taiwan",
+        "name": "关于爱的定义",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050995150529376256/QFx5MPKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 22,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 129
+        },
+        "username": "YouSu32642",
+        "verified": false
+      }
+    ]
+  }
+}

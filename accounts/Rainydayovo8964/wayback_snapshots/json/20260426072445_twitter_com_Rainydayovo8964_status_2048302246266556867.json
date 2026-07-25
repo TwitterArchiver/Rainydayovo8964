@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T07:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048302246266556867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814877339160850432",
+          "start": 0,
+          "username": "gnot640429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048302246266556867",
+    "in_reply_to_user_id": "1814877339160850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048271968638533951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gnot640429 啊啊啊啊啊不敢说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302246266556867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814877339160850432",
+              "start": 0,
+              "username": "gnot640429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302246266556867",
+        "in_reply_to_user_id": "1814877339160850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048271968638533951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnot640429 啊啊啊啊啊不敢说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814877339160850432",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T05:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048271968638533951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048271968638533951",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 一堆傻逼穿个厚底鞋带个假发的性转版七鹤大人 卖卖姬又能被捧成热机 谁敢想吃到女同红利的都是这种精神男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38472,
+          "following_count": 208,
+          "like_count": 2769,
+          "listed_count": 115,
+          "media_count": 413,
+          "tweet_count": 5346
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T04:17:41.000Z",
+        "description": "",
+        "id": "1814877339160850432",
+        "name": "՞`꒳´՞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026259848204075008/l-ee_sZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 93,
+          "like_count": 7133,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2890
+        },
+        "username": "gnot640429",
+        "verified": false
+      }
+    ]
+  }
+}

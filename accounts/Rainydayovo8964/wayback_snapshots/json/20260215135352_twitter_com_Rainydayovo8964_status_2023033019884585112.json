@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2022683748576432547",
+    "created_at": "2026-02-15T13:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023033019884585112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865337235887083520",
+          "start": 0,
+          "username": "phoenixqiu19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023033019884585112",
+    "in_reply_to_user_id": "1865337235887083520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023009622953771034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phoenixqiu19 是的😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-15T13:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023033019884585112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865337235887083520",
+              "start": 0,
+              "username": "phoenixqiu19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023033019884585112",
+        "in_reply_to_user_id": "1865337235887083520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023009622953771034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phoenixqiu19 是的😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865337235887083520",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-15T12:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023009622953771034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023009622953771034",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022683748576432547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 唯一不好的就是酒店的被子和床没那么舒服，而且不敢裸睡😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38813,
+          "following_count": 173,
+          "like_count": 2161,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4044
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T10:07:24.000Z",
+        "description": "不约炮不露脸会羞耻有礼貌。看到都会回复，聊什么都可以，随便骂随便调随便看，嗯，是的",
+        "id": "1865337235887083520",
+        "name": "phoenix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018616543199006720/GNWo6jNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 439,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 130
+        },
+        "username": "phoenixqiu19",
+        "verified": false
+      }
+    ]
+  }
+}

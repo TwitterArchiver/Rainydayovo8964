@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013998647403520000"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013998656760746162",
+    "created_at": "2026-01-21T15:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013998656760746162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o9saLGBzLQ",
+          "end": 32,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2013998656760746162/photo/1",
+          "media_key": "3_2013998647403520000",
+          "start": 9,
+          "url": "https://t.co/o9saLGBzLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013998656760746162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "变态可以点开.. https://t.co/o9saLGBzLQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2013998656760746162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2013998656760746162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2013998656760746162"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2013998647403520000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MpGWSaoAAQ4gi.jpg",
+        "width": 1007
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39185,
+          "following_count": 169,
+          "like_count": 2080,
+          "listed_count": 131,
+          "media_count": 360,
+          "tweet_count": 3838
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

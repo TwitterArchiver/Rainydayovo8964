@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2022683748576432547",
+    "created_at": "2026-02-14T16:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022711379807838708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735325187405672448",
+          "start": 0,
+          "username": "jiji132859"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022711379807838708",
+    "in_reply_to_user_id": "1735325187405672448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022705390065000651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiji132859 我也是！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-14T16:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022711379807838708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735325187405672448",
+              "start": 0,
+              "username": "jiji132859"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022711379807838708",
+        "in_reply_to_user_id": "1735325187405672448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022705390065000651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiji132859 我也是！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735325187405672448",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-14T16:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022705390065000651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022705390065000651",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022683748576432547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我去 我超喜欢！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38809,
+          "following_count": 172,
+          "like_count": 2155,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4015
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:45:50.000Z",
+        "description": "188🚪",
+        "id": "1735325187405672448",
+        "name": "喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998052794582827008/OgBBwilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15906,
+          "following_count": 117,
+          "like_count": 4434,
+          "listed_count": 35,
+          "media_count": 64,
+          "tweet_count": 901
+        },
+        "username": "jiji132859",
+        "verified": false
+      }
+    ]
+  }
+}

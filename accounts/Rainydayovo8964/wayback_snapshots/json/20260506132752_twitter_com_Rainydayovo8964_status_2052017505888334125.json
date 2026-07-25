@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2051966446855745997",
+    "created_at": "2026-05-06T13:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052017505888334125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1479532383598948352",
+          "start": 0,
+          "username": "sharkp12306"
+        },
+        {
+          "end": 26,
+          "id": "2035380679589220352",
+          "start": 13,
+          "username": "FchengZ37759"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052017505888334125",
+    "in_reply_to_user_id": "1479532383598948352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052014035483398224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkp12306 @FchengZ37759 😂😂😂我有过说自己是？傻逼吧…还表演性人格 我有说过我自己是吗 你也是神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2051966446855745997",
+        "created_at": "2026-05-06T13:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052017505888334125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1479532383598948352",
+              "start": 0,
+              "username": "sharkp12306"
+            },
+            {
+              "end": 26,
+              "id": "2035380679589220352",
+              "start": 13,
+              "username": "FchengZ37759"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052017505888334125",
+        "in_reply_to_user_id": "1479532383598948352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052014035483398224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkp12306 @FchengZ37759 😂😂😂我有过说自己是？傻逼吧…还表演性人格 我有说过我自己是吗 你也是神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479532383598948352",
+        "conversation_id": "2051966446855745997",
+        "created_at": "2026-05-06T13:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052014035483398224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 30,
+              "id": "2035380679589220352",
+              "start": 17,
+              "username": "FchengZ37759"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052014035483398224",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051978235727286332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 @FchengZ37759 表演性人格搞这一出暗示别人自己是自卑的美女 闹麻 你如果真的美轮不到来x上做这种小丑表演 早点认清自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 54,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 31,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38917,
+          "following_count": 209,
+          "like_count": 2852,
+          "listed_count": 133,
+          "media_count": 417,
+          "tweet_count": 5520
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T19:16:48.000Z",
+        "description": "",
+        "id": "1479532383598948352",
+        "name": "KenD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559279466572312576/7uwwmn54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 46,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "sharkp12306",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T15:39:29.000Z",
+        "description": "ovo",
+        "id": "2035380679589220352",
+        "name": "grief",
+        "pinned_tweet_id": "2051351645003694492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051716521819529216/IMBXx0Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "FchengZ37759",
+        "verified": false
+      }
+    ]
+  }
+}

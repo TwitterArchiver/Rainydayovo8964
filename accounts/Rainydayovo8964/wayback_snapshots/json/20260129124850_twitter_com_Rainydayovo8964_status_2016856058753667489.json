@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2016550165772116168",
+    "created_at": "2026-01-29T12:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016856058753667489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916845572230971392",
+          "start": 0,
+          "username": "ChenY28570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016856058753667489",
+    "in_reply_to_user_id": "1916845572230971392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016848692624691308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY28570 我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2016550165772116168",
+        "created_at": "2026-01-29T12:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016856058753667489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916845572230971392",
+              "start": 0,
+              "username": "ChenY28570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016856058753667489",
+        "in_reply_to_user_id": "1916845572230971392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016848692624691308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY28570 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916845572230971392",
+        "conversation_id": "2016550165772116168",
+        "created_at": "2026-01-29T12:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016848692624691308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016848692624691308",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016550165772116168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 求被爱教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38773,
+          "following_count": 171,
+          "like_count": 2103,
+          "listed_count": 133,
+          "media_count": 367,
+          "tweet_count": 3886
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T13:23:18.000Z",
+        "description": "我玩推只是为了追星，请不要骚扰我",
+        "id": "1916845572230971392",
+        "name": "邪恶卷心菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987213314192293888/GJ0RWGzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 45,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 562
+        },
+        "username": "ChenY28570",
+        "verified": false
+      }
+    ]
+  }
+}

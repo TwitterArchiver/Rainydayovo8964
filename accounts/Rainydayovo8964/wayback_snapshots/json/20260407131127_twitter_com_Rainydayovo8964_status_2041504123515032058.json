@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041502432463835313",
+    "created_at": "2026-04-07T13:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041504123515032058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857782029099876352",
+          "start": 0,
+          "username": "iiiamwhatusee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041504123515032058",
+    "in_reply_to_user_id": "1857782029099876352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041502432463835313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiiamwhatusee 我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041502432463835313",
+        "created_at": "2026-04-07T13:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041504123515032058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857782029099876352",
+              "start": 0,
+              "username": "iiiamwhatusee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041504123515032058",
+        "in_reply_to_user_id": "1857782029099876352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041502432463835313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiiamwhatusee 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857782029099876352",
+        "conversation_id": "2041502432463835313",
+        "created_at": "2026-04-07T13:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041502432463835313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041502432463835313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受 加班加完有种想哭哭不出来的感觉 明明只是个实习生而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38246,
+          "following_count": 198,
+          "like_count": 2555,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4817
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T13:45:38.000Z",
+        "description": "世界少了我也能转时就离开。最小的老子：@fansile2025 大大的老子：@LuvSic02274433 匿名信：https://t.co/gYIs7GitIe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "fansile2025"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "LuvSic02274433"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%91%E8%8…",
+                "end": 81,
+                "expanded_url": "https://ngl.link/%E9%BB%91%E8%89%B2%E5%89%91%E5%A3%AB",
+                "start": 58,
+                "url": "https://t.co/gYIs7GitIe"
+              }
+            ]
+          }
+        },
+        "id": "1857782029099876352",
+        "location": "你手中的一支烟",
+        "name": "你看向我的那个瞬间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024113670515744768/ms_J1fWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 260,
+          "like_count": 1328,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 5081
+        },
+        "username": "iiiamwhatusee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042968819942199679",
+    "created_at": "2026-04-11T16:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043004671384756231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818625645645381634",
+          "start": 0,
+          "username": "CryDon0416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043004671384756231",
+    "in_reply_to_user_id": "1818625645645381634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043004206387466266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryDon0416 我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042968819942199679",
+        "created_at": "2026-04-11T16:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043004671384756231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818625645645381634",
+              "start": 0,
+              "username": "CryDon0416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043004671384756231",
+        "in_reply_to_user_id": "1818625645645381634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043004206387466266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryDon0416 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818625645645381634",
+        "conversation_id": "2042968819942199679",
+        "created_at": "2026-04-11T16:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043004206387466266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043004206387466266",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042968819942199679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这期删了呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37825,
+          "following_count": 198,
+          "like_count": 2616,
+          "listed_count": 123,
+          "media_count": 399,
+          "tweet_count": 4997
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T12:32:11.000Z",
+        "description": "不要觉得自己是孤身一人",
+        "id": "1818625645645381634",
+        "name": "晚安兔牙",
+        "pinned_tweet_id": "1958038432841887907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998030852622843904/Gsyhu6PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 40,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1708
+        },
+        "username": "CryDon0416",
+        "verified": false
+      }
+    ]
+  }
+}

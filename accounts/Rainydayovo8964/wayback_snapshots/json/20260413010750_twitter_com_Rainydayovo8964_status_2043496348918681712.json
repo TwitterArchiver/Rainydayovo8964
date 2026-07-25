@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043362833644310695",
+    "created_at": "2026-04-13T01:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043496348918681712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964753697340268544",
+          "start": 0,
+          "username": "fanfanbb112495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043496348918681712",
+    "in_reply_to_user_id": "1964753697340268544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043388472275468581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanfanbb112495 我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2043388469536526336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuS_JjakAAjKgA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-13T01:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043496348918681712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964753697340268544",
+              "start": 0,
+              "username": "fanfanbb112495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043496348918681712",
+        "in_reply_to_user_id": "1964753697340268544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043388472275468581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanfanbb112495 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043388469536526336"
+          ]
+        },
+        "author_id": "1964753697340268544",
+        "conversation_id": "2043362833644310695",
+        "created_at": "2026-04-12T17:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043388472275468581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnK3dSTpHo",
+              "end": 61,
+              "expanded_url": "https://x.com/fanfanbb112495/status/2043388472275468581/photo/1",
+              "media_key": "3_2043388469536526336",
+              "start": 38,
+              "url": "https://t.co/MnK3dSTpHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043388472275468581",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362833644310695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 主播我带你抓这个和恶魔狼你只要牵手就好了 https://t.co/MnK3dSTpHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37810,
+          "following_count": 199,
+          "like_count": 2672,
+          "listed_count": 120,
+          "media_count": 402,
+          "tweet_count": 5075
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T18:12:48.000Z",
+        "description": "07 isfp",
+        "id": "1964753697340268544",
+        "name": "小凡fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002063675801112576/_HgwvZ8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 42,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "fanfanbb112495",
+        "verified": false
+      }
+    ]
+  }
+}

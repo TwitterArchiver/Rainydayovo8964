@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040388785951867271",
+    "created_at": "2026-04-04T11:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040396923174338817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688075793464004608",
+          "start": 0,
+          "username": "zwj0605b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040396923174338817",
+    "in_reply_to_user_id": "1688075793464004608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040390875549933766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwj0605b 朋友圈全是这些 不知道同事怎么看他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040388785951867271",
+        "created_at": "2026-04-04T11:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040396923174338817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688075793464004608",
+              "start": 0,
+              "username": "zwj0605b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040396923174338817",
+        "in_reply_to_user_id": "1688075793464004608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040390875549933766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwj0605b 朋友圈全是这些 不知道同事怎么看他。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688075793464004608",
+        "conversation_id": "2040388785951867271",
+        "created_at": "2026-04-04T11:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040390875549933766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040390875549933766",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040388785951867271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 现实普通工作竟然还能遇到这种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38330,
+          "following_count": 193,
+          "like_count": 2455,
+          "listed_count": 134,
+          "media_count": 388,
+          "tweet_count": 4645
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T06:34:09.000Z",
+        "description": "性别男｜发出的本子可录制但请私信并艾特本人｜接定制",
+        "id": "1688075793464004608",
+        "name": "Jiraiya",
+        "pinned_tweet_id": "1894053714752631155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035754788680601600/0I8ncP0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 552,
+          "like_count": 3304,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 61
+        },
+        "username": "zwj0605b",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T06:34:09.000Z",
+        "description": "性别男｜发出的本子可录制但请私信并艾特本人｜接定制",
+        "id": "1688075793464004608",
+        "name": "Jiraiya",
+        "pinned_tweet_id": "1894053714752631155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035754788680601600/0I8ncP0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 552,
+          "like_count": 3304,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "zwj0605b",
+        "verified": false
+      }
+    ]
+  }
+}

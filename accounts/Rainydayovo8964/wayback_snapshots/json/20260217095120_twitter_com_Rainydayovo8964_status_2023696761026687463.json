@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2023391447148613635",
+    "created_at": "2026-02-17T09:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023696761026687463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840815507458441216",
+          "start": 0,
+          "username": "leikudadi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023696761026687463",
+    "in_reply_to_user_id": "1840815507458441216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023648746148688104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leikudadi 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2023391447148613635",
+        "created_at": "2026-02-17T09:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023696761026687463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840815507458441216",
+              "start": 0,
+              "username": "leikudadi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023696761026687463",
+        "in_reply_to_user_id": "1840815507458441216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023648746148688104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leikudadi 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840815507458441216",
+        "conversation_id": "2023391447148613635",
+        "created_at": "2026-02-17T06:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023648746148688104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023648746148688104",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023391447148613635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 吃完嘴巴得脚气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38793,
+          "following_count": 176,
+          "like_count": 2178,
+          "listed_count": 135,
+          "media_count": 374,
+          "tweet_count": 4076
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T18:06:51.000Z",
+        "description": "🇨🇳   top📺vox    bottom🦌alastor   ONLY",
+        "id": "1840815507458441216",
+        "location": "中国 🇨🇳",
+        "name": "蕾酷",
+        "pinned_tweet_id": "2016754556928217476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013684319839993856/F1yP9eBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 152,
+          "like_count": 2292,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1569
+        },
+        "username": "leikudadi",
+        "verified": false
+      }
+    ]
+  }
+}

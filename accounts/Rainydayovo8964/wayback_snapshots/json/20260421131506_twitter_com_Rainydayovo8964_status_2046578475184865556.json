@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2046504540686680274",
+    "created_at": "2026-04-21T13:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046578475184865556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046578475184865556",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046577745728352592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2046504540686680274",
+        "created_at": "2026-04-21T13:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046578475184865556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046578475184865556",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046577745728352592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2046504540686680274",
+        "created_at": "2026-04-21T13:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046577745728352592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046577745728352592",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046504540686680274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 别用修眉刀 人家都用那玩应儿防割的 割浅了会留下齿痕 非要割就买锋利点的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38167,
+          "following_count": 208,
+          "like_count": 2734,
+          "listed_count": 114,
+          "media_count": 408,
+          "tweet_count": 5244
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "不为说过的一切话负责 大部分都是情绪化言论或者自己和自己辩论 别对号入座 我只是一直自言自语在发疯…..",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2043622002289000507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 40,
+          "like_count": 3714,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1745
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

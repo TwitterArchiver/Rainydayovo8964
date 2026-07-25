@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038988955656528364",
+    "created_at": "2026-03-31T14:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038991676367331431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550363632458137600",
+          "start": 0,
+          "username": "sx20000626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038991676367331431",
+    "in_reply_to_user_id": "1550363632458137600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038989252802003236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sx20000626 那里刺激了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038988955656528364",
+        "created_at": "2026-03-31T14:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038991676367331431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550363632458137600",
+              "start": 0,
+              "username": "sx20000626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038991676367331431",
+        "in_reply_to_user_id": "1550363632458137600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038989252802003236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sx20000626 那里刺激了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550363632458137600",
+        "conversation_id": "2038988955656528364",
+        "created_at": "2026-03-31T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038989252802003236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038989252802003236",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038988955656528364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 因为刺激"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38253,
+          "following_count": 188,
+          "like_count": 2406,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4526
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T06:14:39.000Z",
+        "description": "",
+        "id": "1550363632458137600",
+        "name": "晓白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038303792819773440/GMZfs0fQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 188,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 131
+        },
+        "username": "sx20000626",
+        "verified": false
+      }
+    ]
+  }
+}

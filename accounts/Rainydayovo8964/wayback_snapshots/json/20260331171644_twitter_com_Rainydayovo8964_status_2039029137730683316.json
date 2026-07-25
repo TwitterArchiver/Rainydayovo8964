@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038956075555373544",
+    "created_at": "2026-03-31T17:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T18:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039029137730683316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000074771997020161",
+          "start": 0,
+          "username": "Ting260314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039029137730683316",
+    "in_reply_to_user_id": "2000074771997020161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039020778210144434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ting260314 还有其他症状吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038956075555373544",
+        "created_at": "2026-03-31T17:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039029137730683316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000074771997020161",
+              "start": 0,
+              "username": "Ting260314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039029137730683316",
+        "in_reply_to_user_id": "2000074771997020161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039020778210144434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ting260314 还有其他症状吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000074771997020161",
+        "conversation_id": "2038956075555373544",
+        "created_at": "2026-03-31T16:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039020778210144434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039020778210144434",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038956075555373544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 会很困很想睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38262,
+          "following_count": 190,
+          "like_count": 2413,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4549
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T05:26:08.000Z",
+        "description": "只回骚的",
+        "id": "2000074771997020161",
+        "location": "🚪128",
+        "name": "小蛋挞",
+        "pinned_tweet_id": "2038997829566579172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037963683360657408/NvIyqwg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "username": "Ting260314",
+        "verified": false
+      }
+    ]
+  }
+}

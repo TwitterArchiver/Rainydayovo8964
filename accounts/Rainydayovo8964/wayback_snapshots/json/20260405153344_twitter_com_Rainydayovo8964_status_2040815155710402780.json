@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040636533867491581",
+    "created_at": "2026-04-05T15:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040815155710402780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766293250653270016",
+          "start": 0,
+          "username": "hai_hao78438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040815155710402780",
+    "in_reply_to_user_id": "1766293250653270016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040813466274132037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai_hao78438 谢谢你老师 反正在我这里有男女朋友出轨就是很恶心 不论是网黄还是素人 而且我就是对于出轨发表自己的意见 出轨就是不对！觉得出轨正确的  我也懒得争辩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040636533867491581",
+        "created_at": "2026-04-05T15:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040815155710402780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766293250653270016",
+              "start": 0,
+              "username": "hai_hao78438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040815155710402780",
+        "in_reply_to_user_id": "1766293250653270016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040813466274132037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai_hao78438 谢谢你老师 反正在我这里有男女朋友出轨就是很恶心 不论是网黄还是素人 而且我就是对于出轨发表自己的意见 出轨就是不对！觉得出轨正确的  我也懒得争辩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766293250653270016",
+        "conversation_id": "2040636533867491581",
+        "created_at": "2026-04-05T15:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040813466274132037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040813466274132037",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040636533867491581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 到时候那群洗地的就来骂你了 他们估计现实中也已经出过轨 看到评论在骂出轨的人 那群人联想到自己所以才要帮忙洗地 来减轻自己内心对于出轨的罪恶感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38269,
+          "following_count": 196,
+          "like_count": 2508,
+          "listed_count": 129,
+          "media_count": 388,
+          "tweet_count": 4698
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T02:41:56.000Z",
+        "description": "随便发发180/137",
+        "id": "1766293250653270016",
+        "name": "WII P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985194503603736576/J6yLD_JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 334,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "hai_hao78438",
+        "verified": false
+      }
+    ]
+  }
+}

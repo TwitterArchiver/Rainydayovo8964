@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2037174159357468701",
+    "created_at": "2026-03-26T14:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037174159357468701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037174159357468701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对两种人很畏惧：\n1.有些男的：“我给前女友花过好多钱 再也不动真心了..”\n2.有些女的：“你怎么有其他女生微信，把你朋友圈的所有女生都删掉”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2037174159357468701",
+        "created_at": "2026-03-26T14:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037174159357468701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037174159357468701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对两种人很畏惧：\n1.有些男的：“我给前女友花过好多钱 再也不动真心了..”\n2.有些女的：“你怎么有其他女生微信，把你朋友圈的所有女生都删掉”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38262,
+          "following_count": 183,
+          "like_count": 2346,
+          "listed_count": 135,
+          "media_count": 380,
+          "tweet_count": 4372
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

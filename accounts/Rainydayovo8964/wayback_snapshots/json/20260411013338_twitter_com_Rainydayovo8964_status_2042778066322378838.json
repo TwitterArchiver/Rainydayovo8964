@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2042634821944643660",
+    "created_at": "2026-04-11T01:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042778066322378838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832473387064815619",
+          "start": 0,
+          "username": "ptrlxy00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042778066322378838",
+    "in_reply_to_user_id": "1832473387064815619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042677787639918793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptrlxy00 老婆老婆。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-11T01:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042778066322378838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832473387064815619",
+              "start": 0,
+              "username": "ptrlxy00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042778066322378838",
+        "in_reply_to_user_id": "1832473387064815619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042677787639918793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptrlxy00 老婆老婆。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832473387064815619",
+        "conversation_id": "2042634821944643660",
+        "created_at": "2026-04-10T18:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042677787639918793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042677787639918793",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 913,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042634821944643660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这样我就放心大胆出了🫰🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37849,
+          "following_count": 196,
+          "like_count": 2576,
+          "listed_count": 123,
+          "media_count": 399,
+          "tweet_count": 4923
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T17:38:07.000Z",
+        "description": "我不是个好丈夫 不是个好父亲 也不是个好儿子 那又怎样呢 我是一个女孩子\n@Linn6Dream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Linn6Dream"
+              }
+            ]
+          }
+        },
+        "id": "1832473387064815619",
+        "location": "不礼貌的骚扰私信会拉黑",
+        "name": "好运降琳",
+        "pinned_tweet_id": "1957802256516149706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833366968277340168/BF7aDzfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 23,
+          "like_count": 138,
+          "listed_count": 10,
+          "media_count": 71,
+          "tweet_count": 185
+        },
+        "username": "ptrlxy00",
+        "verified": false
+      }
+    ]
+  }
+}

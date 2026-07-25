@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-20T16:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068364432070299996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "859667818173702144",
+          "start": 0,
+          "username": "Hvlemer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068364432070299996",
+    "in_reply_to_user_id": "859667818173702144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068310887375749206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hvlemer 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T16:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068364432070299996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "859667818173702144",
+              "start": 0,
+              "username": "Hvlemer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364432070299996",
+        "in_reply_to_user_id": "859667818173702144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068310887375749206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hvlemer 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "859667818173702144",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068310887375749206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068310887375749206",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实普通人刚进社会都是这个鬼样子，我第一年住的房子甚至没空调，好几次200块撑一个月衣食。只要熬过前两年，跳一跳槽，工资高一点就好很多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 229,
+          "like_count": 2959,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5964
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-03T07:15:54.000Z",
+        "description": "祝你我爱有所得。",
+        "id": "859667818173702144",
+        "location": "Chino, CA",
+        "name": "Thmwdne",
+        "pinned_tweet_id": "2037072817523745065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1210022012984410114/4J1jrjFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 3600,
+          "like_count": 70099,
+          "listed_count": 13,
+          "media_count": 6,
+          "tweet_count": 5017
+        },
+        "url": "",
+        "username": "Hvlemer",
+        "verified": false
+      }
+    ]
+  }
+}

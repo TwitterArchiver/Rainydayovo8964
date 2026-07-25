@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2051966952026116534",
+    "created_at": "2026-05-07T11:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052353001403167015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677777117566877696",
+          "start": 0,
+          "username": "AntiFraudCenter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052353001403167015",
+    "in_reply_to_user_id": "1677777117566877696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052143219220337060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntiFraudCenter 真的非常好看啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2051966952026116534",
+        "created_at": "2026-05-07T11:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052353001403167015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677777117566877696",
+              "start": 0,
+              "username": "AntiFraudCenter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052353001403167015",
+        "in_reply_to_user_id": "1677777117566877696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052143219220337060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntiFraudCenter 真的非常好看啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677777117566877696",
+        "conversation_id": "2051966952026116534",
+        "created_at": "2026-05-06T21:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052143219220337060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052143219220337060",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051966952026116534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 宁财神真的国产原创情景喜剧的神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38901,
+          "following_count": 211,
+          "like_count": 2863,
+          "listed_count": 132,
+          "media_count": 419,
+          "tweet_count": 5558
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T20:30:35.000Z",
+        "description": "接:陪玩/陪聊                                  （瓦洲steam）                                                \n\n理想型:@meruruye_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "meruruye_"
+              }
+            ]
+          }
+        },
+        "id": "1677777117566877696",
+        "location": "霓虹町",
+        "name": "小三饿了打开冰箱发现老公在偷吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040532113364279296/d4dBcyH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1000,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 879
+        },
+        "username": "AntiFraudCenter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2064985065608896820",
+    "created_at": "2026-06-12T02:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065266379260112937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1004181919041347584",
+          "start": 0,
+          "username": "QuQ_Tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065266379260112937",
+    "in_reply_to_user_id": "1004181919041347584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065147775596269928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQ_Tea 我也想说.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-12T02:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266379260112937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1004181919041347584",
+              "start": 0,
+              "username": "QuQ_Tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266379260112937",
+        "in_reply_to_user_id": "1004181919041347584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065147775596269928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQ_Tea 我也想说.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004181919041347584",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-11T19:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065147775596269928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065147775596269928",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064985065608896820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 抖音一堆人护这个文案……😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39013,
+          "following_count": 224,
+          "like_count": 2937,
+          "listed_count": 129,
+          "media_count": 435,
+          "tweet_count": 5911
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T02:03:21.000Z",
+        "description": "不收门，不加联系，不线下，无趣的私信不会回。 如果长时间没回私信没发新推，大概率是不想玩了/有新生活了/没vpn了/账号被迫下线登不上来了",
+        "id": "1004181919041347584",
+        "location": "玫瑰",
+        "name": "茶饼",
+        "pinned_tweet_id": "2047269229951603095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064345982066978816/sOhuC8cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 230,
+          "like_count": 15864,
+          "listed_count": 11,
+          "media_count": 260,
+          "tweet_count": 2776
+        },
+        "username": "QuQ_Tea",
+        "verified": false
+      }
+    ]
+  }
+}

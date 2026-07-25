@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041019698800967924",
+    "created_at": "2026-04-06T16:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041189335865975002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943186079127154688",
+          "start": 0,
+          "username": "rgu1182763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041189335865975002",
+    "in_reply_to_user_id": "1943186079127154688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041157010159472869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rgu1182763 谢谢宝宝！遵命！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T16:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041189335865975002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943186079127154688",
+              "start": 0,
+              "username": "rgu1182763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041189335865975002",
+        "in_reply_to_user_id": "1943186079127154688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041157010159472869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rgu1182763 谢谢宝宝！遵命！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943186079127154688",
+        "conversation_id": "2041019698800967924",
+        "created_at": "2026-04-06T14:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041157010159472869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041157010159472869",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041019698800967924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 感觉选露肤度高的衣服比较好👌🏻!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2527,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4764
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T05:51:54.000Z",
+        "description": "圈圈点点圆圆圈圈",
+        "id": "1943186079127154688",
+        "name": "ruguooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992531470989275136/r2zUUR7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 80,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 75
+        },
+        "username": "rgu1182763",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-04-01T02:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039171036042949066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977379810973491200",
+          "start": 0,
+          "username": "OuBzQYz6qV84975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039171036042949066",
+    "in_reply_to_user_id": "1977379810973491200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039024234333344137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuBzQYz6qV84975 预言家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2039024206395158531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwRtmabMAMNdZT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-04-01T02:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039171036042949066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977379810973491200",
+              "start": 0,
+              "username": "OuBzQYz6qV84975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039171036042949066",
+        "in_reply_to_user_id": "1977379810973491200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039024234333344137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuBzQYz6qV84975 预言家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039024206395158531"
+          ]
+        },
+        "author_id": "1977379810973491200",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T16:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039024234333344137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFQspN5EqN",
+              "end": 40,
+              "expanded_url": "https://x.com/OuBzQYz6qV84975/status/2039024234333344137/photo/1",
+              "media_key": "3_2039024206395158531",
+              "start": 17,
+              "url": "https://t.co/HFQspN5EqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039024234333344137",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 https://t.co/HFQspN5EqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38277,
+          "following_count": 190,
+          "like_count": 2414,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4560
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T14:24:51.000Z",
+        "description": "",
+        "id": "1977379810973491200",
+        "name": "蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005151215060185088/L7AxtJdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "OuBzQYz6qV84975",
+        "verified": false
+      }
+    ]
+  }
+}

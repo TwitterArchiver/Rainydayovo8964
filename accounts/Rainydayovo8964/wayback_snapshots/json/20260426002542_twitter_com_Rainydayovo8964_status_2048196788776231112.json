@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T00:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048196788776231112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963630027200970752",
+          "start": 0,
+          "username": "KuSeol_in"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048196788776231112",
+    "in_reply_to_user_id": "1963630027200970752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048133046273290404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuSeol_in 我也是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T00:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048196788776231112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963630027200970752",
+              "start": 0,
+              "username": "KuSeol_in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048196788776231112",
+        "in_reply_to_user_id": "1963630027200970752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048133046273290404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuSeol_in 我也是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963630027200970752",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-25T20:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048133046273290404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048133046273290404",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1366,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 一般这种我只能接受找这种委托拍照（还得是那种妆造特别还原的），至于别的约会什么的……nonono……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38376,
+          "following_count": 208,
+          "like_count": 2760,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5309
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T15:47:57.000Z",
+        "description": "发泄情绪 别贴脸别自己找骂 你好 我吃点易遇 随便写写的 我还喜欢查理苏 我来黑叉其实是来看片的\n我不论政，我评论你的帖子只是因为我赞成你这个帖子的观点。你什么政治立场关我屁事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/jiuchuanyin_…",
+                "end": 23,
+                "expanded_url": "https://box.n3ko.cc/_/jiuchuanyin_0215",
+                "start": 0,
+                "url": "https://t.co/RjfaD1jP7N"
+              }
+            ]
+          }
+        },
+        "id": "1963630027200970752",
+        "location": "易遇中指",
+        "name": "⦁֊⦁꧞",
+        "pinned_tweet_id": "2045566711941009510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963659189445943296/GhcgKhGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 4,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/RjfaD1jP7N",
+        "username": "KuSeol_in",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008135078136971264"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2008135155266064385",
+    "created_at": "2026-01-05T11:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008135155266064385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5uMAm7qiG",
+          "end": 34,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2008135155266064385/video/1",
+          "media_key": "13_2008135078136971264",
+          "start": 11,
+          "url": "https://t.co/C5uMAm7qiG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008135155266064385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这又何尝不是一个套路 https://t.co/C5uMAm7qiG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27233,
+        "height": 992,
+        "media_key": "13_2008135078136971264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008135078136971264/img/a_88EhnsG6g6vHp1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008135078136971264/vid/avc1/320x440/uiWp8PMuZSlFvNcV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008135078136971264/vid/avc1/480x660/R3YFeA67p8mNHcxY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008135078136971264/vid/avc1/720x992/ukxhnbvbeeRECiKX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008135078136971264/pl/x3dRUCoftXgRP5Jp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008135078136971264"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2008135155266064385",
+        "created_at": "2026-01-05T11:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008135155266064385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5uMAm7qiG",
+              "end": 34,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2008135155266064385/video/1",
+              "media_key": "13_2008135078136971264",
+              "start": 11,
+              "url": "https://t.co/C5uMAm7qiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008135155266064385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这又何尝不是一个套路 https://t.co/C5uMAm7qiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997569467438747648/d0ZiRU9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39365,
+          "following_count": 171,
+          "like_count": 2034,
+          "listed_count": 132,
+          "media_count": 344,
+          "tweet_count": 3658
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

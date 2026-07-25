@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044552237176000767",
+    "created_at": "2026-04-16T03:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044617397668331934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974862287761817600",
+          "start": 0,
+          "username": "berberber_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044617397668331934",
+    "in_reply_to_user_id": "1974862287761817600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044552237176000767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berberber_1 我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2800,
+        "height": 964,
+        "media_key": "13_2044552228023996416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044552228023996416/img/D1UW5JPtxEYbPIh2.jpg",
+        "public_metrics": {
+          "view_count": 261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044552228023996416/vid/avc1/320x428/BGeddkfKWTIIA_yW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044552228023996416/vid/avc1/480x642/SrrPS7lrNrnLIS0w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044552228023996416/vid/avc1/720x964/sCL_R3gPvMn90h15.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044552228023996416/pl/gwI2WmJ_W4bAEu7F.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044552237176000767",
+        "created_at": "2026-04-16T03:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044617397668331934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974862287761817600",
+              "start": 0,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044617397668331934",
+        "in_reply_to_user_id": "1974862287761817600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044552237176000767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berberber_1 我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044552228023996416"
+          ]
+        },
+        "author_id": "1974862287761817600",
+        "conversation_id": "2044552237176000767",
+        "created_at": "2026-04-15T23:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044552237176000767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9JdrrKl9n",
+              "end": 35,
+              "expanded_url": "https://x.com/berberber_1/status/2044552237176000767/video/1",
+              "media_key": "13_2044552228023996416",
+              "start": 12,
+              "url": "https://t.co/z9JdrrKl9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044552237176000767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 961,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早上好 上学要起好早喔 https://t.co/z9JdrrKl9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37859,
+          "following_count": 202,
+          "like_count": 2710,
+          "listed_count": 115,
+          "media_count": 405,
+          "tweet_count": 5151
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "🎵&🍠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX23MP"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "🌍",
+        "name": "BerNoct",
+        "pinned_tweet_id": "2036426041498149083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019438080231632907/RX8m7bij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 5,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/a2iVZX23MP",
+        "username": "berberber_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2029101359270965355",
+    "created_at": "2026-03-04T07:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029101359270965355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950494652601344000",
+          "start": 3,
+          "username": "yybaobao88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029101359270965355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028865051533377891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yybaobao88: 我玩推不代表我会随便约，我和你聊天不代表我会加你微信，我偶尔发骚不代表我想和你聊骚，你说的我不开心我不会回，你说的我不感兴趣我不会回，我心情不好也不会回，不是聊天框打卡就叫喜欢我，真喜欢我给我转钱谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2029101359270965355",
+        "created_at": "2026-03-04T07:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029101359270965355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1950494652601344000",
+              "start": 3,
+              "username": "yybaobao88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029101359270965355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028865051533377891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yybaobao88: 我玩推不代表我会随便约，我和你聊天不代表我会加你微信，我偶尔发骚不代表我想和你聊骚，你说的我不开心我不会回，你说的我不感兴趣我不会回，我心情不好也不会回，不是聊天框打卡就叫喜欢我，真喜欢我给我转钱谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950494652601344000",
+        "conversation_id": "2028865051533377891",
+        "created_at": "2026-03-03T16:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028865051533377891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028865051533377891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16152,
+          "like_count": 300,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "我玩推不代表我会随便约，我和你聊天不代表我会加你微信，我偶尔发骚不代表我想和你聊骚，你说的我不开心我不会回，你说的我不感兴趣我不会回，我心情不好也不会回，不是聊天框打卡就叫喜欢我，真喜欢我给我转钱谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的人类 完全都在乱哭诉 只玩这个软件",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38822,
+          "following_count": 177,
+          "like_count": 2241,
+          "listed_count": 136,
+          "media_count": 373,
+          "tweet_count": 4154
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T09:52:35.000Z",
+        "description": "我不想说话.任何人.我好累",
+        "id": "1950494652601344000",
+        "location": "江浙沪",
+        "name": "Ronronner",
+        "pinned_tweet_id": "2028865051533377891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009257306110767104/riyxjxXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 35,
+          "like_count": 4562,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 727
+        },
+        "username": "yybaobao88",
+        "verified": false
+      }
+    ]
+  }
+}

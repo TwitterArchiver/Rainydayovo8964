@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2017117097680392677",
+    "created_at": "2026-01-30T11:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017196428981055870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702514086838456320",
+          "start": 0,
+          "username": "tandoooooom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017196428981055870",
+    "in_reply_to_user_id": "1702514086838456320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017117097680392677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tandoooooom 有人我就实践"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2017117097680392677",
+        "created_at": "2026-01-30T11:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017196428981055870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702514086838456320",
+              "start": 0,
+              "username": "tandoooooom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017196428981055870",
+        "in_reply_to_user_id": "1702514086838456320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017117097680392677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tandoooooom 有人我就实践"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702514086838456320",
+        "conversation_id": "2017117097680392677",
+        "created_at": "2026-01-30T06:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017117097680392677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017117097680392677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1463,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到\n下次玩艾斯艾慕的时候\n定制个“调教中”的牌子\n挂酒店门外面会怎么样😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  只玩这个软件 其他平台默认盗图 发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38781,
+          "following_count": 168,
+          "like_count": 2113,
+          "listed_count": 133,
+          "media_count": 369,
+          "tweet_count": 3901
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T02:46:12.000Z",
+        "description": "我是男人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tandoooooom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tandoooooom",
+                "start": 0,
+                "url": "https://t.co/znGsxkjByE"
+              }
+            ]
+          }
+        },
+        "id": "1702514086838456320",
+        "location": "深圳",
+        "name": "檀檀",
+        "pinned_tweet_id": "2011456975721418907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016128368899719168/Ddplas15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 241,
+          "like_count": 1304,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/znGsxkjByE",
+        "username": "tandoooooom",
+        "verified": false
+      }
+    ]
+  }
+}

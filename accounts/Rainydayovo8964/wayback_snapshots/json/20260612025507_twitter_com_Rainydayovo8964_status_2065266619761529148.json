@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2064985065608896820",
+    "created_at": "2026-06-12T02:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065266619761529148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714872273352716288",
+          "start": 0,
+          "username": "JamesKeith92942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065266619761529148",
+    "in_reply_to_user_id": "1714872273352716288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065101721500893396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesKeith92942 齐刘海明明很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-12T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266619761529148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714872273352716288",
+              "start": 0,
+              "username": "JamesKeith92942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266619761529148",
+        "in_reply_to_user_id": "1714872273352716288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065101721500893396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesKeith92942 齐刘海明明很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714872273352716288",
+        "conversation_id": "2064985065608896820",
+        "created_at": "2026-06-11T15:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065101721500893396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065101721500893396",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064985065608896820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 一眼抖音精神小妹的癔症文案，恶心死了，齐刘海明明很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39013,
+          "following_count": 224,
+          "like_count": 2937,
+          "listed_count": 129,
+          "media_count": 435,
+          "tweet_count": 5913
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T05:13:32.000Z",
+        "description": "新三好啊，新三是凉爽的夏夜，可供人无忧地安眠\n日乙妹 除了日乙还玩\n博德3 神原2 正义之怒 艾尔登法环 \n会互关 爱聊天纯发牢骚的号",
+        "id": "1714872273352716288",
+        "name": "生死不明那就是死了",
+        "pinned_tweet_id": "1832647383911723168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062546007653826561/ZhupdrMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 86,
+          "like_count": 2414,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 103
+        },
+        "username": "JamesKeith92942",
+        "verified": false
+      }
+    ]
+  }
+}

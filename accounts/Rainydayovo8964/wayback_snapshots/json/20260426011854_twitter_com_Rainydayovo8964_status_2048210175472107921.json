@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T01:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048210175472107921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048210175472107921",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047979050157928656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可不敢瞎说了一会又被私信骂了 我好怕 我不喜欢碍着你了  你要代入自己代入我不理解你别来贴脸 难道不就是花钱找陪玩吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T01:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048210175472107921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048210175472107921",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可不敢瞎说了一会又被私信骂了 我好怕 我不喜欢碍着你了  你要代入自己代入我不理解你别来贴脸 难道不就是花钱找陪玩吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-25T10:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047979050157928656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047979050157928656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 67499,
+          "like_count": 873,
+          "quote_count": 5,
+          "reply_count": 79,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "其实我根本不懂乙女向的cos委托 穿着成男服装画妆容戴口罩 见面就默认代入你推了 完全女生声音说话不会很出戏吗  而且一两天完全上千块 还要准备礼物 对方一开口我就想笑了 没完全感受到幸福 还不如买点心爱纸片对着剧情脑补…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38399,
+          "following_count": 208,
+          "like_count": 2766,
+          "listed_count": 114,
+          "media_count": 411,
+          "tweet_count": 5317
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2004014466556645466",
+    "created_at": "2025-12-25T09:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T10:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004120641088426303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002427882929598464",
+          "start": 0,
+          "username": "emw2929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004120641088426303",
+    "in_reply_to_user_id": "2002427882929598464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004097221420253666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emw2929 这个也会吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2004014466556645466",
+        "created_at": "2025-12-25T09:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004120641088426303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002427882929598464",
+              "start": 0,
+              "username": "emw2929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004120641088426303",
+        "in_reply_to_user_id": "2002427882929598464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004097221420253666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emw2929 这个也会吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002427882929598464",
+        "conversation_id": "2004014466556645466",
+        "created_at": "2025-12-25T07:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004097221420253666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004097221420253666",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004014466556645466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 知到也会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997569467438747648/d0ZiRU9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39165,
+          "following_count": 172,
+          "like_count": 2035,
+          "listed_count": 130,
+          "media_count": 336,
+          "tweet_count": 3602
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T17:16:38.000Z",
+        "description": "想做电子小狗但社交绝缘体所以现在是黄色朋友圈和碎碎念‖互fo互转大欢迎🥺",
+        "id": "2002427882929598464",
+        "name": "恰似那台机器脉动的震颤",
+        "pinned_tweet_id": "2002777339688874220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002675872755785728/X9m1bkcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 19
+        },
+        "username": "emw2929",
+        "verified": false
+      }
+    ]
+  }
+}

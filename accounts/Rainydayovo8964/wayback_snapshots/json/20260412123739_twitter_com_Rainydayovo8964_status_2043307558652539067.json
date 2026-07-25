@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043269502377632106",
+    "created_at": "2026-04-12T12:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043307558652539067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026642440942428160",
+          "start": 0,
+          "username": "Kxqisv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043307558652539067",
+    "in_reply_to_user_id": "2026642440942428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043307165784723560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kxqisv3 我和异性聊天感觉自己很恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043269502377632106",
+        "created_at": "2026-04-12T12:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043307558652539067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026642440942428160",
+              "start": 0,
+              "username": "Kxqisv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043307558652539067",
+        "in_reply_to_user_id": "2026642440942428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043307165784723560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kxqisv3 我和异性聊天感觉自己很恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026642440942428160",
+        "conversation_id": "2043269502377632106",
+        "created_at": "2026-04-12T12:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043307165784723560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043307165784723560",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043269502377632106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 wtf 和普通朋友说话就很正常，和心选哥说话就特别神经 每次不得不赶快停止对话，他现在已经不主动发消息了😭我又不好意思找他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37822,
+          "following_count": 197,
+          "like_count": 2669,
+          "listed_count": 124,
+          "media_count": 401,
+          "tweet_count": 5051
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T12:57:06.000Z",
+        "description": "如果我的言论冒犯你了 对你致以歉意，但请不要和我辩论 上网图一乐呵 本人比较懒。爱你哦",
+        "id": "2026642440942428160",
+        "location": "婊翻世界又怎样",
+        "name": "serein",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039654617114714112/UN9Q1XZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "Kxqisv3",
+        "verified": false
+      }
+    ]
+  }
+}

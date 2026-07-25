@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044059603651182746",
+    "created_at": "2026-04-14T14:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044059603651182746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986518045800734721",
+          "start": 3,
+          "username": "cocomiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044059603651182746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043782625442312534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocomiqwq: 其实我一直很迷茫 和任何人的关系好像都是 我莫名其妙被选择被放弃 我知道每个人都在权衡利弊我也没有很多价值 我懵逼的在这里 懵逼的被人接触 懵逼的被人放弃 哎呀我被逼的只能变成这么淡淡的很无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044059603651182746",
+        "created_at": "2026-04-14T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044059603651182746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986518045800734721",
+              "start": 3,
+              "username": "cocomiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044059603651182746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043782625442312534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocomiqwq: 其实我一直很迷茫 和任何人的关系好像都是 我莫名其妙被选择被放弃 我知道每个人都在权衡利弊我也没有很多价值 我懵逼的在这里 懵逼的被人接触 懵逼的被人放弃 哎呀我被逼的只能变成这么淡淡的很无奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986518045800734721",
+        "conversation_id": "2043782625442312534",
+        "created_at": "2026-04-13T20:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043782625442312534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043782625442312534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直很迷茫 和任何人的关系好像都是 我莫名其妙被选择被放弃 我知道每个人都在权衡利弊我也没有很多价值 我懵逼的在这里 懵逼的被人接触 懵逼的被人放弃 哎呀我被逼的只能变成这么淡淡的很无奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37858,
+          "following_count": 200,
+          "like_count": 2695,
+          "listed_count": 115,
+          "media_count": 402,
+          "tweet_count": 5121
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T19:36:34.000Z",
+        "description": "脑残勿扰",
+        "id": "1986518045800734721",
+        "name": "泪比尿多",
+        "pinned_tweet_id": "2041085498215829764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015374498959417344/V5JlG3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 17,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2392
+        },
+        "username": "cocomiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

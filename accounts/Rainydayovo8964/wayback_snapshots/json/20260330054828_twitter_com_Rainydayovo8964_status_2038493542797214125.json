@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T05:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038493542797214125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425384964497891328",
+          "start": 0,
+          "username": "babigongzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038493542797214125",
+    "in_reply_to_user_id": "1425384964497891328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038491373876412718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babigongzhu 我最讨厌的就是营销妹妹这一点…本来就生病了 完全可以让妹妹不出镜带货…自己穿的光鲜亮丽给妹妹蓬头垢面的推着轮椅.让我想吐..妹妹已经很可怜了 要是有人说又该说妹妹生病不该打扮了…然后还支持妹妹网恋 我很不懂..我有妹妹 如果我妹妹生病 我是不会让她多次出现在镜头的.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T05:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038493542797214125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425384964497891328",
+              "start": 0,
+              "username": "babigongzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038493542797214125",
+        "in_reply_to_user_id": "1425384964497891328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038491373876412718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babigongzhu 我最讨厌的就是营销妹妹这一点…本来就生病了 完全可以让妹妹不出镜带货…自己穿的光鲜亮丽给妹妹蓬头垢面的推着轮椅.让我想吐..妹妹已经很可怜了 要是有人说又该说妹妹生病不该打扮了…然后还支持妹妹网恋 我很不懂..我有妹妹 如果我妹妹生病 我是不会让她多次出现在镜头的.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425384964497891328",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T05:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038491373876412718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038491373876412718",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 她家卖树苗其实本身就不会穷 我堂姐就是干这个 其实还挺赚钱的 立人设很讨厌但是消费妹妹更讨厌 之前视频妹妹蓬头垢面只穿着秋衣的视频也会发上来  妹妹生病已经很可怜了还要被拿出来博流量 只能说小懒活该塌房"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38242,
+          "following_count": 187,
+          "like_count": 2381,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4477
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T09:14:02.000Z",
+        "description": "碎碎念",
+        "id": "1425384964497891328",
+        "name": "芭比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724409568938057729/YuxdjRR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 185,
+          "like_count": 764,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "babigongzhu",
+        "verified": false
+      }
+    ]
+  }
+}

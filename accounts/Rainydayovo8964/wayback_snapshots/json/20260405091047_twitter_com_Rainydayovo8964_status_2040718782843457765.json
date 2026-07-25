@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040663655742845133",
+    "created_at": "2026-04-05T09:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040718782843457765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913257937008824320",
+          "start": 0,
+          "username": "byuxzhou7"
+        },
+        {
+          "end": 21,
+          "id": "1926974733548924928",
+          "start": 11,
+          "username": "Sysy08866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040718782843457765",
+    "in_reply_to_user_id": "1913257937008824320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040711965270761615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@byuxzhou7 @Sysy08866 我笑的好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040663655742845133",
+        "created_at": "2026-04-05T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040718782843457765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913257937008824320",
+              "start": 0,
+              "username": "byuxzhou7"
+            },
+            {
+              "end": 21,
+              "id": "1926974733548924928",
+              "start": 11,
+              "username": "Sysy08866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040718782843457765",
+        "in_reply_to_user_id": "1913257937008824320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040711965270761615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@byuxzhou7 @Sysy08866 我笑的好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913257937008824320",
+        "conversation_id": "2040663655742845133",
+        "created_at": "2026-04-05T08:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040711965270761615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926974733548924928",
+              "start": 0,
+              "username": "Sysy08866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040711965270761615",
+        "in_reply_to_user_id": "1926974733548924928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040663655742845133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sysy08866 圈外纯刻板映像。。。但女同的dirtytalk是不是“你这个臭211的”。。对不起。。我纯贩剑啊。。。对不起对不起对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38276,
+          "following_count": 194,
+          "like_count": 2475,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4655
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T15:47:22.000Z",
+        "description": "",
+        "id": "1913257937008824320",
+        "name": "重生成章鱼我一怀搂八个",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927765076066656256/ZBBMMvha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 76,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "byuxzhou7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T12:12:58.000Z",
+        "description": "les   躺0 求天降狗1s",
+        "id": "1926974733548924928",
+        "location": "公主病娇妻骚0",
+        "name": "贝果咪",
+        "pinned_tweet_id": "1954527127166242816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030174244177596418/bbl8YESK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 326,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 79
+        },
+        "username": "Sysy08866",
+        "verified": false
+      }
+    ]
+  }
+}

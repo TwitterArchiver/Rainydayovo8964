@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041074038056079769",
+    "created_at": "2026-04-06T16:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041190424178766171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793300901622640640",
+          "start": 0,
+          "username": "Huiyzzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041190424178766171",
+    "in_reply_to_user_id": "1793300901622640640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041180419731918947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huiyzzm 毫无性欲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T16:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041190424178766171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793300901622640640",
+              "start": 0,
+              "username": "Huiyzzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041190424178766171",
+        "in_reply_to_user_id": "1793300901622640640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041180419731918947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huiyzzm 毫无性欲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793300901622640640",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T15:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041180419731918947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041180419731918947",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041074038056079769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我一想到两个人这样贴在一起我瞬间萎了只想笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2540,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4784
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:21:00.000Z",
+        "description": "女孩贬低自己想要以此得到夸奖的小心思也很可爱 | 🚫恋足 | 互关看眼缘 加v看心情 可动用钞能力",
+        "id": "1793300901622640640",
+        "location": "床上",
+        "name": "爱我给我打钱💰",
+        "pinned_tweet_id": "2007501599615414601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018704256954753024/7r6ht8tn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 79,
+          "like_count": 7020,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1296
+        },
+        "username": "Huiyzzm",
+        "verified": false
+      }
+    ]
+  }
+}

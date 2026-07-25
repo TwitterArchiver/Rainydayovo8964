@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048313722964467894",
+    "created_at": "2026-04-26T08:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048313722964467894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2crow19/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/2crow19/status/2048030536321703942",
+          "start": 44,
+          "url": "https://t.co/wjH4VonPQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048313722964467894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048030536321703942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我想到了之前一对明明偷偷恋爱 大胆做爱 却是坚持说互相说是好朋友的一对旧人啊啊啊啊啊 https://t.co/wjH4VonPQd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048313722964467894",
+        "created_at": "2026-04-26T08:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048313722964467894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2crow19/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/2crow19/status/2048030536321703942",
+              "start": 44,
+              "url": "https://t.co/wjH4VonPQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048313722964467894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048030536321703942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我想到了之前一对明明偷偷恋爱 大胆做爱 却是坚持说互相说是好朋友的一对旧人啊啊啊啊啊 https://t.co/wjH4VonPQd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2048030536321703942",
+        "created_at": "2026-04-25T13:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048030536321703942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048030536321703942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 271771,
+          "like_count": 923,
+          "quote_count": 15,
+          "reply_count": 530,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得和朋友做爱不算约炮。我理解的约炮是和不认识的人做爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38471,
+          "following_count": 208,
+          "like_count": 2773,
+          "listed_count": 115,
+          "media_count": 413,
+          "tweet_count": 5354
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "#Eternal# 我叫永恒：很多碎碎念。\n匿名问答↓ @iknowseverythg（仅互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "iknowseverythg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "name": "永恆",
+        "pinned_tweet_id": "2045049491255165276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047412065489534976/QASSvqFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 127,
+          "like_count": 8301,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

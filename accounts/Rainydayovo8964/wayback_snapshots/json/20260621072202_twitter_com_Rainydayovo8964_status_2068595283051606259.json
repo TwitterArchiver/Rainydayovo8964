@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T07:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068595283051606259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061042817632452608",
+          "start": 0,
+          "username": "johnibtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068595283051606259",
+    "in_reply_to_user_id": "2061042817632452608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068484089993396315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnibtd 谢谢你呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T07:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068595283051606259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061042817632452608",
+              "start": 0,
+              "username": "johnibtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068595283051606259",
+        "in_reply_to_user_id": "2061042817632452608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068484089993396315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnibtd 谢谢你呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061042817632452608",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T00:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068484089993396315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068484089993396315",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 你能独立生活已经很了不起了 加油一定会一天比一天好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39149,
+          "following_count": 229,
+          "like_count": 2968,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6004
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T11:11:32.000Z",
+        "description": "06年20岁 | 上海 品牌设计师\n🎨 正在公开构建我的第一个自媒体账号\n🧪 主线：AI工具实测\n🚀 支线：副业试错\n🎯 目标：1年内做出一个有辨识度的人设号，把设计审美变成内容生产力\n⛺ 我一直都在这里，你随时可以回来看看我走到哪了",
+        "id": "2061042817632452608",
+        "name": "知鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064268542225379328/BzvnRx0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 129,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "johnibtd",
+        "verified": true
+      }
+    ]
+  }
+}

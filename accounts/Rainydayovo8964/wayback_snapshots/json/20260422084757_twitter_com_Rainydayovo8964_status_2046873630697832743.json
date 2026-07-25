@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2046596921738068312",
+    "created_at": "2026-04-22T08:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046873630697832743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852700796070326272",
+          "start": 0,
+          "username": "koykoy862715699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046873630697832743",
+    "in_reply_to_user_id": "1852700796070326272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046867299014254599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koykoy862715699 好！！等我下班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2046596921738068312",
+        "created_at": "2026-04-22T08:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046873630697832743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852700796070326272",
+              "start": 0,
+              "username": "koykoy862715699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046873630697832743",
+        "in_reply_to_user_id": "1852700796070326272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046867299014254599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koykoy862715699 好！！等我下班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852700796070326272",
+        "conversation_id": "2046596921738068312",
+        "created_at": "2026-04-22T08:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046867299014254599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046867299014254599",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046605967148904743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 403523816 谢谢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38112,
+          "following_count": 208,
+          "like_count": 2737,
+          "listed_count": 111,
+          "media_count": 409,
+          "tweet_count": 5257
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T13:14:40.000Z",
+        "description": "玉面吮雷王，只关注大雷",
+        "id": "1852700796070326272",
+        "name": "看见大雷就关注了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853136648692994048/GqKr9w1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 139,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 145
+        },
+        "username": "koykoy862715699",
+        "verified": false
+      }
+    ]
+  }
+}

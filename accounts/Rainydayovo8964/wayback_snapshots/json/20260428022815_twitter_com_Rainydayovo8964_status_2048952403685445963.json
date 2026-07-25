@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048952390330830848",
+        "3_2048952390330789888"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2048952403685445963",
+    "created_at": "2026-04-28T02:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048952403685445963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hd4B7RSnO3",
+          "end": 32,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2048952403685445963/photo/1",
+          "media_key": "3_2048952390330830848",
+          "start": 9,
+          "url": "https://t.co/Hd4B7RSnO3"
+        },
+        {
+          "display_url": "pic.x.com/Hd4B7RSnO3",
+          "end": 32,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2048952403685445963/photo/1",
+          "media_key": "3_2048952390330789888",
+          "start": 9,
+          "url": "https://t.co/Hd4B7RSnO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048952403685445963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能不能想好再入🆘 https://t.co/Hd4B7RSnO3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2048952390330830848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9XV9tbUAAEBhC.jpg",
+        "width": 1000
+      },
+      {
+        "height": 420,
+        "media_key": "3_2048952390330789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9XV9tasAAp9g9.png",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048952390330830848",
+            "3_2048952390330789888"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2048952403685445963",
+        "created_at": "2026-04-28T02:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048952403685445963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hd4B7RSnO3",
+              "end": 32,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2048952403685445963/photo/1",
+              "media_key": "3_2048952390330830848",
+              "start": 9,
+              "url": "https://t.co/Hd4B7RSnO3"
+            },
+            {
+              "display_url": "pic.x.com/Hd4B7RSnO3",
+              "end": 32,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2048952403685445963/photo/1",
+              "media_key": "3_2048952390330789888",
+              "start": 9,
+              "url": "https://t.co/Hd4B7RSnO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048952403685445963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能想好再入🆘 https://t.co/Hd4B7RSnO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39001,
+          "following_count": 207,
+          "like_count": 2791,
+          "listed_count": 131,
+          "media_count": 416,
+          "tweet_count": 5394
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-31T04:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038835637114278243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998298179557818368",
+          "start": 0,
+          "username": "June3649519852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038835637114278243",
+    "in_reply_to_user_id": "1998298179557818368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038815845262975146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@June3649519852 还说重男轻女说实话我觉得爸妈对她很好 还支持她的爱好还有成人礼 只是不知道妹妹治病家里到底重不重视…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T04:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038835637114278243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998298179557818368",
+              "start": 0,
+              "username": "June3649519852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038835637114278243",
+        "in_reply_to_user_id": "1998298179557818368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038815845262975146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@June3649519852 还说重男轻女说实话我觉得爸妈对她很好 还支持她的爱好还有成人礼 只是不知道妹妹治病家里到底重不重视…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998298179557818368",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-31T03:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038815845262975146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038815845262975146",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我没了解过lo圈那些品牌我也不知道啥概念，但是我记得她之前是种草姬，我觉得能穿lo这些的家里不会很穷，虽然她妹妹治病也要花很多钱吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38255,
+          "following_count": 188,
+          "like_count": 2397,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4500
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T07:46:41.000Z",
+        "description": "不爱男不爱女纯厌猪",
+        "id": "1998298179557818368",
+        "name": "Traum",
+        "pinned_tweet_id": "2031376294290538982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031383255379832832/H50dbp76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "June3649519852",
+        "verified": false
+      }
+    ]
+  }
+}

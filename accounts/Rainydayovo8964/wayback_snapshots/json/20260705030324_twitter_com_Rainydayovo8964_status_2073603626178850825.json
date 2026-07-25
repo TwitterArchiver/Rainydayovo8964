@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2072986736029016290",
+    "created_at": "2026-07-05T03:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073603626178850825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038379612678373376",
+          "start": 0,
+          "username": "allHVEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073603626178850825",
+    "in_reply_to_user_id": "2038379612678373376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072986736029016290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allHVEM sy完全主人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2072986736029016290",
+        "created_at": "2026-07-05T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073603626178850825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038379612678373376",
+              "start": 0,
+              "username": "allHVEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073603626178850825",
+        "in_reply_to_user_id": "2038379612678373376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072986736029016290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allHVEM sy完全主人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038379612678373376",
+        "conversation_id": "2072986736029016290",
+        "created_at": "2026-07-03T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072986736029016290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072986736029016290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8016,
+          "like_count": 191,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "好想圈养你\n脚铐和笼子是必需品，项圈里有定位器也监视你的体温和心跳。\n家里的摄像头时刻记录着你，我可以随时查看，请安心。\n家是安全的，所以你不需要衣物。\n宠物是不穿衣服的对吗？\n\n加班到很晚才回家，看你赤裸着窝在客厅等我回来。我会亲吻你，激烈的性爱后再抱你回笼子里。\n好梦宝贝，我爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39056,
+          "following_count": 226,
+          "like_count": 2981,
+          "listed_count": 127,
+          "media_count": 436,
+          "tweet_count": 6061
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T22:17:56.000Z",
+        "description": "慎言\ndm开放 不约调不收奴\n@jenhvem 日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "jenhvem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/allhvem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/allhvem",
+                "start": 0,
+                "url": "https://t.co/MHaBOvkhLx"
+              }
+            ]
+          }
+        },
+        "id": "2038379612678373376",
+        "location": "沉舟渡海",
+        "name": "sy",
+        "pinned_tweet_id": "2069427571847204974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048981556170297344/Ipvy5w35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 23,
+          "like_count": 8410,
+          "listed_count": 7,
+          "media_count": 63,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/MHaBOvkhLx",
+        "username": "allHVEM",
+        "verified": false
+      }
+    ]
+  }
+}

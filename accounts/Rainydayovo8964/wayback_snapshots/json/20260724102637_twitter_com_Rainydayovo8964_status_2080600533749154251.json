@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2080600533749154251",
+    "created_at": "2026-07-24T10:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080600533749154251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958225245934084096",
+          "start": 3,
+          "username": "ocwvua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080600533749154251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080038352099696874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ocwvua: 讨厌需要发裸照才能维持的关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2080600533749154251",
+        "created_at": "2026-07-24T10:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080600533749154251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958225245934084096",
+              "start": 3,
+              "username": "ocwvua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080600533749154251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080038352099696874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ocwvua: 讨厌需要发裸照才能维持的关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958225245934084096",
+        "conversation_id": "2080038352099696874",
+        "created_at": "2026-07-22T21:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080038352099696874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080038352099696874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 107048,
+          "like_count": 974,
+          "quote_count": 12,
+          "reply_count": 210,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌需要发裸照才能维持的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39258,
+          "following_count": 243,
+          "like_count": 3013,
+          "listed_count": 129,
+          "media_count": 444,
+          "tweet_count": 6160
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T17:51:05.000Z",
+        "description": "滚",
+        "id": "1958225245934084096",
+        "name": "椰奶清补凉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958225526994481152/5TI73Qno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 139,
+          "like_count": 569,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "ocwvua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013307520857804949",
+    "created_at": "2026-01-19T17:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013307520857804949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013307520857804949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上天入地 没有人比我更爱麻辣烫 云南米线 东北米线  桂在相知 一点点 赵一鸣 好想来 贝果 牛肉面 火鸡面 牛丸面 阳春面 朱家小馆 烤盘饭 馄饨 蛋挞 毛巾卷 瑞士卷 菠萝包  螺蛳粉 肉蟹煲 火锅 烧烤 烤肉 花甲粉 烤冷面 鸡蛋仔 豆花 炸牛奶 烤面筋 凉皮 章鱼小丸子 淮南牛肉汤  酸菜鱼 炸酱面 酸辣粉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2013307520857804949",
+        "created_at": "2026-01-19T17:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013307520857804949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013307520857804949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上天入地 没有人比我更爱麻辣烫 云南米线 东北米线  桂在相知 一点点 赵一鸣 好想来 贝果 牛肉面 火鸡面 牛丸面 阳春面 朱家小馆 烤盘饭 馄饨 蛋挞 毛巾卷 瑞士卷 菠萝包  螺蛳粉 肉蟹煲 火锅 烧烤 烤肉 花甲粉 烤冷面 鸡蛋仔 豆花 炸牛奶 烤面筋 凉皮 章鱼小丸子 淮南牛肉汤  酸菜鱼 炸酱面 酸辣粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39222,
+          "following_count": 167,
+          "like_count": 2061,
+          "listed_count": 131,
+          "media_count": 357,
+          "tweet_count": 3767
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

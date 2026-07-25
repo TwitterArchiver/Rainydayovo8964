@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T01:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068506136253477262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653644889694019585",
+          "start": 0,
+          "username": "luyou2937685542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068506136253477262",
+    "in_reply_to_user_id": "1653644889694019585",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068411390164083039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luyou2937685542 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T01:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068506136253477262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653644889694019585",
+              "start": 0,
+              "username": "luyou2937685542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068506136253477262",
+        "in_reply_to_user_id": "1653644889694019585",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068411390164083039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luyou2937685542 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653644889694019585",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T19:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068411390164083039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068411390164083039",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 没事的没事的 至少咱们还活着不是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39143,
+          "following_count": 229,
+          "like_count": 2964,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5975
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T06:17:28.000Z",
+        "description": "脑袋是用来想我的～笨蛋～",
+        "id": "1653644889694019585",
+        "location": "开摆",
+        "name": "鹿悠然",
+        "pinned_tweet_id": "2067125931408593004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757431344672743424/30mgD7PF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26421,
+          "following_count": 21,
+          "like_count": 330,
+          "listed_count": 82,
+          "media_count": 211,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "luyou2937685542",
+        "verified": false
+      }
+    ]
+  }
+}

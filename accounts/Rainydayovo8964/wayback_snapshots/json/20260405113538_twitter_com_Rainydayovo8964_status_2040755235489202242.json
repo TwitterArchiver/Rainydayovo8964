@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040478089923514417",
+    "created_at": "2026-04-05T11:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040755235489202242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656733330421981184",
+          "start": 0,
+          "username": "Satoshi_go_go"
+        },
+        {
+          "end": 22,
+          "id": "1459739256918708229",
+          "start": 15,
+          "username": "zcsssg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040755235489202242",
+    "in_reply_to_user_id": "1656733330421981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040478089923514417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Satoshi_go_go @zcsssg 你被推荐了 你快看啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040478080540811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE8ANqbIAAhEh4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040478089923514417",
+        "created_at": "2026-04-05T11:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040755235489202242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656733330421981184",
+              "start": 0,
+              "username": "Satoshi_go_go"
+            },
+            {
+              "end": 22,
+              "id": "1459739256918708229",
+              "start": 15,
+              "username": "zcsssg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040755235489202242",
+        "in_reply_to_user_id": "1656733330421981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040478089923514417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Satoshi_go_go @zcsssg 你被推荐了 你快看啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040478080540811264"
+          ]
+        },
+        "author_id": "1656733330421981184",
+        "conversation_id": "2040478089923514417",
+        "created_at": "2026-04-04T17:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040478089923514417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doN06jmVC0",
+              "end": 35,
+              "expanded_url": "https://x.com/Satoshi_go_go/status/2040478089923514417/photo/1",
+              "media_key": "3_2040478080540811264",
+              "start": 12,
+              "url": "https://t.co/doN06jmVC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040478089923514417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4245,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个推荐还挺赏心悦目。 https://t.co/doN06jmVC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38274,
+          "following_count": 195,
+          "like_count": 2499,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4671
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "碎碎碎念",
+        "id": "1656733330421981184",
+        "location": "🌙",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1974859929103339946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038578326307246080/UsSZx5C4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 579,
+          "like_count": 22736,
+          "listed_count": 8,
+          "media_count": 628,
+          "tweet_count": 9420
+        },
+        "username": "Satoshi_go_go",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T04:25:44.000Z",
+        "description": "In case I don't see you, good afternoon, good evening, and good night.",
+        "id": "1459739256918708229",
+        "location": "上海",
+        "name": "Camille",
+        "pinned_tweet_id": "2019025963573760469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004565970514575360/ZaIRj_cL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 825,
+          "like_count": 11294,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 1080
+        },
+        "username": "zcsssg",
+        "verified": false
+      }
+    ]
+  }
+}

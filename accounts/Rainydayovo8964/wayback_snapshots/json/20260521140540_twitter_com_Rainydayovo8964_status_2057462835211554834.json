@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2057451327509413905",
+    "created_at": "2026-05-21T14:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057462835211554834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926526194104532992",
+          "start": 0,
+          "username": "poozoo123832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057462835211554834",
+    "in_reply_to_user_id": "1926526194104532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057459636752859391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poozoo123832 因为不敢送纸笔我发现惹！有没有推荐的印泥啥的牌子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2057451327509413905",
+        "created_at": "2026-05-21T14:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057462835211554834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926526194104532992",
+              "start": 0,
+              "username": "poozoo123832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057462835211554834",
+        "in_reply_to_user_id": "1926526194104532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057459636752859391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poozoo123832 因为不敢送纸笔我发现惹！有没有推荐的印泥啥的牌子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926526194104532992",
+        "conversation_id": "2057451327509413905",
+        "created_at": "2026-05-21T13:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057459636752859391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057459636752859391",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057451327509413905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 推荐印泥、章料、墨条、砚台。美观且有收藏价值，且丰俭由人 下限几十块也有好物 上限可以无限高。千万不要送纸笔字啊！！老师一般有自己常用的牌子 不合手都会闲置丢掉的。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38890,
+          "following_count": 218,
+          "like_count": 2957,
+          "listed_count": 129,
+          "media_count": 425,
+          "tweet_count": 5747
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T06:30:33.000Z",
+        "description": "X是我需要分级的朋友圈",
+        "id": "1926526194104532992",
+        "location": "6.8km",
+        "name": "mimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988901900293656577/B9rbrmRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 125,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "poozoo123832",
+        "verified": false
+      }
+    ]
+  }
+}

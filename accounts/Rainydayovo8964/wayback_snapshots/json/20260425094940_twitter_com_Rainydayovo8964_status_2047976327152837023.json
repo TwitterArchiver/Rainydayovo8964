@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047947895752507465",
+    "created_at": "2026-04-25T09:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047976327152837023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "888456526150512640",
+          "start": 0,
+          "username": "xiaotianbing11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047976327152837023",
+    "in_reply_to_user_id": "888456526150512640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047947895752507465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotianbing11 会有但是十分稀少！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047947895752507465",
+        "created_at": "2026-04-25T09:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047976327152837023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "888456526150512640",
+              "start": 0,
+              "username": "xiaotianbing11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047976327152837023",
+        "in_reply_to_user_id": "888456526150512640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047947895752507465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotianbing11 会有但是十分稀少！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888456526150512640",
+        "conversation_id": "2047947895752507465",
+        "created_at": "2026-04-25T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047947895752507465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047947895752507465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通过门槛到底能交到什么样的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38202,
+          "following_count": 207,
+          "like_count": 2744,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5273
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T17:51:57.000Z",
+        "description": "首先祝你开心 其次都是其次 / 纯4不互 无门槛不提供任何服务 单纯记录和分享 / 感激拥有的一切 好好过日子 / 不喜欢的评论秒隐藏回复➕拉黑 少惹我",
+        "id": "888456526150512640",
+        "name": "Temperance",
+        "pinned_tweet_id": "2029893141801955524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948388780215328768/kcWbsxK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 221,
+          "like_count": 12707,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 5610
+        },
+        "username": "xiaotianbing11",
+        "verified": false
+      }
+    ]
+  }
+}

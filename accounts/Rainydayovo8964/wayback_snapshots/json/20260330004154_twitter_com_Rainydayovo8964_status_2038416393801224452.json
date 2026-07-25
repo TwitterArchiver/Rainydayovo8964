@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038416393801224452",
+    "created_at": "2026-03-30T00:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T01:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038416393801224452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038416393801224452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怀疑我最近是不是招到啥了 一把糯米解决不了了..工作交接群有个人加我 一看那人主页：手黑S找个m… 朋友圈里全是下贱的点赞..加完之后把我屏蔽了 可他的朋友圈主页 我真不行了 玩SM也不能这样吧 我需要两把糯米！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038416393801224452",
+        "created_at": "2026-03-30T00:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038416393801224452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038416393801224452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑我最近是不是招到啥了 一把糯米解决不了了..工作交接群有个人加我 一看那人主页：手黑S找个m… 朋友圈里全是下贱的点赞..加完之后把我屏蔽了 可他的朋友圈主页 我真不行了 玩SM也不能这样吧 我需要两把糯米！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38256,
+          "following_count": 187,
+          "like_count": 2371,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4457
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

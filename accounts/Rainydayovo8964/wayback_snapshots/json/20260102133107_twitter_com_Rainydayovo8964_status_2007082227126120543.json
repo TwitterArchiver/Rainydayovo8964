@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2007082227126120543",
+    "created_at": "2026-01-02T13:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007082227126120543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007082227126120543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好奇喜欢文爱的人怎么坚持聊完全程的 我一般被性欲支配也就一分钟 之后无论对方说什么我都毫无欲望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2007082227126120543",
+        "created_at": "2026-01-02T13:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007082227126120543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007082227126120543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇喜欢文爱的人怎么坚持聊完全程的 我一般被性欲支配也就一分钟 之后无论对方说什么我都毫无欲望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997569467438747648/d0ZiRU9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39305,
+          "following_count": 171,
+          "like_count": 2034,
+          "listed_count": 132,
+          "media_count": 341,
+          "tweet_count": 3638
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

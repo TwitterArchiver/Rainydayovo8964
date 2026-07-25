@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2041074038056079769",
+    "created_at": "2026-04-06T16:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041190539262034380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634968660497367042",
+          "start": 0,
+          "username": "errrrrrrmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041190539262034380",
+    "in_reply_to_user_id": "1634968660497367042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041166991856115738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@errrrrrrmiao 啊哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T16:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041190539262034380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634968660497367042",
+              "start": 0,
+              "username": "errrrrrrmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041190539262034380",
+        "in_reply_to_user_id": "1634968660497367042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041166991856115738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@errrrrrrmiao 啊哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634968660497367042",
+        "conversation_id": "2041074038056079769",
+        "created_at": "2026-04-06T14:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041166991856115738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041166991856115738",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041074038056079769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 两个人是啥相斥的磁铁吗要靠这种手段绑定，笑的不行了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38296,
+          "following_count": 198,
+          "like_count": 2541,
+          "listed_count": 128,
+          "media_count": 391,
+          "tweet_count": 4786
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T17:24:50.000Z",
+        "description": "上海流浪中/这里是我的伊甸园🏠/\n不常上线，佛系回复\n/成分复杂/纯爱永远是第一名",
+        "id": "1634968660497367042",
+        "location": "Hong Kong",
+        "name": "耳朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506740341067776/2c-nJc7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 42,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "errrrrrrmiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T17:24:50.000Z",
+        "description": "上海流浪中/这里是我的伊甸园🏠/\n不常上线，佛系回复\n/成分复杂/纯爱永远是第一名",
+        "id": "1634968660497367042",
+        "location": "Hong Kong",
+        "name": "耳朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506740341067776/2c-nJc7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 42,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 206
+        },
+        "username": "errrrrrrmiao",
+        "verified": false
+      }
+    ]
+  }
+}

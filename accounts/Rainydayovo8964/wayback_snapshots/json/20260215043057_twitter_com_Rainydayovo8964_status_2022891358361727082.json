@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2022683748576432547",
+    "created_at": "2026-02-15T04:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022891358361727082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008915860610772992",
+          "start": 0,
+          "username": "GuCoope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022891358361727082",
+    "in_reply_to_user_id": "2008915860610772992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022763708758528191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuCoope 我就把它当作解压"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-15T04:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022891358361727082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008915860610772992",
+              "start": 0,
+              "username": "GuCoope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022891358361727082",
+        "in_reply_to_user_id": "2008915860610772992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022763708758528191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuCoope 我就把它当作解压"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008915860610772992",
+        "conversation_id": "2022683748576432547",
+        "created_at": "2026-02-14T20:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022763708758528191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022763708758528191",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022683748576432547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我也很喜欢去酒店点一堆外卖洗澡然后解压式的吃，然后盖好被子看电视睡大觉！也属于是我的一种解压方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38810,
+          "following_count": 171,
+          "like_count": 2160,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4027
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T14:58:06.000Z",
+        "description": "",
+        "id": "2008915860610772992",
+        "location": "San Jose, CA",
+        "name": "咕咕谷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022761444908142592/JtUJRuE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "GuCoope",
+        "verified": false
+      }
+    ]
+  }
+}

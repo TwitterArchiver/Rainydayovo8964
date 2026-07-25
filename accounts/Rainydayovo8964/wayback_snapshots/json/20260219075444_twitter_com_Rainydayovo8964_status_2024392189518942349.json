@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2024381458832642429",
+    "created_at": "2026-02-19T07:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024392189518942349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1562377574755344384",
+          "start": 0,
+          "username": "xun0534022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024392189518942349",
+    "in_reply_to_user_id": "1562377574755344384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024388845278818331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun0534022 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2024381458832642429",
+        "created_at": "2026-02-19T07:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024392189518942349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562377574755344384",
+              "start": 0,
+              "username": "xun0534022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024392189518942349",
+        "in_reply_to_user_id": "1562377574755344384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024388845278818331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun0534022 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562377574755344384",
+        "conversation_id": "2024381458832642429",
+        "created_at": "2026-02-19T07:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024388845278818331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024388845278818331",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024381458832642429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 已经问到这里了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38826,
+          "following_count": 178,
+          "like_count": 2210,
+          "listed_count": 135,
+          "media_count": 373,
+          "tweet_count": 4092
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:53:47.000Z",
+        "description": "我🦐发，你🦐看。\n其实我是来学英语的！",
+        "id": "1562377574755344384",
+        "location": "中华人民共和国",
+        "name": "芈亓",
+        "pinned_tweet_id": "1928510029868708330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938302864260296704/hSJHkltz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 434,
+          "like_count": 2961,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2060
+        },
+        "username": "xun0534022",
+        "verified": false
+      }
+    ]
+  }
+}

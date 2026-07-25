@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2004310493473935771",
+    "created_at": "2025-12-25T21:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T22:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004310493473935771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004310493473935771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事先声明 互关并不一定代表就是很好的朋友 或者说值得信任 有些互关聊骚 并不代表她/他列表互关的人都是坏人 有些其实根本不知情  也并不太熟悉 不要连坐 不要连坐 不要连坐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2004310493473935771",
+        "created_at": "2025-12-25T21:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T22:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004310493473935771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004310493473935771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事先声明 互关并不一定代表就是很好的朋友 或者说值得信任 有些互关聊骚 并不代表她/他列表互关的人都是坏人 有些其实根本不知情  也并不太熟悉 不要连坐 不要连坐 不要连坐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997569467438747648/d0ZiRU9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39186,
+          "following_count": 172,
+          "like_count": 2035,
+          "listed_count": 130,
+          "media_count": 337,
+          "tweet_count": 3609
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2032303375602369016",
+    "created_at": "2026-03-13T11:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032421341476077592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020533725550018560",
+          "start": 0,
+          "username": "iJiPBNMs3825890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032421341476077592",
+    "in_reply_to_user_id": "2020533725550018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032411658895897011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iJiPBNMs3825890 好的谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032421341476077592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2020533725550018560",
+              "start": 0,
+              "username": "iJiPBNMs3825890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032421341476077592",
+        "in_reply_to_user_id": "2020533725550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032411658895897011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iJiPBNMs3825890 好的谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020533725550018560",
+        "conversation_id": "2032303375602369016",
+        "created_at": "2026-03-13T11:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032411658895897011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032411658895897011",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032303375602369016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 祝早日远离人类社会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38770,
+          "following_count": 181,
+          "like_count": 2271,
+          "listed_count": 135,
+          "media_count": 375,
+          "tweet_count": 4198
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T16:22:56.000Z",
+        "description": "",
+        "id": "2020533725550018560",
+        "name": "李二狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020560617967607808/91OvO64F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "iJiPBNMs3825890",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T00:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048196258725294510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661371107411206150",
+          "start": 0,
+          "username": "xiayouri1490471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048196258725294510",
+    "in_reply_to_user_id": "1661371107411206150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048153490225283461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiayouri1490471 不还原真的..而且明明都花钱挣这份钱了 不还原我无法理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T00:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048196258725294510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661371107411206150",
+              "start": 0,
+              "username": "xiayouri1490471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048196258725294510",
+        "in_reply_to_user_id": "1661371107411206150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048153490225283461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiayouri1490471 不还原真的..而且明明都花钱挣这份钱了 不还原我无法理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661371107411206150",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-25T21:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048153490225283461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048153490225283461",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 老實說，我覺得自推穿越到現實本來就已經很出戲了。更何況其實有一些cos的話也不是很還原。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38376,
+          "following_count": 208,
+          "like_count": 2757,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5303
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T13:58:44.000Z",
+        "description": "我会等待，直至我们的再一次重逢。",
+        "id": "1661371107411206150",
+        "location": "New York, USA",
+        "name": "過期海水罐頭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023053821833027584/zZBrGXG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 128,
+          "like_count": 27056,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 12934
+        },
+        "username": "xiayouri1490471",
+        "verified": false
+      }
+    ]
+  }
+}

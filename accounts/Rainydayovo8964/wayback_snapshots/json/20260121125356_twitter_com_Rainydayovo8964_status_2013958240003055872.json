@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2013842420165652484",
+    "created_at": "2026-01-21T12:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013958240003055872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1904463649218961408",
+          "start": 0,
+          "username": "pdddpty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013958240003055872",
+    "in_reply_to_user_id": "1904463649218961408",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013915198529192439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pdddpty ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2013842420165652484",
+        "created_at": "2026-01-21T12:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013958240003055872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1904463649218961408",
+              "start": 0,
+              "username": "pdddpty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013958240003055872",
+        "in_reply_to_user_id": "1904463649218961408",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013915198529192439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdddpty ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904463649218961408",
+        "conversation_id": "2013842420165652484",
+        "created_at": "2026-01-21T10:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013915198529192439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013915198529192439",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013842420165652484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 值得入手，扣好就无敌好用，耐受强就直接暴走模式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo  发鸡拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39175,
+          "following_count": 168,
+          "like_count": 2079,
+          "listed_count": 131,
+          "media_count": 359,
+          "tweet_count": 3832
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T09:22:04.000Z",
+        "description": "性是边角料，爱是安眠药",
+        "id": "1904463649218961408",
+        "location": "在秋天",
+        "name": "刺猬刺猬抱抱你",
+        "pinned_tweet_id": "2012812701806793069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989571992333553664/o07Oa8AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 21,
+          "like_count": 122,
+          "listed_count": 11,
+          "media_count": 110,
+          "tweet_count": 566
+        },
+        "username": "pdddpty",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2069612332100334026",
+    "created_at": "2026-06-24T16:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069817493821252053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719321430569992192",
+          "start": 0,
+          "username": "woyaomaomi"
+        },
+        {
+          "end": 24,
+          "id": "1907670972486103040",
+          "start": 12,
+          "username": "ilovetwww06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817493821252053",
+    "in_reply_to_user_id": "1719321430569992192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069633960699900323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woyaomaomi @ilovetwww06 可能不会见到了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T16:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069817493821252053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719321430569992192",
+              "start": 0,
+              "username": "woyaomaomi"
+            },
+            {
+              "end": 24,
+              "id": "1907670972486103040",
+              "start": 12,
+              "username": "ilovetwww06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817493821252053",
+        "in_reply_to_user_id": "1719321430569992192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069633960699900323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woyaomaomi @ilovetwww06 可能不会见到了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719321430569992192",
+        "conversation_id": "2069612332100334026",
+        "created_at": "2026-06-24T04:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069633960699900323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907670972486103040",
+              "start": 0,
+              "username": "ilovetwww06"
+            },
+            {
+              "end": 29,
+              "id": "1853286001197879296",
+              "start": 13,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069633960699900323",
+        "in_reply_to_user_id": "1907670972486103040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069624111006192042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovetwww06 @Rainydayovo8964 至今不见纸质报告单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39152,
+          "following_count": 230,
+          "like_count": 2982,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 6037
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T11:52:35.000Z",
+        "description": "06/男\n我会视奸每一个人👁️👁️👁️👁️👁️👁️👁️👁️",
+        "id": "1719321430569992192",
+        "name": "🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029424487306018816/FivG64md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 114,
+          "like_count": 9567,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "woyaomaomi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T05:46:28.000Z",
+        "description": "",
+        "id": "1907670972486103040",
+        "name": "法晕全世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066151452490506240/aguL0rqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 91,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "ilovetwww06",
+        "verified": false
+      }
+    ]
+  }
+}

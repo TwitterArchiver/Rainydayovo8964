@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T00:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048195994886799607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1464205428322336768",
+          "start": 0,
+          "username": "songyiqiuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048195994886799607",
+    "in_reply_to_user_id": "1464205428322336768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048174702217269733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songyiqiuo 也算是陪玩吧！但是有种奇怪的感觉..我本人不代表所有吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T00:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048195994886799607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1464205428322336768",
+              "start": 0,
+              "username": "songyiqiuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048195994886799607",
+        "in_reply_to_user_id": "1464205428322336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048174702217269733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songyiqiuo 也算是陪玩吧！但是有种奇怪的感觉..我本人不代表所有吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464205428322336768",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-25T22:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048174702217269733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048174702217269733",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实挺帅的……情绪价值给的足也可以全程不说话，换角度是特别贴心特别貌美的模样是自己喜欢的陪玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38376,
+          "following_count": 208,
+          "like_count": 2755,
+          "listed_count": 114,
+          "media_count": 410,
+          "tweet_count": 5301
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T12:12:59.000Z",
+        "description": "iiii我的抹茶蛋糕呢",
+        "id": "1464205428322336768",
+        "name": "eveland",
+        "pinned_tweet_id": "2025613430238195990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571888327649021958/4_0hm1qL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1041,
+          "like_count": 10089,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1033
+        },
+        "username": "songyiqiuo",
+        "verified": false
+      }
+    ]
+  }
+}

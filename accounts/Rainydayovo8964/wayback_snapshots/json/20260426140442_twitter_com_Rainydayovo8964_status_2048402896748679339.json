@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047979050157928656",
+    "created_at": "2026-04-26T14:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048402896748679339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764685881364160512",
+          "start": 0,
+          "username": "Natsuki_quq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048402896748679339",
+    "in_reply_to_user_id": "1764685881364160512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048391519909052603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_quq 我不行了好中肯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T14:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048402896748679339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764685881364160512",
+              "start": 0,
+              "username": "Natsuki_quq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048402896748679339",
+        "in_reply_to_user_id": "1764685881364160512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048391519909052603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_quq 我不行了好中肯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764685881364160512",
+        "conversation_id": "2047979050157928656",
+        "created_at": "2026-04-26T13:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048391519909052603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048391519909052603",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979050157928656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 一直觉得这种像爸爸活但是纯绿cos版，不过委托方都是女性所以应该叫妈妈活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38561,
+          "following_count": 208,
+          "like_count": 2779,
+          "listed_count": 122,
+          "media_count": 413,
+          "tweet_count": 5369
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T16:14:53.000Z",
+        "description": "不建议关注/发牢骚和看同人的/叫我夏树或者阿玉都可以/讨厌我请拉黑",
+        "id": "1764685881364160512",
+        "location": "無言フォロー失礼します",
+        "name": "夏树",
+        "pinned_tweet_id": "1774939296304074914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041722049878749186/EVKeUYNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 536,
+          "like_count": 7061,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 378
+        },
+        "username": "Natsuki_quq",
+        "verified": false
+      }
+    ]
+  }
+}

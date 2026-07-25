@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2018139931563176195",
+    "created_at": "2026-02-02T12:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018303440930419102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        },
+        {
+          "end": 22,
+          "id": "1819753476853014528",
+          "start": 9,
+          "username": "MiNaruto2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018303440930419102",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018290700509737016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 @MiNaruto2007 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2018139931563176195",
+        "created_at": "2026-02-02T12:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018303440930419102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            },
+            {
+              "end": 22,
+              "id": "1819753476853014528",
+              "start": 9,
+              "username": "MiNaruto2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018303440930419102",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018290700509737016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 @MiNaruto2007 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "2018139931563176195",
+        "created_at": "2026-02-02T11:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018290700509737016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819753476853014528",
+              "start": 0,
+              "username": "MiNaruto2007"
+            },
+            {
+              "end": 30,
+              "id": "1853286001197879296",
+              "start": 14,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018290700509737016",
+        "in_reply_to_user_id": "1819753476853014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018268889139015703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiNaruto2007 @Rainydayovo8964 我上学的时候全家一个月收入两千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38785,
+          "following_count": 170,
+          "like_count": 2138,
+          "listed_count": 134,
+          "media_count": 369,
+          "tweet_count": 3943
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/\n/computer scientist/web security/",
+        "id": "1199138410704715776",
+        "name": "漂亮鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 736,
+          "like_count": 5099,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 3716
+        },
+        "username": "L_R_001",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T15:13:43.000Z",
+        "description": "🐸🐸🐸🐸",
+        "id": "1819753476853014528",
+        "location": "木ノ葉村",
+        "name": "Valraven",
+        "pinned_tweet_id": "2018197425308184615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006958637768732672/zp4WC3H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 1166,
+          "like_count": 13781,
+          "listed_count": 1,
+          "media_count": 616,
+          "tweet_count": 4731
+        },
+        "username": "MiNaruto2007",
+        "verified": false
+      }
+    ]
+  }
+}

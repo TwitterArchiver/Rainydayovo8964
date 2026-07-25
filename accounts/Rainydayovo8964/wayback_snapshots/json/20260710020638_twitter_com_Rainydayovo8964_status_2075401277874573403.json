@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2074711882561364242",
+    "created_at": "2026-07-10T02:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075401277874573403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858928423256944640",
+          "start": 0,
+          "username": "jingjing139174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075401277874573403",
+    "in_reply_to_user_id": "1858928423256944640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074711882561364242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing139174 啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074711882561364242].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074711882561364242",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074711882561364242"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2074711882561364242",
+        "created_at": "2026-07-10T02:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075401277874573403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858928423256944640",
+              "start": 0,
+              "username": "jingjing139174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075401277874573403",
+        "in_reply_to_user_id": "1858928423256944640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074711882561364242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing139174 啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39072,
+          "following_count": 231,
+          "like_count": 2993,
+          "listed_count": 128,
+          "media_count": 440,
+          "tweet_count": 6083
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T17:40:56.000Z",
+        "description": "丑人不准私我❌不线下不闲聊不搞门槛不是黄推不接转帖不卖号不置顶不接推广❗️❗️❗️普普通通的恋爱人类🧸日常存档🎀",
+        "id": "1858928423256944640",
+        "name": "酱酱",
+        "pinned_tweet_id": "1884998584900448340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864737285092368384/kqJkE6f5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14854,
+          "following_count": 278,
+          "like_count": 240,
+          "listed_count": 25,
+          "media_count": 397,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "jingjing139174",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2040791896302514596",
+    "created_at": "2026-04-05T15:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040821399338815719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693380480555479040",
+          "start": 0,
+          "username": "xinxin06150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040821399338815719",
+    "in_reply_to_user_id": "1693380480555479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040820767273959650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxin06150 这把写实风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040821399338815719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693380480555479040",
+              "start": 0,
+              "username": "xinxin06150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040821399338815719",
+        "in_reply_to_user_id": "1693380480555479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040820767273959650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxin06150 这把写实风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693380480555479040",
+        "conversation_id": "2040791896302514596",
+        "created_at": "2026-04-05T15:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040820767273959650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040820767273959650",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040791896302514596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 无毛鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38271,
+          "following_count": 196,
+          "like_count": 2509,
+          "listed_count": 128,
+          "media_count": 388,
+          "tweet_count": 4708
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T21:52:36.000Z",
+        "description": "退役门姐/ 记录我的点点滴滴",
+        "id": "1693380480555479040",
+        "location": "加v有门槛",
+        "name": "王欠欠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017263294399369216/2RILK8r__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 36,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "xinxin06150",
+        "verified": false
+      }
+    ]
+  }
+}

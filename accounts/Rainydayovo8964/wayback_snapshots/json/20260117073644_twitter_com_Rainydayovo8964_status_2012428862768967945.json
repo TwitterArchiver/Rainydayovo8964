@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2012166819818213383",
+    "created_at": "2026-01-17T07:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012428862768967945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910544028203900928",
+          "start": 0,
+          "username": "FumikiriRinne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012428862768967945",
+    "in_reply_to_user_id": "1910544028203900928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012406110947254353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FumikiriRinne 对啊。感觉她们就是把这个当免责声明 ..实际上都是男的爱看。我感觉不如大方的承认自己就是给男的看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2012166819818213383",
+        "created_at": "2026-01-17T07:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012428862768967945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910544028203900928",
+              "start": 0,
+              "username": "FumikiriRinne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012428862768967945",
+        "in_reply_to_user_id": "1910544028203900928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012406110947254353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FumikiriRinne 对啊。感觉她们就是把这个当免责声明 ..实际上都是男的爱看。我感觉不如大方的承认自己就是给男的看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910544028203900928",
+        "conversation_id": "2012166819818213383",
+        "created_at": "2026-01-17T06:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012406110947254353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012406110947254353",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012166819818213383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 完全不懂有些人发那种根本就是男性向け的东西（比如那种视角or举着个脚怼镜头）结果文案是【发给老婆们看】【只媚女宝】……0个女人被你媚到好吗这是什么免责声明吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类    小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39117,
+          "following_count": 168,
+          "like_count": 2046,
+          "listed_count": 132,
+          "media_count": 348,
+          "tweet_count": 3697
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T04:03:04.000Z",
+        "description": "危ない踏切注意| 転生垢| 壁打ち垢|相思相愛",
+        "id": "1910544028203900928",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "踏切輪廻",
+        "pinned_tweet_id": "2001052973066281010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910544252691456000/FJN3Gm-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1147
+        },
+        "username": "FumikiriRinne",
+        "verified": false
+      }
+    ]
+  }
+}

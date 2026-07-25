@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2044448137004408959",
+    "created_at": "2026-04-15T16:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044450461999411693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1930997122159329281",
+          "start": 0,
+          "username": "liuj82124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044450461999411693",
+    "in_reply_to_user_id": "1930997122159329281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044448137004408959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuj82124 出自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2044448137004408959",
+        "created_at": "2026-04-15T16:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044450461999411693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1930997122159329281",
+              "start": 0,
+              "username": "liuj82124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044450461999411693",
+        "in_reply_to_user_id": "1930997122159329281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044448137004408959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuj82124 出自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930997122159329281",
+        "conversation_id": "2044448137004408959",
+        "created_at": "2026-04-15T16:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044448137004408959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044448137004408959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出自己 个人原因不养了 性格不稳定 爱吃东西 爱花钱 爱玩手机 爱发小脾气 可以买回去捣乱 有意者私信 心价理五十 跟今天疯狂星期四没关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37861,
+          "following_count": 202,
+          "like_count": 2705,
+          "listed_count": 115,
+          "media_count": 403,
+          "tweet_count": 5137
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T14:36:29.000Z",
+        "description": "4i＞1i远离南通的一只杂食动物，我是男的😭喜欢美味的碎碎念和有趣的人\n🚪999999",
+        "id": "1930997122159329281",
+        "location": "🚪999999",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042923675209404416/qiFrvs7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 133,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 798
+        },
+        "username": "liuj82124",
+        "verified": false
+      }
+    ]
+  }
+}

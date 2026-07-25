@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T12:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038595001316524362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542345951636901888",
+          "start": 0,
+          "username": "eeeeime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038595001316524362",
+    "in_reply_to_user_id": "1542345951636901888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038495125631127813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeeeime 对呀 我也觉得..不穷根本没必要这样营销..自己每个视频都在暗示自己的窘迫 原生家庭的痛苦 后来又说自己根本不穷。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T12:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038595001316524362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542345951636901888",
+              "start": 0,
+              "username": "eeeeime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038595001316524362",
+        "in_reply_to_user_id": "1542345951636901888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038495125631127813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeeeime 对呀 我也觉得..不穷根本没必要这样营销..自己每个视频都在暗示自己的窘迫 原生家庭的痛苦 后来又说自己根本不穷。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542345951636901888",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T05:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038495125631127813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038495125631127813",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 如果穷的话那就更应该感恩互联网，如果不穷的话根本没必要营销自己的人设。不管怎么说她都没走对路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38240,
+          "following_count": 186,
+          "like_count": 2390,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4491
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T03:15:17.000Z",
+        "description": "只看黄，勿扰",
+        "id": "1542345951636901888",
+        "name": "蛾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617529417647161345/-Hrjv9wN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 1988,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "username": "eeeeime",
+        "verified": false
+      }
+    ]
+  }
+}

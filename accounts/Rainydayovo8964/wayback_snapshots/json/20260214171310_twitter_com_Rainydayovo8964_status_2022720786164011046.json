@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2022720786164011046",
+    "created_at": "2026-02-14T17:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022720786164011046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844655613663649792",
+          "start": 3,
+          "username": "The_lost_0602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022720786164011046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022532029464948887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_lost_0602: 小时候被父母严格管教但缺少亲情的孩子，长大后反而更容易成为sub期待被伴侣管教，这本质上是一种强迫性重复，通过自主选择伴侣进行可控的创伤重演，寻找相似情景来追求更好的结局。\n模拟创伤中极高的关注度和事后关爱会成为修补童年空洞的重要手段。\n但…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2022720786164011046",
+        "created_at": "2026-02-14T17:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022720786164011046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844655613663649792",
+              "start": 3,
+              "username": "The_lost_0602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022720786164011046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022532029464948887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_lost_0602: 小时候被父母严格管教但缺少亲情的孩子，长大后反而更容易成为sub期待被伴侣管教，这本质上是一种强迫性重复，通过自主选择伴侣进行可控的创伤重演，寻找相似情景来追求更好的结局。\n模拟创伤中极高的关注度和事后关爱会成为修补童年空洞的重要手段。\n但…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844655613663649792",
+        "conversation_id": "2022532029464948887",
+        "created_at": "2026-02-14T04:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022532029464948887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022532029464948887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 54462,
+          "like_count": 810,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "小时候被父母严格管教但缺少亲情的孩子，长大后反而更容易成为sub期待被伴侣管教，这本质上是一种强迫性重复，通过自主选择伴侣进行可控的创伤重演，寻找相似情景来追求更好的结局。\n模拟创伤中极高的关注度和事后关爱会成为修补童年空洞的重要手段。\n但如果缺少aftercare，主动治愈就会变成二次创伤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38810,
+          "following_count": 172,
+          "like_count": 2156,
+          "listed_count": 135,
+          "media_count": 372,
+          "tweet_count": 4018
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T08:25:56.000Z",
+        "description": "『男｜单身｜INFJ｜DOM｜DDLG｜一本蒙尘的书，关于“灵魂，驯化，共生和爱”｜欢迎闲聊，私信都会回｜这里会有女绿相关内容⚠️，注意避雷｜文中的“她”是幻想，正在创作更多“她”的故事｜所有内容均为原创，未经允许禁止搬运｜@Ailuros0602日常小号』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Ailuros0602"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/the_lost_0602",
+                "end": 23,
+                "expanded_url": "https://ngl.link/the_lost_0602",
+                "start": 0,
+                "url": "https://t.co/cLwP0KqGAX"
+              }
+            ]
+          }
+        },
+        "id": "1844655613663649792",
+        "location": "触不可及",
+        "name": "Ink_Cat",
+        "pinned_tweet_id": "2016445596798984353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988963152978227201/lcvU9Gnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 6,
+          "like_count": 150,
+          "listed_count": 5,
+          "media_count": 18,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/cLwP0KqGAX",
+        "username": "The_lost_0602",
+        "verified": false
+      }
+    ]
+  }
+}

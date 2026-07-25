@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038450692424364271",
+    "created_at": "2026-03-30T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038593396521214000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993957173286850560",
+          "start": 0,
+          "username": "xueNmjgcvhjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038593396521214000",
+    "in_reply_to_user_id": "1993957173286850560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038496558006882789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueNmjgcvhjkk 可能这样有流量吧..但是真的很少有人穿的漂亮的干活 我一般干活都穿家里的旧衣服..因为漂亮衣服会心疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038593396521214000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993957173286850560",
+              "start": 0,
+              "username": "xueNmjgcvhjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038593396521214000",
+        "in_reply_to_user_id": "1993957173286850560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038496558006882789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueNmjgcvhjkk 可能这样有流量吧..但是真的很少有人穿的漂亮的干活 我一般干活都穿家里的旧衣服..因为漂亮衣服会心疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993957173286850560",
+        "conversation_id": "2038450692424364271",
+        "created_at": "2026-03-30T06:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038496558006882789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038496558006882789",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450692424364271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 其实我一直都不懂为啥要穿着裙子还有假发下地干活，别说是冬天了，我夏天穿着裙子和假发去有空调的商场里走一圈我的头都被勒得头疼热也要热死了，再说了穷不是应该更爱惜裙子吗因为买的钱都要很多了，真一点也不心疼穿着裙子下地干活😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38240,
+          "following_count": 186,
+          "like_count": 2384,
+          "listed_count": 135,
+          "media_count": 382,
+          "tweet_count": 4484
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T08:17:02.000Z",
+        "description": "",
+        "id": "1993957173286850560",
+        "name": "权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993957318309105666/2a37Cel1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xueNmjgcvhjkk",
+        "verified": false
+      }
+    ]
+  }
+}

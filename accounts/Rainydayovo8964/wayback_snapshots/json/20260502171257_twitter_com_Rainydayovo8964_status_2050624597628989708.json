@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050474473523151242",
+    "created_at": "2026-05-02T17:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050624597628989708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1313926657468755973",
+          "start": 0,
+          "username": "Egma40277885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050624597628989708",
+    "in_reply_to_user_id": "1313926657468755973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050584737111277661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Egma40277885 严肃加入购物车！！谢谢宝宝推荐呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T17:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050624597628989708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1313926657468755973",
+              "start": 0,
+              "username": "Egma40277885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050624597628989708",
+        "in_reply_to_user_id": "1313926657468755973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050584737111277661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Egma40277885 严肃加入购物车！！谢谢宝宝推荐呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313926657468755973",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T14:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050584737111277661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050584737111277661",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050474473523151242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 凹凸迷思的修容也好用！最近买的 然后用了感觉很不错！好晕染然后还有一头是唇线笔 唇线笔的质地也很夯！口红很推荐黑兔的裸色唇泥05！还有韩国的Romand 有两种 一个是果汁系列 一个是蜜光唇釉好像是 都很美丽！但是唇蜜有点沾 （粘头发 沾杯）不过胜在貌美！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38908,
+          "following_count": 208,
+          "like_count": 2809,
+          "listed_count": 132,
+          "media_count": 416,
+          "tweet_count": 5435
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T19:38:34.000Z",
+        "description": "这个世界上的人都很累。",
+        "id": "1313926657468755973",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046944509016387584/ZOosMm-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 84,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 123
+        },
+        "username": "Egma40277885",
+        "verified": false
+      }
+    ]
+  }
+}

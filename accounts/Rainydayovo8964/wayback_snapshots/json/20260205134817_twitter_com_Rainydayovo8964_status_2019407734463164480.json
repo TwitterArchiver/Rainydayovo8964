@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2019308858636923137",
+    "created_at": "2026-02-05T13:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019407734463164480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994763732824768513",
+          "start": 0,
+          "username": "beLoyaltyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019407734463164480",
+    "in_reply_to_user_id": "1994763732824768513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019386183680446627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beLoyaltyyyy 笑的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2019308858636923137",
+        "created_at": "2026-02-05T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019407734463164480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994763732824768513",
+              "start": 0,
+              "username": "beLoyaltyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019407734463164480",
+        "in_reply_to_user_id": "1994763732824768513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019386183680446627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beLoyaltyyyy 笑的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994763732824768513",
+        "conversation_id": "2019308858636923137",
+        "created_at": "2026-02-05T12:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019386183680446627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019386183680446627",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019308858636923137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 对丑的不会说这么温和的话吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38726,
+          "following_count": 172,
+          "like_count": 2149,
+          "listed_count": 134,
+          "media_count": 372,
+          "tweet_count": 3992
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T13:42:02.000Z",
+        "description": "碎碎念 ｜这个世界和我一样坏...",
+        "id": "1994763732824768513",
+        "name": "眼泪好冰爱也是这个温度吗",
+        "pinned_tweet_id": "2017275943317082262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000597050833145856/AobU2RKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 261
+        },
+        "username": "beLoyaltyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

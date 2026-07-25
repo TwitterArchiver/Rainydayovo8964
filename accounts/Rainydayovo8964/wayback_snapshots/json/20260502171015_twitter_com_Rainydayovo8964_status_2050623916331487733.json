@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2050474473523151242",
+    "created_at": "2026-05-02T17:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050623916331487733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "19363340",
+          "start": 0,
+          "username": "Chole109zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050623916331487733",
+    "in_reply_to_user_id": "19363340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050589779256086995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chole109zz 好！什么牌子都可以吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T17:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050623916331487733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "19363340",
+              "start": 0,
+              "username": "Chole109zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050623916331487733",
+        "in_reply_to_user_id": "19363340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050589779256086995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chole109zz 好！什么牌子都可以吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "19363340",
+        "conversation_id": "2050474473523151242",
+        "created_at": "2026-05-02T14:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050589779256086995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589779256086995",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050474473523151242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 歌剧魅影新手可能会用不来，需要自己调色+手法，而且超级大一盒用都用不完。建议试试遮瑕液。然后初学者一定要买个大地色眼影，随便啥牌子都行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38908,
+          "following_count": 208,
+          "like_count": 2802,
+          "listed_count": 132,
+          "media_count": 416,
+          "tweet_count": 5426
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-22T21:43:00.000Z",
+        "description": "一个无趣的人，邪恶人格顶号中。",
+        "id": "19363340",
+        "name": "伤心小狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047215656064729088/tITIb8Tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 41,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 80
+        },
+        "username": "Chole109zz",
+        "verified": false
+      }
+    ]
+  }
+}

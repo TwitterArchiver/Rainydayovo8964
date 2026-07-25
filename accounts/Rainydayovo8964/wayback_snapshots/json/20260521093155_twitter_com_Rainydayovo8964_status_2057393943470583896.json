@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057393932909367296"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2057393155742568655",
+    "created_at": "2026-05-21T09:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057393943470583896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q8hmXtyFI7",
+          "end": 23,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2057393943470583896/photo/1",
+          "media_key": "3_2057393932909367296",
+          "start": 0,
+          "url": "https://t.co/Q8hmXtyFI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057393943470583896",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057393155742568655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Q8hmXtyFI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057393932909367296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1U4aYbUAAunuN.jpg",
+        "width": 945
+      },
+      {
+        "height": 1714,
+        "media_key": "3_2057393135077261313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1UJ-ObgAEBImP.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057393932909367296"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2057393155742568655",
+        "created_at": "2026-05-21T09:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057393943470583896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8hmXtyFI7",
+              "end": 23,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2057393943470583896/photo/1",
+              "media_key": "3_2057393932909367296",
+              "start": 0,
+              "url": "https://t.co/Q8hmXtyFI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057393943470583896",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057393155742568655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q8hmXtyFI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057393135077261313"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057393155742568655",
+        "created_at": "2026-05-21T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057393155742568655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfEq6c9e4e",
+              "end": 23,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2057393155742568655/photo/1",
+              "media_key": "3_2057393135077261313",
+              "start": 0,
+              "url": "https://t.co/LfEq6c9e4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057393155742568655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LfEq6c9e4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38890,
+          "following_count": 218,
+          "like_count": 2957,
+          "listed_count": 129,
+          "media_count": 425,
+          "tweet_count": 5743
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

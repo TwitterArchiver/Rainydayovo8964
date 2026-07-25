@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038949515013799936"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038949534152495333",
+    "created_at": "2026-03-31T12:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038949534152495333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5Tb1CJmPV",
+          "end": 97,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2038949534152495333/photo/1",
+          "media_key": "3_2038949515013799936",
+          "start": 74,
+          "url": "https://t.co/j5Tb1CJmPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038949534152495333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到好笑的文案我复制咋了  我复制咋了 我复制咋了 我复制咋了 人家原创不让复制我就不复制  有些烂大街文案我看到我复制咋了 爱当小众逼的自己去当 https://t.co/j5Tb1CJmPV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_2038949515013799936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvNx_VaQAA6ubN.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038949515013799936"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038949534152495333",
+        "created_at": "2026-03-31T12:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038949534152495333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5Tb1CJmPV",
+              "end": 97,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2038949534152495333/photo/1",
+              "media_key": "3_2038949515013799936",
+              "start": 74,
+              "url": "https://t.co/j5Tb1CJmPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949534152495333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到好笑的文案我复制咋了  我复制咋了 我复制咋了 我复制咋了 人家原创不让复制我就不复制  有些烂大街文案我看到我复制咋了 爱当小众逼的自己去当 https://t.co/j5Tb1CJmPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。🚪",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38250,
+          "following_count": 188,
+          "like_count": 2398,
+          "listed_count": 135,
+          "media_count": 383,
+          "tweet_count": 4513
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

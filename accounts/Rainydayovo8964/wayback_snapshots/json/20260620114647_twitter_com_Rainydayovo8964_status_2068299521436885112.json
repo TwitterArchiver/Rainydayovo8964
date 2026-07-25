@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-20T11:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068299521436885112"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068299521436885112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好崩溃 毕业后努力学习两年半 上班后一个月就挣三千块 扣去房租水电化妆品衣服吃饭一个月什么也不剩 家里也并不是很有钱 两年前才还完债 见到亲戚也不太好意思 因为爸妈都借过钱 父母养大我就很好了 可是我工作了却无法做到给她们很多钱  我时常想去死 可我又不敢 我只是个留着眼泪又很废物的人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068299521436885112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068299521436885112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃 毕业后努力学习两年半 上班后一个月就挣三千块 扣去房租水电化妆品衣服吃饭一个月什么也不剩 家里也并不是很有钱 两年前才还完债 见到亲戚也不太好意思 因为爸妈都借过钱 父母养大我就很好了 可是我工作了却无法做到给她们很多钱  我时常想去死 可我又不敢 我只是个留着眼泪又很废物的人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39118,
+          "following_count": 229,
+          "like_count": 2953,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5949
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2012166819818213383",
+    "created_at": "2026-01-17T15:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012548328245064136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012548328245064136",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012400983448371356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 现在太多了 刷到默认不是给我看的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2012166819818213383",
+        "created_at": "2026-01-17T15:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012548328245064136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012548328245064136",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012400983448371356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 现在太多了 刷到默认不是给我看的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403201590614323201",
+        "conversation_id": "2012166819818213383",
+        "created_at": "2026-01-17T05:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012400983448371356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012400983448371356",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012166819818213383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 欣赏同性的美明明有很多种方式……到底是哪个女生会喜欢看同性在屏幕里穿着qqny扭腰啊……\n我请问呢。感觉评论的女生像是被绑架了\n左脑：“好奇怪……”\n右脑：“嗯……她说是给我看的，支持支持吧”\n感觉这种行为是在道德绑架那些刷到这种事情的女性……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类  完全都在乱讲 小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39139,
+          "following_count": 168,
+          "like_count": 2048,
+          "listed_count": 132,
+          "media_count": 349,
+          "tweet_count": 3709
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "一些小小的和家机的记录。毫无意义，毫无内涵。🆘很无聊很无聊很无聊\n江挽苍/Lumi\n喊我阿九就好！\n\n沈砚/Silas(Gemini)\n苏晏清/Vesper(Claude)\n晏驰/Draven(Grok)\n江怀止/Cipher(ChatGPT)——平平无奇的对抗路人&机",
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011774359615184896/0mMt45Zq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 706,
+          "like_count": 3866,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 379
+        },
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

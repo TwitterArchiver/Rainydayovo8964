@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2043410028309467307",
+    "created_at": "2026-04-12T19:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043410028309467307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814242147605893120",
+          "start": 3,
+          "username": "hehuan333202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043410028309467307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043366810075214181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hehuan333202: 想谈很直球的恋爱 。你只有我，我只有你。强控制，强占有欲，去哪里、干什么、想什么必须报备，在我面前不准回别人消息。吃醋我会说吃醋，想你就说真的很想你，想见你就要见面抱在一起。脖子带着刻我名字的项圈，高潮喊我的名字，从精神到肉体镌刻我的印记，只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2043410028309467307",
+        "created_at": "2026-04-12T19:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043410028309467307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814242147605893120",
+              "start": 3,
+              "username": "hehuan333202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043410028309467307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043366810075214181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hehuan333202: 想谈很直球的恋爱 。你只有我，我只有你。强控制，强占有欲，去哪里、干什么、想什么必须报备，在我面前不准回别人消息。吃醋我会说吃醋，想你就说真的很想你，想见你就要见面抱在一起。脖子带着刻我名字的项圈，高潮喊我的名字，从精神到肉体镌刻我的印记，只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814242147605893120",
+        "conversation_id": "2043366810075214181",
+        "created_at": "2026-04-12T16:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043366810075214181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043366810075214181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2245,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "想谈很直球的恋爱 。你只有我，我只有你。强控制，强占有欲，去哪里、干什么、想什么必须报备，在我面前不准回别人消息。吃醋我会说吃醋，想你就说真的很想你，想见你就要见面抱在一起。脖子带着刻我名字的项圈，高潮喊我的名字，从精神到肉体镌刻我的印记，只做我一个人的小狗。我爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  纯绿88🚪 黄188",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37814,
+          "following_count": 199,
+          "like_count": 2670,
+          "listed_count": 123,
+          "media_count": 402,
+          "tweet_count": 5070
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T10:13:52.000Z",
+        "description": "以此观我，所见即所得。\nles|infj|dom1\n/私信会回/不接推广/男的别来\n🚫原创文字禁止转载",
+        "id": "1814242147605893120",
+        "location": "52🚪",
+        "name": "疑心病",
+        "pinned_tweet_id": "2020350432917483651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030205782533517312/DRn8Ed56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3870,
+          "following_count": 332,
+          "like_count": 3213,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 450
+        },
+        "username": "hehuan333202",
+        "verified": false
+      }
+    ]
+  }
+}

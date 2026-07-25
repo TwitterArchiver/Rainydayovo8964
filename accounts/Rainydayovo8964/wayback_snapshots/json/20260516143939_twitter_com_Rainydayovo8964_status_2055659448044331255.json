@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2055262338413211731",
+    "created_at": "2026-05-16T14:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055659448044331255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907670972486103040",
+          "start": 0,
+          "username": "ilovetwww06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055659448044331255",
+    "in_reply_to_user_id": "1907670972486103040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055262338413211731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovetwww06 好狠的语录 我复制了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2055262338413211731",
+        "created_at": "2026-05-16T14:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055659448044331255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907670972486103040",
+              "start": 0,
+              "username": "ilovetwww06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055659448044331255",
+        "in_reply_to_user_id": "1907670972486103040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055262338413211731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovetwww06 好狠的语录 我复制了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907670972486103040",
+        "conversation_id": "2055262338413211731",
+        "created_at": "2026-05-15T12:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055262338413211731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055262338413211731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520只能证明五月已经折磨了我20天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚 \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 55,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 32,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38998,
+          "following_count": 217,
+          "like_count": 2938,
+          "listed_count": 128,
+          "media_count": 421,
+          "tweet_count": 5702
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T05:46:28.000Z",
+        "description": "",
+        "id": "1907670972486103040",
+        "name": "法晕全世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049317623377309696/QVMDOXDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 91,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "ilovetwww06",
+        "verified": false
+      }
+    ]
+  }
+}

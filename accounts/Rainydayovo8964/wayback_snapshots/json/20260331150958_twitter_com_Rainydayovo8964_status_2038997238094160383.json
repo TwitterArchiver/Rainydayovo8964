@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2038988955656528364",
+    "created_at": "2026-03-31T15:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038997238094160383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "920716376301436930",
+          "start": 0,
+          "username": "JinxJayTaylor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038997238094160383",
+    "in_reply_to_user_id": "920716376301436930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038996171361038554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinxJayTaylor 我是看朋友圈有个男的有感 朋友圈全是女朋友然后私下里我有对方wb 账号一直在wb聊那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2038988955656528364",
+        "created_at": "2026-03-31T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038997238094160383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "920716376301436930",
+              "start": 0,
+              "username": "JinxJayTaylor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038997238094160383",
+        "in_reply_to_user_id": "920716376301436930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038996171361038554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinxJayTaylor 我是看朋友圈有个男的有感 朋友圈全是女朋友然后私下里我有对方wb 账号一直在wb聊那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "920716376301436930",
+        "conversation_id": "2038988955656528364",
+        "created_at": "2026-03-31T15:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038996171361038554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038996171361038554",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038988955656528364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 是有这样的人，我也是经历过了才知道。它喜欢着你，但是也不拒绝和其他人搞暧昧，原因就是它不会拒绝，没有边界，根本原因是它没有那么爱你，它就像是一个中央空调，所以我这里用的是它。就像那句歌词“你真的懂唯一的定义？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我不会永远这样沉在河底的，雨季终将过去。",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  ",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "2032866961135456466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38255,
+          "following_count": 188,
+          "like_count": 2407,
+          "listed_count": 135,
+          "media_count": 384,
+          "tweet_count": 4532
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-18T18:21:04.000Z",
+        "description": "如果每个人都理解你，那你得普通成什么样。",
+        "id": "920716376301436930",
+        "location": "Zhejiang",
+        "name": "Jinx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/920717110753468416/JlIjNDwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 1662,
+          "like_count": 266,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 923
+        },
+        "username": "JinxJayTaylor",
+        "verified": false
+      }
+    ]
+  }
+}

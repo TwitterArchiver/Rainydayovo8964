@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2047325683198857316",
+    "created_at": "2026-04-23T14:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047325683198857316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047325683198857316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为严打vpn 我看个片都一卡一卡的 对于爱考前手冲的我 非常不爽..冲到一半总是张着腿等待片加载出来 操！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2047325683198857316",
+        "created_at": "2026-04-23T14:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047325683198857316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047325683198857316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为严打vpn 我看个片都一卡一卡的 对于爱考前手冲的我 非常不爽..冲到一半总是张着腿等待片加载出来 操！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "吻你眼角的那顆草莓味眼淚",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   🚪",
+        "name": "来一口草莓吗",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167580511801344/nxOnUHBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38132,
+          "following_count": 208,
+          "like_count": 2741,
+          "listed_count": 111,
+          "media_count": 409,
+          "tweet_count": 5268
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

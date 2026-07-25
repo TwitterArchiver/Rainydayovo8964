@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2068299521436885112",
+    "created_at": "2026-06-21T01:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068505631766855935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1673834734072508416",
+          "start": 0,
+          "username": "shibaizhehuiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068505631766855935",
+    "in_reply_to_user_id": "1673834734072508416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068481696903655900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shibaizhehuiyi 毕业学习考各种试了 然后有服务期走不了的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-21T01:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068505631766855935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1673834734072508416",
+              "start": 0,
+              "username": "shibaizhehuiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068505631766855935",
+        "in_reply_to_user_id": "1673834734072508416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068481696903655900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shibaizhehuiyi 毕业学习考各种试了 然后有服务期走不了的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673834734072508416",
+        "conversation_id": "2068299521436885112",
+        "created_at": "2026-06-20T23:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068481696903655900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068481696903655900",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299521436885112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 这个故事逻辑怎么听都不对。毕业后努力学习两年半，毕业后学啥了？每个月3000块，还能有月月化妆品和衣服这样的支出？既然挣得少 为啥不去找个管吃管住的工作？还是穿上孔乙己的长衫脱不下来了。你来我们这里我们这女工长白班10个小时，一个月管吃管住5500-7500之间，电子配件厂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "或許你是個天使/丑逼一个 喜欢在网络上找存在感 记性特别差 有时候不记得自己是人 被攻击后就退化成鱼  \n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 94,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 71,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2041092815871189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39143,
+          "following_count": 229,
+          "like_count": 2960,
+          "listed_count": 128,
+          "media_count": 436,
+          "tweet_count": 5970
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T23:24:57.000Z",
+        "description": "",
+        "id": "1673834734072508416",
+        "name": "露露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066681177981743104/WCtW0RiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "shibaizhehuiyi",
+        "verified": false
+      }
+    ]
+  }
+}

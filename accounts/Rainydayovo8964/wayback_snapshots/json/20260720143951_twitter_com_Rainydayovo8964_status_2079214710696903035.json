@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2079139567719079981",
+    "created_at": "2026-07-20T14:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079214710696903035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964229472795942912",
+          "start": 0,
+          "username": "wzx1331865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079214710696903035",
+    "in_reply_to_user_id": "1964229472795942912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079139567719079981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzx1331865 咋啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2079139567719079981",
+        "created_at": "2026-07-20T14:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079214710696903035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964229472795942912",
+              "start": 0,
+              "username": "wzx1331865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079214710696903035",
+        "in_reply_to_user_id": "1964229472795942912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079139567719079981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzx1331865 咋啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964229472795942912",
+        "conversation_id": "2079139567719079981",
+        "created_at": "2026-07-20T09:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079139567719079981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079139567719079981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不从门姐身上找情感寄托和情绪价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "情绪垃圾桶\n匿名信箱 好奇我的任何都可以给我发！https://t.co/Sxh1bRscBU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyovo50924",
+                "end": 47,
+                "expanded_url": "https://ngl.link/rainyovo50924",
+                "start": 24,
+                "url": "https://t.co/Sxh1bRscBU"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "纯绿88 🚪 不线下 不接广   ",
+        "name": "天使用户123",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810636906430464/T61ZkDon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39255,
+          "following_count": 237,
+          "like_count": 3008,
+          "listed_count": 129,
+          "media_count": 442,
+          "tweet_count": 6141
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T07:29:43.000Z",
+        "description": "用来存一些发朋友圈的文案和碎碎念",
+        "id": "1964229472795942912",
+        "name": "心急吃不了溏心蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973426270328463366/pdCOZRCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 41,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "wzx1331865",
+        "verified": false
+      }
+    ]
+  }
+}
