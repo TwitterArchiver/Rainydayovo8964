@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082032903308070943",
+    "created_at": "2026-07-28T09:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082032903308070943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510813982831038464",
+          "start": 3,
+          "username": "poppplove12_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082032903308070943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081798656383230198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poppplove12_: 我希望敏感内耗的人最终都能得到稳定的安全感和幸福……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082032903308070943",
+        "created_at": "2026-07-28T09:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082032903308070943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510813982831038464",
+              "start": 3,
+              "username": "poppplove12_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082032903308070943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081798656383230198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poppplove12_: 我希望敏感内耗的人最终都能得到稳定的安全感和幸福……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510813982831038464",
+        "conversation_id": "2081798656383230198",
+        "created_at": "2026-07-27T17:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081798656383230198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081798656383230198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2009,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我希望敏感内耗的人最终都能得到稳定的安全感和幸福……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39215,
+          "following_count": 241,
+          "like_count": 3071,
+          "listed_count": 127,
+          "media_count": 449,
+          "tweet_count": 6262
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T02:59:54.000Z",
+        "description": "我会幸福的！吧",
+        "id": "1510813982831038464",
+        "name": "poppp",
+        "pinned_tweet_id": "2074501514106949928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005257973220958208/qlltPpsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 111,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "poppplove12_",
+        "verified": false
+      }
+    ]
+  }
+}

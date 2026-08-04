@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082900689639166385",
+    "created_at": "2026-07-31T05:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083058094326903225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1389755838173126657",
+          "start": 0,
+          "username": "MangoNogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083058094326903225",
+    "in_reply_to_user_id": "1389755838173126657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083050942228795561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MangoNogu 好滴谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-31T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083058094326903225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389755838173126657",
+              "start": 0,
+              "username": "MangoNogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083058094326903225",
+        "in_reply_to_user_id": "1389755838173126657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083050942228795561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MangoNogu 好滴谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389755838173126657",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-31T04:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083050942228795561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083050942228795561",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082900689639166385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 确实是干人事好些，领导没坑你，你干人事的话人际关系跟实际业务都能开拓出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39173,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6316
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T01:36:40.000Z",
+        "description": "我失去攻击力了，再也没有以前的那股锐气了。对不起大家",
+        "id": "1389755838173126657",
+        "name": "出轨的死全家",
+        "pinned_tweet_id": "1406527505842929666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066976295729426432/7WgKI-Db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "MangoNogu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082681873097236788",
+    "created_at": "2026-07-30T17:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082880385466486826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007004301235990529",
+          "start": 0,
+          "username": "3668995842Mei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082880385466486826",
+    "in_reply_to_user_id": "2007004301235990529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082836194887651697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3668995842Mei 啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082681873097236788",
+        "created_at": "2026-07-30T17:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082880385466486826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007004301235990529",
+              "start": 0,
+              "username": "3668995842Mei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082880385466486826",
+        "in_reply_to_user_id": "2007004301235990529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836194887651697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3668995842Mei 啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007004301235990529",
+        "conversation_id": "2082681873097236788",
+        "created_at": "2026-07-30T14:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082836194887651697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836194887651697",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082681873097236788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 我去刚听了一个合理说成和你的我直接笑出来了😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39193,
+          "following_count": 240,
+          "like_count": 3084,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6301
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T08:21:42.000Z",
+        "description": "07♍️entp\n极度厌蠢 蠢人别来沾边…\n是女权 incel也别来沾边\n🍎🍐双推\n160三推\n傅融单推",
+        "id": "2007004301235990529",
+        "name": "Meiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064771921187602433/1MD9Kcih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "3668995842Mei",
+        "verified": false
+      }
+    ]
+  }
+}

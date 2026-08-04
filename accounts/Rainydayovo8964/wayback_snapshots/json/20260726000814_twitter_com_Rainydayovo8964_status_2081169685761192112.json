@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2081012587412742192",
+    "created_at": "2026-07-26T00:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081169685761192112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897250027334242304",
+          "start": 0,
+          "username": "crywithme25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081169685761192112",
+    "in_reply_to_user_id": "1897250027334242304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081012587412742192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crywithme25 删掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2081012587412742192",
+        "created_at": "2026-07-26T00:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081169685761192112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897250027334242304",
+              "start": 0,
+              "username": "crywithme25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081169685761192112",
+        "in_reply_to_user_id": "1897250027334242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081012587412742192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crywithme25 删掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897250027334242304",
+        "conversation_id": "2081012587412742192",
+        "created_at": "2026-07-25T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081012587412742192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081012587412742192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17645,
+          "like_count": 162,
+          "quote_count": 10,
+          "reply_count": 209,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "经常发推的人是不是因为没别的人可以分享"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39240,
+          "following_count": 244,
+          "like_count": 3043,
+          "listed_count": 128,
+          "media_count": 446,
+          "tweet_count": 6222
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T11:37:33.000Z",
+        "description": "我的另一个朋友圈ovo｜太在意别人的看法会变成别人的裤衩^^｜🫧：@Mintchoiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Mintchoiiii"
+              }
+            ]
+          }
+        },
+        "id": "1897250027334242304",
+        "location": "🚪",
+        "name": "BBiBBi",
+        "pinned_tweet_id": "2043223990433620160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029945541245947910/im49d9uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 232,
+          "like_count": 6104,
+          "listed_count": 20,
+          "media_count": 553,
+          "tweet_count": 6835
+        },
+        "url": "",
+        "username": "crywithme25",
+        "verified": false
+      }
+    ]
+  }
+}

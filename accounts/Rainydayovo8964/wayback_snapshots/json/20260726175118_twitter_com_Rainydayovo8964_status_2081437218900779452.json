@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2081437218900779452",
+    "created_at": "2026-07-26T17:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081437218900779452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1951294023429394432",
+          "start": 3,
+          "username": "wo0037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081437218900779452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081271433909457350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wo0037: 男人发骚真的是一门学问，多了油腻少了寡淡，控制不好力度会像剩饭一样食之无味弃之可惜，能把握好发骚尺度的男人简直是少之又少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2081437218900779452",
+        "created_at": "2026-07-26T17:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081437218900779452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1951294023429394432",
+              "start": 3,
+              "username": "wo0037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081437218900779452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081271433909457350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wo0037: 男人发骚真的是一门学问，多了油腻少了寡淡，控制不好力度会像剩饭一样食之无味弃之可惜，能把握好发骚尺度的男人简直是少之又少。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951294023429394432",
+        "conversation_id": "2081271433909457350",
+        "created_at": "2026-07-26T06:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081271433909457350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081271433909457350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 38421,
+          "like_count": 867,
+          "quote_count": 21,
+          "reply_count": 110,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "男人发骚真的是一门学问，多了油腻少了寡淡，控制不好力度会像剩饭一样食之无味弃之可惜，能把握好发骚尺度的男人简直是少之又少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39247,
+          "following_count": 247,
+          "like_count": 3064,
+          "listed_count": 128,
+          "media_count": 446,
+          "tweet_count": 6244
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T14:49:14.000Z",
+        "description": "人类",
+        "id": "1951294023429394432",
+        "name": "礼物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039167455554383872/Z2yTvJrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 6,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "wo0037",
+        "verified": false
+      }
+    ]
+  }
+}

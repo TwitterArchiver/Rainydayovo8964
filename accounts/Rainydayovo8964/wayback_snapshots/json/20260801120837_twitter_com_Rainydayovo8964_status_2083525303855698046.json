@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2083442826193539334",
+    "created_at": "2026-08-01T12:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083525303855698046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945883898468315136",
+          "start": 0,
+          "username": "tciimynarcoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083525303855698046",
+    "in_reply_to_user_id": "1945883898468315136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083442826193539334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tciimynarcoq 我小小小小小号也死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083442826193539334].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083442826193539334",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083442826193539334"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2083442826193539334",
+        "created_at": "2026-08-01T12:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083525303855698046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945883898468315136",
+              "start": 0,
+              "username": "tciimynarcoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083525303855698046",
+        "in_reply_to_user_id": "1945883898468315136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442826193539334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tciimynarcoq 我小小小小小号也死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39131,
+          "following_count": 236,
+          "like_count": 3094,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6337
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T16:31:34.000Z",
+        "description": "你降落后我的世界转晴",
+        "id": "1945883898468315136",
+        "name": "小寡妇上坟",
+        "pinned_tweet_id": "2066573957277651156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048765733426069505/gUyGcs3D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 2103
+        },
+        "url": "",
+        "username": "tciimynarcoq",
+        "verified": false
+      }
+    ]
+  }
+}

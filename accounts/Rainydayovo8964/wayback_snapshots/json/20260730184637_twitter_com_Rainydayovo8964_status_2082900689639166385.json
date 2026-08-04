@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082900689639166385",
+    "created_at": "2026-07-30T18:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082900689639166385"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082900689639166385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们我现在有一个很纠结的问题 ！是有关工作上的.. 首先我说明基本情况：我是干党建口的 带我的姐对我很好 最近我们单位新来人了 领导和我谈话意思是想把我干的党建分给新来的让我干人事..和我说了很多..党建其实也挺累但是有点习惯了..人事我完全不懂 但是领导的意思是干人事好些..求助 好难选择。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-30T18:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082900689639166385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082900689639166385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们我现在有一个很纠结的问题 ！是有关工作上的.. 首先我说明基本情况：我是干党建口的 带我的姐对我很好 最近我们单位新来人了 领导和我谈话意思是想把我干的党建分给新来的让我干人事..和我说了很多..党建其实也挺累但是有点习惯了..人事我完全不懂 但是领导的意思是干人事好些..求助 好难选择。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39195,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6303
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

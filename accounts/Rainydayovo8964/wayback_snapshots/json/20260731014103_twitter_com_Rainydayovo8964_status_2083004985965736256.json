@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082691077388316792",
+    "created_at": "2026-07-31T01:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083004985965736256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629055814093635585",
+          "start": 0,
+          "username": "KareirakuKetto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083004985965736256",
+    "in_reply_to_user_id": "1629055814093635585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082990645233557583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KareirakuKetto 我每天都在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082691077388316792",
+        "created_at": "2026-07-31T01:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083004985965736256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629055814093635585",
+              "start": 0,
+              "username": "KareirakuKetto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083004985965736256",
+        "in_reply_to_user_id": "1629055814093635585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082990645233557583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KareirakuKetto 我每天都在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629055814093635585",
+        "conversation_id": "2082691077388316792",
+        "created_at": "2026-07-31T00:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082990645233557583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082990645233557583",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082691077388316792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 他媽的到底是什麼神人 想出聽潮閣這種傻逼的東西 刷抖音天天刷到這個什麼小心震盪 聽得我都想把手機砸了 聽得我生理不適"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39171,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6305
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:49:47.000Z",
+        "description": "谁骂我谁先死个妈😂",
+        "id": "1629055814093635585",
+        "location": "China",
+        "name": "花麗洛結棠Kareiraku-Ketto🇨🇳🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813974235972513792/wNdud96z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 172,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "KareirakuKetto",
+        "verified": false
+      }
+    ]
+  }
+}

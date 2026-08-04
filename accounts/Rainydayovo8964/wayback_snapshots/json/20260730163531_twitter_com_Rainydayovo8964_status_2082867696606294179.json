@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082524633958359040"
+      ],
+      "media_source_tweet_id": [
+        "2082524644406407446"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082867696606294179",
+    "created_at": "2026-07-30T16:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082867696606294179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1605220341134946306",
+          "start": 3,
+          "username": "zttttt1232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IlijToAxP6",
+          "end": 49,
+          "expanded_url": "https://x.com/zttttt1232/status/2082524644406407446/photo/1",
+          "media_key": "3_2082524633958359040",
+          "start": 26,
+          "url": "https://t.co/IlijToAxP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082867696606294179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082524644406407446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zttttt1232: 真的。只想勾引他… https://t.co/IlijToAxP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2082524633958359040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOadHvMWoAAONGw.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082524633958359040"
+          ]
+        },
+        "author_id": "1605220341134946306",
+        "conversation_id": "2082524644406407446",
+        "created_at": "2026-07-29T17:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082524644406407446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlijToAxP6",
+              "end": 33,
+              "expanded_url": "https://x.com/zttttt1232/status/2082524644406407446/photo/1",
+              "media_key": "3_2082524633958359040",
+              "start": 10,
+              "url": "https://t.co/IlijToAxP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082524644406407446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 46696,
+          "like_count": 298,
+          "quote_count": 3,
+          "reply_count": 122,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "真的。只想勾引他… https://t.co/IlijToAxP6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082524633958359040"
+          ],
+          "media_source_tweet_id": [
+            "2082524644406407446"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082867696606294179",
+        "created_at": "2026-07-30T16:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082867696606294179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1605220341134946306",
+              "start": 3,
+              "username": "zttttt1232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlijToAxP6",
+              "end": 49,
+              "expanded_url": "https://x.com/zttttt1232/status/2082524644406407446/photo/1",
+              "media_key": "3_2082524633958359040",
+              "start": 26,
+              "url": "https://t.co/IlijToAxP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082867696606294179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082524644406407446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zttttt1232: 真的。只想勾引他… https://t.co/IlijToAxP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39192,
+          "following_count": 240,
+          "like_count": 3083,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6298
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:15:36.000Z",
+        "description": "发🐣 举报｜不互关｜isfp｜只回感兴趣的和口令",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ztttt10432",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ztttt10432",
+                "start": 0,
+                "url": "https://t.co/87wbrVSkKf"
+              }
+            ]
+          }
+        },
+        "id": "1605220341134946306",
+        "name": "Wa",
+        "pinned_tweet_id": "2011040304183591021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930678559456337920/fMRR6PGm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 5,
+          "like_count": 1819,
+          "listed_count": 5,
+          "media_count": 36,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/87wbrVSkKf",
+        "username": "zttttt1232",
+        "verified": false
+      }
+    ]
+  }
+}

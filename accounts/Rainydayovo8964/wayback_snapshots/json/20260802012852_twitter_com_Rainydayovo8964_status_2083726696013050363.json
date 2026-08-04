@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2083726696013050363",
+    "created_at": "2026-08-02T01:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083726696013050363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996918310349557762",
+          "start": 3,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083726696013050363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083572049101115467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guli1817513: 女孩，城市向下跳，农村向上吊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2083726696013050363",
+        "created_at": "2026-08-02T01:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083726696013050363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996918310349557762",
+              "start": 3,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083726696013050363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083572049101115467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guli1817513: 女孩，城市向下跳，农村向上吊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2083572049101115467",
+        "created_at": "2026-08-01T15:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572049101115467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083572049101115467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8979,
+          "like_count": 252,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "女孩，城市向下跳，农村向上吊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39133,
+          "following_count": 238,
+          "like_count": 3104,
+          "listed_count": 131,
+          "media_count": 452,
+          "tweet_count": 6347
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "经营自己的呆逼生活中",
+        "id": "1996918310349557762",
+        "location": "幸福",
+        "name": "Guli",
+        "pinned_tweet_id": "2082877160071798980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 148,
+          "like_count": 5558,
+          "listed_count": 0,
+          "media_count": 954,
+          "tweet_count": 6844
+        },
+        "url": "",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

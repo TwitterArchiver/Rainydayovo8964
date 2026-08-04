@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2083504532823421420",
+    "created_at": "2026-08-01T10:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083504532823421420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083504532823421420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你发寂寞的那种动态是要干什么呢，你想给谁看，你想和谁在一起，谁才是你的幸福，我是谁，我们是什么关系，我没有让你开心吗，你到底怎么想的，其实你想我死对吧?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2083504532823421420",
+        "created_at": "2026-08-01T10:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083504532823421420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083504532823421420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你发寂寞的那种动态是要干什么呢，你想给谁看，你想和谁在一起，谁才是你的幸福，我是谁，我们是什么关系，我没有让你开心吗，你到底怎么想的，其实你想我死对吧?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39134,
+          "following_count": 236,
+          "like_count": 3093,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6336
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

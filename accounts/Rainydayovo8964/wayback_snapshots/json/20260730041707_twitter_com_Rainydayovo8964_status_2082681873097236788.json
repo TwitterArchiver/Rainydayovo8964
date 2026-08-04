@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082681873097236788",
+    "created_at": "2026-07-30T04:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082681873097236788"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082681873097236788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有口音 普通话不标准的别当男喘行不行.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082681873097236788",
+        "created_at": "2026-07-30T04:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082681873097236788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082681873097236788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有口音 普通话不标准的别当男喘行不行.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39207,
+          "following_count": 243,
+          "like_count": 3078,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6282
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2081039667940733169",
+    "created_at": "2026-07-25T23:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081154340002439403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874179938594807809",
+          "start": 0,
+          "username": "ehugpkuv582579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081154340002439403",
+    "in_reply_to_user_id": "1874179938594807809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081039667940733169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ehugpkuv582579 闺蜜不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2081039667940733169",
+        "created_at": "2026-07-25T23:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081154340002439403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874179938594807809",
+              "start": 0,
+              "username": "ehugpkuv582579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081154340002439403",
+        "in_reply_to_user_id": "1874179938594807809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039667940733169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ehugpkuv582579 闺蜜不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874179938594807809",
+        "conversation_id": "2081039667940733169",
+        "created_at": "2026-07-25T15:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081039667940733169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081039667940733169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有一件事是我自愿的\n好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39236,
+          "following_count": 244,
+          "like_count": 3039,
+          "listed_count": 128,
+          "media_count": 446,
+          "tweet_count": 6217
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T19:44:57.000Z",
+        "description": "啥意思",
+        "id": "1874179938594807809",
+        "name": "1112233",
+        "pinned_tweet_id": "2076692039836848391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074515085046022144/aVATmIaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 19,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "ehugpkuv582579",
+        "verified": false
+      }
+    ]
+  }
+}

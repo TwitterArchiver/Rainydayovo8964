@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082504978363752450"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082505001503728040",
+    "created_at": "2026-07-29T16:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082505001503728040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6j9thBDcV",
+          "end": 41,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2082505001503728040/photo/1",
+          "media_key": "3_2082504978363752450",
+          "start": 18,
+          "url": "https://t.co/E6j9thBDcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082505001503728040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学宿舍时期床帘内的草莓蝴蝶结.. https://t.co/E6j9thBDcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082504978363752450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaLPoZaoAI9A7n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082504978363752450"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082505001503728040",
+        "created_at": "2026-07-29T16:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082505001503728040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6j9thBDcV",
+              "end": 41,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2082505001503728040/photo/1",
+              "media_key": "3_2082504978363752450",
+              "start": 18,
+              "url": "https://t.co/E6j9thBDcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505001503728040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学宿舍时期床帘内的草莓蝴蝶结.. https://t.co/E6j9thBDcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39203,
+          "following_count": 242,
+          "like_count": 3073,
+          "listed_count": 127,
+          "media_count": 451,
+          "tweet_count": 6271
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

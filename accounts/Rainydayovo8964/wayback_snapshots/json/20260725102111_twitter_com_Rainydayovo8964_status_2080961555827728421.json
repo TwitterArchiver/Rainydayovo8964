@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2080935976848011578",
+    "created_at": "2026-07-25T10:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080961555827728421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080961555827728421",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080935976848011578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 加热式是什么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2080935963791122432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD4O9oa4AAYYXc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2080935976848011578",
+        "created_at": "2026-07-25T10:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080961555827728421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080961555827728421",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080935976848011578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 加热式是什么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080935963791122432"
+          ]
+        },
+        "author_id": "1897913540432068608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080935976848011578",
+        "created_at": "2026-07-25T08:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080935976848011578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6X978fd0v3",
+              "end": 41,
+              "expanded_url": "https://x.com/1lc5si9/status/2080935976848011578/photo/1",
+              "media_key": "3_2080935963791122432",
+              "start": 18,
+              "url": "https://t.co/6X978fd0v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080935976848011578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "为了健康已严肃购买加热式和电子烟。 https://t.co/6X978fd0v3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39224,
+          "following_count": 244,
+          "like_count": 3036,
+          "listed_count": 128,
+          "media_count": 446,
+          "tweet_count": 6201
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "東京┊maimai┊od┊",
+        "id": "1897913540432068608",
+        "name": "，",
+        "pinned_tweet_id": "2077570238049354210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071619605592981504/bF-BAaPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 253,
+          "like_count": 10205,
+          "listed_count": 0,
+          "media_count": 1659,
+          "tweet_count": 8533
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

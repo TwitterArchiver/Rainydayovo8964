@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082900689639166385",
+    "created_at": "2026-07-31T01:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083005182179430779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1384279827083972610",
+          "start": 0,
+          "username": "iQkr4TS0XC6QkGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083005182179430779",
+    "in_reply_to_user_id": "1384279827083972610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082911494510104791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iQkr4TS0XC6QkGm 体制。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-31T01:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083005182179430779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1384279827083972610",
+              "start": 0,
+              "username": "iQkr4TS0XC6QkGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083005182179430779",
+        "in_reply_to_user_id": "1384279827083972610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082911494510104791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iQkr4TS0XC6QkGm 体制。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384279827083972610",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-30T19:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082911494510104791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082911494510104791",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082900689639166385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 党建？不知道是国企还是体制的，我个人感觉这个两个不太一样，国企关系户多，大概率晋升都让给关系户了，体制他反正开不了你，你不爱去他也拿你没办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39171,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6308
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T22:57:06.000Z",
+        "description": "一路坎坷颠簸",
+        "id": "1384279827083972610",
+        "location": "伪人",
+        "name": "敷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397682708805996544/K4aOyRAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 773,
+          "like_count": 1513,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "iQkr4TS0XC6QkGm",
+        "verified": false
+      }
+    ]
+  }
+}

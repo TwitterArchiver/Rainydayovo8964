@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082900689639166385",
+    "created_at": "2026-07-31T01:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083005138588127308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1094497605474762752",
+          "start": 0,
+          "username": "Deltx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083005138588127308",
+    "in_reply_to_user_id": "1094497605474762752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082925580581060662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deltx4 好滴ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-31T01:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083005138588127308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1094497605474762752",
+              "start": 0,
+              "username": "Deltx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083005138588127308",
+        "in_reply_to_user_id": "1094497605474762752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082925580581060662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deltx4 好滴ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094497605474762752",
+        "conversation_id": "2082900689639166385",
+        "created_at": "2026-07-30T20:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082925580581060662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082925580581060662",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082900689639166385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 人事的话接触实际业务会多点相对确实会好些。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39171,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6307
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T07:25:38.000Z",
+        "description": "男的 26 国企hr",
+        "id": "1094497605474762752",
+        "name": "poooah",
+        "pinned_tweet_id": "1554857574121570305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042216297656967168/TiE0a4pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 1904,
+          "like_count": 10676,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "Deltx4",
+        "verified": false
+      }
+    ]
+  }
+}

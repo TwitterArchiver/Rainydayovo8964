@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082869817250590992",
+    "created_at": "2026-07-30T16:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082869817250590992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999161935875428352",
+          "start": 3,
+          "username": "PlzNoFare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082869817250590992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082637086310510748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PlzNoFare: 想象一下我是你女朋友，每天宅在家里看小说追剧打游戏，对着手机屏幕嘎嘎乐，闲着没事爱在厨房捣鼓一些黑暗料理逼着你吃完，一天给你发八百条消息，还要让你下班路上给我带水果奶茶取快递，总是不记得晾洗衣机里的衣服，偶尔心情好化个全妆然后照半天镜子再卸掉，刷到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082869817250590992",
+        "created_at": "2026-07-30T16:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082869817250590992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999161935875428352",
+              "start": 3,
+              "username": "PlzNoFare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082869817250590992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082637086310510748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PlzNoFare: 想象一下我是你女朋友，每天宅在家里看小说追剧打游戏，对着手机屏幕嘎嘎乐，闲着没事爱在厨房捣鼓一些黑暗料理逼着你吃完，一天给你发八百条消息，还要让你下班路上给我带水果奶茶取快递，总是不记得晾洗衣机里的衣服，偶尔心情好化个全妆然后照半天镜子再卸掉，刷到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999161935875428352",
+        "conversation_id": "2082637086310510748",
+        "created_at": "2026-07-30T01:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082637086310510748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082637086310510748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想象一下我是你女朋友，每天宅在家里看小说追剧打游戏，对着手机屏幕嘎嘎乐，闲着没事爱在厨房捣鼓一些黑暗料理逼着你吃完，一天给你发八百条消息，还要让你下班路上给我带水果奶茶取快递，总是不记得晾洗衣机里的衣服，偶尔心情好化个全妆然后照半天镜子再卸掉，刷到什么新play都要缠着你试试，你打游戏的时候我在旁边玩拼豆，要是敢锤一下桌子把拼豆锤撒了我就锤你一顿，偶尔可能钻到桌子下面去吃点别的，周末要求你必须跟我一起赖床到下午然后起床联机打饥荒，时不时查你手机通讯录和屏幕使用时间，哪天公粮没交够就要逼问你是不是有了小三小四小五"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 50786,
+          "like_count": 241,
+          "quote_count": 5,
+          "reply_count": 86,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你女朋友，每天宅在家里看小说追剧打游戏，对着手机屏幕嘎嘎乐，闲着没事爱在厨房捣鼓一些黑暗料理逼着你吃完，一天给你发八百条消息，还要让你下班路上给我带水果奶茶取快递，总是不记得晾洗衣机里的衣服，偶尔心情好化个全妆然后照半天镜子再卸掉，刷到什么新play都要缠着你试试，你打游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39192,
+          "following_count": 240,
+          "like_count": 3084,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6300
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T17:00:56.000Z",
+        "description": "谢谢你喜欢我 虽然这是你应该做的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plznofare",
+                "end": 23,
+                "expanded_url": "https://ngl.link/plznofare",
+                "start": 0,
+                "url": "https://t.co/ggtDqaXdrE"
+              }
+            ]
+          }
+        },
+        "id": "1999161935875428352",
+        "location": "🇬🇧",
+        "name": "禁止发热",
+        "pinned_tweet_id": "2057276967653638149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999164161431896064/JyH2A1uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 118,
+          "like_count": 6233,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/ggtDqaXdrE",
+        "username": "PlzNoFare",
+        "verified": true
+      }
+    ]
+  }
+}

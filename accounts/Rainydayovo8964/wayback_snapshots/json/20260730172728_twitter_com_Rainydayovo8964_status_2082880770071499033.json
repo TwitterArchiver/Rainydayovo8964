@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082807145439916249",
+    "created_at": "2026-07-30T17:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082880770071499033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009907458530258945",
+          "start": 0,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082880770071499033",
+    "in_reply_to_user_id": "2009907458530258945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082807145439916249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cOniqGBygQ16927 删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082807145439916249",
+        "created_at": "2026-07-30T17:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082880770071499033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009907458530258945",
+              "start": 0,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082880770071499033",
+        "in_reply_to_user_id": "2009907458530258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082807145439916249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOniqGBygQ16927 删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2082807145439916249",
+        "created_at": "2026-07-30T12:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082807145439916249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082807145439916249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6104,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我把你当成我的爱人了而我只是你的杯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39193,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6302
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 28,
+          "like_count": 1519,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

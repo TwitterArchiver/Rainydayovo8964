@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082442416540553676",
+    "created_at": "2026-07-29T12:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082442416540553676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016408687854944258",
+          "start": 3,
+          "username": "kawaiilu3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082442416540553676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082142739081343077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaiilu3u: 到底和谁聊才可以又发骚又犯贱又撒娇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082442416540553676",
+        "created_at": "2026-07-29T12:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082442416540553676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016408687854944258",
+              "start": 3,
+              "username": "kawaiilu3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082442416540553676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082142739081343077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaiilu3u: 到底和谁聊才可以又发骚又犯贱又撒娇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016408687854944258",
+        "conversation_id": "2082142739081343077",
+        "created_at": "2026-07-28T16:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082142739081343077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082142739081343077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 100703,
+          "like_count": 975,
+          "quote_count": 23,
+          "reply_count": 210,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "到底和谁聊才可以又发骚又犯贱又撒娇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39203,
+          "following_count": 242,
+          "like_count": 3068,
+          "listed_count": 127,
+          "media_count": 449,
+          "tweet_count": 6266
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T07:11:18.000Z",
+        "description": "爱比项圈更系得紧",
+        "id": "2016408687854944258",
+        "name": "糟糕露馅了",
+        "pinned_tweet_id": "2081890271625982456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066567148827492352/DHoe8jD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "kawaiilu3u",
+        "verified": false
+      }
+    ]
+  }
+}

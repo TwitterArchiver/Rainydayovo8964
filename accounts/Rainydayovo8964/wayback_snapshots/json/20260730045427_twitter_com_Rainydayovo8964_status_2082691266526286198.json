@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082683382107160966",
+    "created_at": "2026-07-30T04:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082691266526286198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084526175727185920",
+          "start": 0,
+          "username": "yukominami520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082691266526286198",
+    "in_reply_to_user_id": "1084526175727185920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082683382107160966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukominami520 闺蜜我来支持了 我接（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2082683362259652608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcte8MaUAAiqzY.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2082683362331029504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcte8dbcAAMLOl.jpg",
+        "width": 1166
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2082683362289041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcte8TawAARX_X.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082683362272288770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcte8PbIAIXBia.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082683382107160966",
+        "created_at": "2026-07-30T04:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082691266526286198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1084526175727185920",
+              "start": 0,
+              "username": "yukominami520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082691266526286198",
+        "in_reply_to_user_id": "1084526175727185920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082683382107160966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukominami520 闺蜜我来支持了 我接（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082683362259652608",
+            "3_2082683362331029504",
+            "3_2082683362289041408",
+            "3_2082683362272288770"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2082683382107160966",
+        "created_at": "2026-07-30T04:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082683382107160966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNrjiSijAr",
+              "end": 163,
+              "expanded_url": "https://x.com/yukominami520/status/2082683382107160966/photo/1",
+              "media_key": "3_2082683362259652608",
+              "start": 140,
+              "url": "https://t.co/BNrjiSijAr"
+            },
+            {
+              "display_url": "pic.x.com/BNrjiSijAr",
+              "end": 163,
+              "expanded_url": "https://x.com/yukominami520/status/2082683382107160966/photo/1",
+              "media_key": "3_2082683362331029504",
+              "start": 140,
+              "url": "https://t.co/BNrjiSijAr"
+            },
+            {
+              "display_url": "pic.x.com/BNrjiSijAr",
+              "end": 163,
+              "expanded_url": "https://x.com/yukominami520/status/2082683382107160966/photo/1",
+              "media_key": "3_2082683362289041408",
+              "start": 140,
+              "url": "https://t.co/BNrjiSijAr"
+            },
+            {
+              "display_url": "pic.x.com/BNrjiSijAr",
+              "end": 163,
+              "expanded_url": "https://x.com/yukominami520/status/2082683382107160966/photo/1",
+              "media_key": "3_2082683362272288770",
+              "start": 140,
+              "url": "https://t.co/BNrjiSijAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082683382107160966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然就4000fo了！没想到天天说废话还能得到大家的喜欢🥹\n点赞+评论的宝宝抽三个人分别送p2 3 4的牛奶乌萨奇景品、恶魔乌萨奇景品、无畏契约圆滚滚玩偶（任选一个角色）\n🥰要是抽到的是互关还会有咪特别的小礼物✌︎ ॑꒳ ॑✌︎ \n要关注了我的才算哦！明天下午午休起床了开奖！！ https://t.co/BNrjiSijAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39207,
+          "following_count": 243,
+          "like_count": 3080,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6288
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2075772899760488940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4120,
+          "following_count": 511,
+          "like_count": 17643,
+          "listed_count": 4,
+          "media_count": 1457,
+          "tweet_count": 6599
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      }
+    ]
+  }
+}

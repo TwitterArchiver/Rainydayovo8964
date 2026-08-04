@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082443854385659934",
+    "created_at": "2026-07-29T12:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082443854385659934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044460763805560832",
+          "start": 3,
+          "username": "zz112xex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082443854385659934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082165241736315330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zz112xex: 好想占有你的时间，好想理直气壮的要求你只跟我玩，我想静静的说一些笨笨的话，想你认真的回应。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082443854385659934",
+        "created_at": "2026-07-29T12:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082443854385659934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044460763805560832",
+              "start": 3,
+              "username": "zz112xex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082443854385659934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082165241736315330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zz112xex: 好想占有你的时间，好想理直气壮的要求你只跟我玩，我想静静的说一些笨笨的话，想你认真的回应。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044460763805560832",
+        "conversation_id": "2082165241736315330",
+        "created_at": "2026-07-28T18:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082165241736315330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082165241736315330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4840,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "好想占有你的时间，好想理直气壮的要求你只跟我玩，我想静静的说一些笨笨的话，想你认真的回应。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39203,
+          "following_count": 242,
+          "like_count": 3070,
+          "listed_count": 127,
+          "media_count": 449,
+          "tweet_count": 6267
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T17:00:45.000Z",
+        "description": "404 not found 🌈LE 男勿扰 会鉴账号拉黑\n中性音 欢迎找我聊天/连麦\n碎碎念储存地 \n提问箱https://t.co/2OjPc6AoVh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zz112xex",
+                "end": 77,
+                "expanded_url": "https://ngl.link/zz112xex",
+                "start": 54,
+                "url": "https://t.co/2OjPc6AoVh"
+              }
+            ]
+          }
+        },
+        "id": "2044460763805560832",
+        "location": "火星291号",
+        "name": "小島",
+        "pinned_tweet_id": "2081658307224449456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044479545907335168/Mohn1xc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 115,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "zz112xex",
+        "verified": false
+      }
+    ]
+  }
+}

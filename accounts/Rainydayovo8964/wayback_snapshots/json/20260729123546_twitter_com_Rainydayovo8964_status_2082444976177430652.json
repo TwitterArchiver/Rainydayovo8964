@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082074604802355433",
+    "created_at": "2026-07-29T12:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082444976177430652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898342341242761216",
+          "start": 0,
+          "username": "pppotatopp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082444976177430652",
+    "in_reply_to_user_id": "1898342341242761216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082074604802355433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pppotatopp 我就是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082074604802355433",
+        "created_at": "2026-07-29T12:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082444976177430652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898342341242761216",
+              "start": 0,
+              "username": "pppotatopp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082444976177430652",
+        "in_reply_to_user_id": "1898342341242761216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082074604802355433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pppotatopp 我就是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898342341242761216",
+        "conversation_id": "2082074604802355433",
+        "created_at": "2026-07-28T12:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082074604802355433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082074604802355433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 339092,
+          "like_count": 1255,
+          "quote_count": 0,
+          "reply_count": 425,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "所以为什么高潮后会爽哭啊，，，\n我真的很好奇为什么啊为什么啊，高潮完后倒在旁边哭了半天缓不过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39203,
+          "following_count": 242,
+          "like_count": 3070,
+          "listed_count": 127,
+          "media_count": 449,
+          "tweet_count": 6268
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T11:57:50.000Z",
+        "description": "叫我pp 一颗potato^_−☆ \n有哥哥了 双人账号发发记录📝",
+        "id": "1898342341242761216",
+        "name": "pppotato🥔",
+        "pinned_tweet_id": "2065122001665347597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054146527589978112/OMrGjJwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 11,
+          "like_count": 179,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "pppotatopp",
+        "verified": false
+      }
+    ]
+  }
+}

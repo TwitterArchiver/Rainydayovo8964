@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082497230473474048"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082497249440141618",
+    "created_at": "2026-07-29T16:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082497249440141618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAXRzPFj9Y",
+          "end": 48,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2082497249440141618/photo/1",
+          "media_key": "3_2082497230473474048",
+          "start": 25,
+          "url": "https://t.co/iAXRzPFj9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082497249440141618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想和我建房子 但我不会 我可以可哪跑给你捡东西 https://t.co/iAXRzPFj9Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082497230473474048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaEMpQbMAAAq5k.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082497230473474048"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082497249440141618",
+        "created_at": "2026-07-29T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082497249440141618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAXRzPFj9Y",
+              "end": 48,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2082497249440141618/photo/1",
+              "media_key": "3_2082497230473474048",
+              "start": 25,
+              "url": "https://t.co/iAXRzPFj9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082497249440141618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想和我建房子 但我不会 我可以可哪跑给你捡东西 https://t.co/iAXRzPFj9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39203,
+          "following_count": 242,
+          "like_count": 3070,
+          "listed_count": 127,
+          "media_count": 450,
+          "tweet_count": 6270
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}
