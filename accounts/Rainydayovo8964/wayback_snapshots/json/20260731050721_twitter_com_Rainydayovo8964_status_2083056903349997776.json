@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2082681873097236788",
+    "created_at": "2026-07-31T05:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083056903349997776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063830222646947840",
+          "start": 0,
+          "username": "6TheGemini15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083056903349997776",
+    "in_reply_to_user_id": "2063830222646947840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082975804611571773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6TheGemini15 我已经不知道多少次萎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2082681873097236788",
+        "created_at": "2026-07-31T05:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083056903349997776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063830222646947840",
+              "start": 0,
+              "username": "6TheGemini15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083056903349997776",
+        "in_reply_to_user_id": "2063830222646947840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082975804611571773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6TheGemini15 我已经不知道多少次萎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063830222646947840",
+        "conversation_id": "2082681873097236788",
+        "created_at": "2026-07-30T23:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082975804611571773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082975804611571773",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082681873097236788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 严肃支持这条帖子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39173,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 127,
+          "media_count": 452,
+          "tweet_count": 6312
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T03:49:51.000Z",
+        "description": "没有门 不加任何任何其他sns！\n不约不卡不恋爱不线下 推止推\n私信摩多摩多 有礼貌我都会回复🥰",
+        "id": "2063830222646947840",
+        "location": "上海",
+        "name": "你不要再哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067917424452636672/6TvOAtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 109,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "6TheGemini15",
+        "verified": false
+      }
+    ]
+  }
+}

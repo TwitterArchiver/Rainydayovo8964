@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2086102614153056598",
+    "created_at": "2026-08-09T06:18:12.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086336223824802021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971941381280354305",
+          "start": 0,
+          "username": "Martini310003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086336223824802021",
+    "in_reply_to_user_id": "1971941381280354305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086102614153056598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini310003 我也要。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086102596641755137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNTQk3aEAEKLnZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2086102614153056598",
+        "created_at": "2026-08-09T06:18:12.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086336223824802021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971941381280354305",
+              "start": 0,
+              "username": "Martini310003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086336223824802021",
+        "in_reply_to_user_id": "1971941381280354305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086102614153056598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini310003 我也要。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086102596641755137"
+          ]
+        },
+        "author_id": "1971941381280354305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cocktails",
+              "id": "850399423867650048",
+              "name": "Cocktails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cocktails",
+              "id": "850399423867650048",
+              "name": "Cocktails"
+            }
+          }
+        ],
+        "conversation_id": "2086102614153056598",
+        "created_at": "2026-08-08T14:49:55.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086102614153056598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW4YBhL88p",
+              "end": 32,
+              "expanded_url": "https://x.com/Martini310003/status/2086102614153056598/photo/1",
+              "media_key": "3_2086102596641755137",
+              "start": 9,
+              "url": "https://t.co/VW4YBhL88p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086102614153056598",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086102596641755137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干Martini https://t.co/VW4YBhL88p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2086336223824802021",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39018,
+          "following_count": 235,
+          "like_count": 3111,
+          "listed_count": 132,
+          "media_count": 452,
+          "tweet_count": 6373
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T14:14:15.000Z",
+        "description": "05 数学 enfj  1i switch努力健身成为擦边男中... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信看到都会回 回关看成分\n别找我看🐮我不发。\n另一个我@Martini31003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Martini31003"
+              }
+            ]
+          }
+        },
+        "id": "1971941381280354305",
+        "is_identity_verified": false,
+        "location": "🚪52好友位/88/188互关可+v",
+        "most_recent_tweet_id": "2086336204317065396",
+        "name": "Martiniiiii",
+        "pinned_tweet_id": "2085034770116100387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971941381280354305/1759314832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051988248365514752/xmwFIcBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 343,
+          "like_count": 4623,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2265
+        },
+        "url": "",
+        "username": "Martini310003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

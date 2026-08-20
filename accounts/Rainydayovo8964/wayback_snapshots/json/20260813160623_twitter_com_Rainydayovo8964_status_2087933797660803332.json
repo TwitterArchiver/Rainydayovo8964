@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2087933797660803332",
+    "created_at": "2026-08-13T16:06:23.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087933797660803332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968013125678235649",
+          "start": 3,
+          "username": "molliovo450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087933797660803332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087450711789551803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molliovo450: 好奇怪啊 我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2087933797660803332",
+        "created_at": "2026-08-13T16:06:23.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087933797660803332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968013125678235649",
+              "start": 3,
+              "username": "molliovo450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087933797660803332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087450711789551803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @molliovo450: 好奇怪啊 我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968013125678235649",
+        "conversation_id": "2087450711789551803",
+        "created_at": "2026-08-12T08:06:47.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087450711789551803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087450711789551803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 175603,
+          "like_count": 3115,
+          "quote_count": 25,
+          "reply_count": 522,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪啊 我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2087933797660803332",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39118,
+          "following_count": 237,
+          "like_count": 3122,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6402
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T18:05:06.000Z",
+        "description": "",
+        "id": "1968013125678235649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087835789594075551",
+        "name": "娇美娘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968013125678235649/1758046435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968013397062193159/O6PraHNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 0,
+          "like_count": 197,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "molliovo450",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

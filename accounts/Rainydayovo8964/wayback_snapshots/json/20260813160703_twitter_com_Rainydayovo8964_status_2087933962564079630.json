@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2087933962564079630",
+    "created_at": "2026-08-13T16:07:03.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087933962564079630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a_toygun_piu/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/a_toygun_piu/status/2087581459687297361",
+          "start": 9,
+          "url": "https://t.co/Xi0qLSSEZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087933962564079630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087581459687297361",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直我本人心情啊 https://t.co/Xi0qLSSEZs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2087933962564079630",
+        "created_at": "2026-08-13T16:07:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087933962564079630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a_toygun_piu/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/a_toygun_piu/status/2087581459687297361",
+              "start": 9,
+              "url": "https://t.co/Xi0qLSSEZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087933962564079630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087581459687297361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直我本人心情啊 https://t.co/Xi0qLSSEZs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004245938534338566",
+        "conversation_id": "2087581459687297361",
+        "created_at": "2026-08-12T16:46:20.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087581459687297361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087581459687297361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 42793,
+          "like_count": 601,
+          "quote_count": 13,
+          "reply_count": 112,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃呀。感觉自己恋爱观特别矛盾啊。一方面希望对方能尊重自己关心爱护自己。一方面又希望对方能把自己当狗当成杯子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2087933962564079630",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39118,
+          "following_count": 237,
+          "like_count": 3123,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6403
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "明天太阳照常升起。",
+        "id": "2004245938534338566",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087633014503440638",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2050264006401941899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004245938534338566/1766768778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 62,
+          "like_count": 4873,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 2580
+        },
+        "url": "",
+        "username": "A_Toygun_Piu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

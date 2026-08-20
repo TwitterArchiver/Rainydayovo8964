@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2087932453923295503",
+    "created_at": "2026-08-13T16:01:03.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087932453923295503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433302258377101313",
+          "start": 3,
+          "username": "XBEl_mes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087932453923295503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087422629862887888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XBEl_mes: 你没有上过班吧？要不你怎么能说出沟通能解决问题这种话呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2087932453923295503",
+        "created_at": "2026-08-13T16:01:03.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087932453923295503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433302258377101313",
+              "start": 3,
+              "username": "XBEl_mes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087932453923295503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087422629862887888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XBEl_mes: 你没有上过班吧？要不你怎么能说出沟通能解决问题这种话呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433302258377101313",
+        "conversation_id": "2087422629862887888",
+        "created_at": "2026-08-12T06:15:12.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087422629862887888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087422629862887888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29339,
+          "like_count": 631,
+          "quote_count": 15,
+          "reply_count": 69,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "你没有上过班吧？要不你怎么能说出沟通能解决问题这种话呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2087932453923295503",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39117,
+          "following_count": 237,
+          "like_count": 3121,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6401
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-02T05:34:30.000Z",
+        "description": "仇恨是隱翅蟲\n提問箱https://t.co/bryw0MUmB3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zainuoweiheyud…",
+                "end": 33,
+                "expanded_url": "https://ngl.link/zainuoweiheyudajia",
+                "start": 10,
+                "url": "https://t.co/bryw0MUmB3"
+              }
+            ]
+          }
+        },
+        "id": "1433302258377101313",
+        "is_identity_verified": false,
+        "location": "Hakodate-shi, Hokkaidō",
+        "most_recent_tweet_id": "2087816554486624286",
+        "name": "檸檬白蘭地",
+        "pinned_tweet_id": "1699071898892878309",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433302258377101313/1727684851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731306791215251456/4RdsYrWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 455,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "XBEl_mes",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

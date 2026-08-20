@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2088415373372867024",
+    "created_at": "2026-08-15T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088415373372867024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088415373372867024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得不说 现在各大网络平台的游戏风气都一个样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2088415373372867024",
+        "created_at": "2026-08-15T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088415373372867024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088415373372867024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说 现在各大网络平台的游戏风气都一个样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "当你打开我的主页的那一刻 你就已经彻底的打开了我的主页 我的主页像主页一样浅浅的加载到你眼中 你试图点击我的头像 所以你打开了我的主页 可是你打开了我的主页 我的主页是公开的 你可以打开",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2088415373372867024",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39109,
+          "following_count": 239,
+          "like_count": 3125,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6411
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

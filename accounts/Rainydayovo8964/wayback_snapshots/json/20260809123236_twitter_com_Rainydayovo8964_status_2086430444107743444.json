@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2086429001136939150",
+    "created_at": "2026-08-09T12:32:36.000Z",
+    "display_text_range": [
+      15,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086430444107743444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971941381280354305",
+          "start": 0,
+          "username": "Martini310003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086430444107743444",
+    "in_reply_to_user_id": "1971941381280354305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086429001136939150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martini310003 行我要喝柠檬水 不买就是讨厌我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2086429001136939150",
+        "created_at": "2026-08-09T12:32:36.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086430444107743444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971941381280354305",
+              "start": 0,
+              "username": "Martini310003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086430444107743444",
+        "in_reply_to_user_id": "1971941381280354305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086429001136939150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martini310003 行我要喝柠檬水 不买就是讨厌我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971941381280354305",
+        "conversation_id": "2086429001136939150",
+        "created_at": "2026-08-09T12:26:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086429001136939150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086429001136939150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我挺喜欢给喜欢的人花钱的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2086430444107743444",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39028,
+          "following_count": 235,
+          "like_count": 3114,
+          "listed_count": 132,
+          "media_count": 452,
+          "tweet_count": 6382
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T14:14:15.000Z",
+        "description": "05 数学 enfj  1i switch努力健身成为擦边男中... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信看到都会回 回关看成分\n别找我看🐮我不发。\n另一个我@Martini31003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Martini31003"
+              }
+            ]
+          }
+        },
+        "id": "1971941381280354305",
+        "is_identity_verified": false,
+        "location": "🚪52好友位/88/188互关可+v",
+        "most_recent_tweet_id": "2086429001136939150",
+        "name": "Martiniiiii",
+        "pinned_tweet_id": "2085034770116100387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971941381280354305/1759314832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051988248365514752/xmwFIcBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 325,
+          "like_count": 4668,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2292
+        },
+        "url": "",
+        "username": "Martini310003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

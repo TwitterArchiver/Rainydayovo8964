@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2084506753174315402",
+    "created_at": "2026-08-05T03:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084841048447348947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999681062537252864",
+          "start": 0,
+          "username": "chenshu62296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084841048447348947",
+    "in_reply_to_user_id": "1999681062537252864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084562491640852845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenshu62296 可以享福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2084506753174315402",
+        "created_at": "2026-08-05T03:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084841048447348947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999681062537252864",
+              "start": 0,
+              "username": "chenshu62296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084841048447348947",
+        "in_reply_to_user_id": "1999681062537252864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084562491640852845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenshu62296 可以享福了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999681062537252864",
+        "conversation_id": "2084506753174315402",
+        "created_at": "2026-08-04T08:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084562491640852845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084562491640852845",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084506753174315402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 焦虑症喝完咖啡可以享福去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39113,
+          "following_count": 240,
+          "like_count": 3109,
+          "listed_count": 131,
+          "media_count": 452,
+          "tweet_count": 6360
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T03:22:19.000Z",
+        "description": "妈逼的 我一直在等你",
+        "id": "1999681062537252864",
+        "name": "我一直在等你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081670458680967168/rSwcrUW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "chenshu62296",
+        "verified": false
+      }
+    ]
+  }
+}

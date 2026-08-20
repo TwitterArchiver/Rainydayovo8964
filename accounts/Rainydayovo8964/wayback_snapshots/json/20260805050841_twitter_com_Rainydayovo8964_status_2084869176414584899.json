@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2084869176414584899",
+    "created_at": "2026-08-05T05:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084869176414584899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084869176414584899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么活得如此痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2084869176414584899",
+        "created_at": "2026-08-05T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084869176414584899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084869176414584899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么活得如此痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39112,
+          "following_count": 240,
+          "like_count": 3109,
+          "listed_count": 131,
+          "media_count": 452,
+          "tweet_count": 6364
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

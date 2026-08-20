@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2088445865560256873",
+    "created_at": "2026-08-15T02:14:17.000Z",
+    "display_text_range": [
+      13,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088449167303815377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088449167303815377",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088445865560256873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 如果有一个人愿意每天嗯嗯哦哦的听我讲一大堆烂话然后一条一条仔细回复我的话我当场就嫁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2088445865560256873",
+        "created_at": "2026-08-15T02:14:17.000Z",
+        "display_text_range": [
+          13,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088449167303815377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088449167303815377",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088445865560256873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 如果有一个人愿意每天嗯嗯哦哦的听我讲一大堆烂话然后一条一条仔细回复我的话我当场就嫁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2088445865560256873",
+        "created_at": "2026-08-15T02:01:10.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088445865560256873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088445865560256873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一个人愿意每天嗯嗯哦哦的听我讲一大堆烂话然后一条一条仔细回复我的话我当场就嫁了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "当你打开我的主页的那一刻 你就已经彻底的打开了我的主页 我的主页像主页一样浅浅的加载到你眼中 你试图点击我的头像 所以你打开了我的主页 可是你打开了我的主页 我的主页是公开的 你可以打开",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2088449167303815377",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39112,
+          "following_count": 239,
+          "like_count": 3126,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6417
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "依赖一个人像是止咳水",
+        "id": "1862557266890956800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088445865560256873",
+        "name": "止咳水",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862557266890956800/1763103526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077744170450726912/iCUPM3Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9720,
+          "following_count": 401,
+          "like_count": 55117,
+          "listed_count": 9,
+          "media_count": 216,
+          "tweet_count": 6766
+        },
+        "url": "",
+        "username": "bei_haishui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

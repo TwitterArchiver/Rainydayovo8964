@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2087250689403789510",
+    "created_at": "2026-08-12T13:08:49.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087526722661126366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087526722661126366",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087250689403789510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 换一个吧 姐姐求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2087250678855135232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdnbwZacAA2feU.jpg",
+        "width": 856
+      },
+      {
+        "height": 1345,
+        "media_key": "3_2087250678851026944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdnbwYbwAAWNQ4.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2087250689403789510",
+        "created_at": "2026-08-12T13:08:49.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087526722661126366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087526722661126366",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087250689403789510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 换一个吧 姐姐求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087250678855135232",
+            "3_2087250678851026944"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "2087250689403789510",
+        "created_at": "2026-08-11T18:51:58.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087250689403789510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bb2d7a96lw",
+              "end": 132,
+              "expanded_url": "https://x.com/bei_haishui/status/2087250689403789510/photo/1",
+              "media_key": "3_2087250678855135232",
+              "start": 109,
+              "url": "https://t.co/Bb2d7a96lw"
+            },
+            {
+              "display_url": "pic.x.com/Bb2d7a96lw",
+              "end": 132,
+              "expanded_url": "https://x.com/bei_haishui/status/2087250689403789510/photo/1",
+              "media_key": "3_2087250678851026944",
+              "start": 109,
+              "url": "https://t.co/Bb2d7a96lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087250689403789510",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087250678855135232"
+          },
+          {
+            "media_key": "3_2087250678851026944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8595,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我最近在和心选姐聊天 心选姐和我换了情头但是我们基本上不怎么聊天而且经常一天下来都发不了几条消息我发消息也不回我好崩溃 我是高需求但是我跟她发消息她从来都不会在意我的分享也不会回我我好崩溃但是我又舍不得断掉这咋办 https://t.co/Bb2d7a96lw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2087526722661126366",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38980,
+          "following_count": 235,
+          "like_count": 3117,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6393
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "1862557266890956800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087494440176984262",
+        "name": "错水刃",
+        "pinned_tweet_id": "2078406862995951707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862557266890956800/1763103526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077744170450726912/iCUPM3Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9726,
+          "following_count": 390,
+          "like_count": 54601,
+          "listed_count": 9,
+          "media_count": 215,
+          "tweet_count": 6725
+        },
+        "url": "",
+        "username": "bei_haishui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

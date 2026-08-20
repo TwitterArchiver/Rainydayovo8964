@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2084233740096811109",
+    "created_at": "2026-08-04T13:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084626720666288560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063765755364339712",
+          "start": 0,
+          "username": "Sherrysh2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084626720666288560",
+    "in_reply_to_user_id": "2063765755364339712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084247296141934614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sherrysh2d 你也来砍一刀吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2084233740096811109",
+        "created_at": "2026-08-04T13:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084626720666288560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063765755364339712",
+              "start": 0,
+              "username": "Sherrysh2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084626720666288560",
+        "in_reply_to_user_id": "2063765755364339712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084247296141934614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sherrysh2d 你也来砍一刀吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063765755364339712",
+        "conversation_id": "2084233740096811109",
+        "created_at": "2026-08-03T11:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084247296141934614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084247296141934614",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084233740096811109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 看我砍不死这些大傻逼的😃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "梦中的恋人 是你本该有缘却无份得见的人",
+        "id": "1853286001197879296",
+        "location": "不线下 不接广   ",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39112,
+          "following_count": 238,
+          "like_count": 3111,
+          "listed_count": 131,
+          "media_count": 452,
+          "tweet_count": 6359
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T23:36:10.000Z",
+        "description": "另一个我@SherryJxpbp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "SherryJxpbp"
+              }
+            ]
+          }
+        },
+        "id": "2063765755364339712",
+        "location": "你心里。",
+        "name": "✝️三文鱼重度依赖✝️",
+        "pinned_tweet_id": "2083567027416142335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063768038248480768/CVgsc4o9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 132,
+          "like_count": 372,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "Sherrysh2d",
+        "verified": false
+      }
+    ]
+  }
+}
