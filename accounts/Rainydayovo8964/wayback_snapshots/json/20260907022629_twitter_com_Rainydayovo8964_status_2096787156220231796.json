@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2096787156220231796",
+    "created_at": "2026-09-07T02:26:29.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096787156220231796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1280641465719361536",
+          "start": 3,
+          "username": "HadeanTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096787156220231796",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 984
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096606479771992256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HadeanTide: I like chinese twitter lesbians because they actually tweet about liking pussy and aren’t only obsessed with strap"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2096787156220231796",
+        "created_at": "2026-09-07T02:26:29.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096787156220231796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1280641465719361536",
+              "start": 3,
+              "username": "HadeanTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096787156220231796",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096606479771992256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HadeanTide: I like chinese twitter lesbians because they actually tweet about liking pussy and aren’t only obsessed with strap"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280641465719361536",
+        "conversation_id": "2096606479771992256",
+        "created_at": "2026-09-06T14:28:32.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096606479771992256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096606479771992256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 190644,
+          "like_count": 17000,
+          "quote_count": 142,
+          "reply_count": 48,
+          "retweet_count": 984
+        },
+        "reply_settings": "everyone",
+        "text": "I like chinese twitter lesbians because they actually tweet about liking pussy and aren’t only obsessed with strap"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "别烦",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2096787156220231796",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39117,
+          "following_count": 234,
+          "like_count": 3139,
+          "listed_count": 135,
+          "media_count": 456,
+          "tweet_count": 6479
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-07T23:17:23.000Z",
+        "description": "im like osamu dazai if he were female and a masc lesbian. rf leaning",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hadeantide.straw.page",
+                "end": 23,
+                "expanded_url": "https://hadeantide.straw.page",
+                "start": 0,
+                "url": "https://t.co/ocCLrWOX98"
+              }
+            ]
+          }
+        },
+        "id": "1280641465719361536",
+        "is_identity_verified": false,
+        "location": "🇳🇬 (igbo) in 🇺🇸 • 28",
+        "most_recent_tweet_id": "2096785642487206009",
+        "name": "Morgan",
+        "pinned_tweet_id": "2068712957094101480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280641465719361536/1780272809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061239260934512642/nGatKwEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 305,
+          "like_count": 80448,
+          "listed_count": 3,
+          "media_count": 7375,
+          "tweet_count": 137286
+        },
+        "url": "https://t.co/ocCLrWOX98",
+        "username": "HadeanTide",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

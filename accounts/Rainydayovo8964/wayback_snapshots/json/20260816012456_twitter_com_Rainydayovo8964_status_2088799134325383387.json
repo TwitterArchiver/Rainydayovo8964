@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2088567393920663608",
+    "created_at": "2026-08-16T01:24:56.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088799134325383387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1744446145219481601",
+          "start": 0,
+          "username": "ForeverWuDust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088799134325383387",
+    "in_reply_to_user_id": "1744446145219481601",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088589291253633132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForeverWuDust (&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2088567393920663608",
+        "created_at": "2026-08-16T01:24:56.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088799134325383387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1744446145219481601",
+              "start": 0,
+              "username": "ForeverWuDust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088799134325383387",
+        "in_reply_to_user_id": "1744446145219481601",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088589291253633132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForeverWuDust (&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744446145219481601",
+        "conversation_id": "2088567393920663608",
+        "created_at": "2026-08-15T11:31:05.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088589291253633132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088589291253633132",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088567393920663608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 ᐡɞ̴̶̷⌁⚇⌁ɞ̴̶̷ᐡ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "当你打开我的主页的那一刻 你就已经彻底的打开了我的主页 我的主页像主页一样浅浅的加载到你眼中 你试图点击我的头像 所以你打开了我的主页 可是你打开了我的主页 我的主页是公开的 你可以打开",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2088799134325383387",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 240,
+          "like_count": 3127,
+          "listed_count": 131,
+          "media_count": 453,
+          "tweet_count": 6422
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-08T19:50:09.000Z",
+        "description": "喜欢扩列潜水视奸 欢迎无锡的老师扩列≽^⚈⩊⚈^≼",
+        "id": "1744446145219481601",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088754014892736727",
+        "name": "DustWu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014734654683914240/aMd6h8G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "ForeverWuDust",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
