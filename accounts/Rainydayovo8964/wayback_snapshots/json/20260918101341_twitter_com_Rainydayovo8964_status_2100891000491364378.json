@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2100832316998500688",
+    "created_at": "2026-09-18T10:13:41.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100891000491364378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100891000491364378",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100832316998500688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky 我眼泪下来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2100832316998500688",
+        "created_at": "2026-09-18T10:13:41.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100891000491364378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100891000491364378",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100832316998500688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我眼泪下来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2100832316998500688",
+        "created_at": "2026-09-18T06:20:30.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100832316998500688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100832316998500688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4075,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你幼时是什么模样，有因为赌气不吃饭吗，会因为怕黑开一盏小夜灯吗，墙上贴了你多少张奖状，你的日记本里藏给了谁眼泪、如果许诺永远就会有悲剧发生，那你跟我讲讲不会改变的曾经吧！关于你的一切，我都想知道～就从你第一次不小心把衣服穿反的那个早晨开始好吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2100891000491364378",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39158,
+          "following_count": 230,
+          "like_count": 3181,
+          "listed_count": 134,
+          "media_count": 460,
+          "tweet_count": 6550
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2100832316998500688",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13882,
+          "following_count": 84,
+          "like_count": 9437,
+          "listed_count": 16,
+          "media_count": 205,
+          "tweet_count": 2342
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

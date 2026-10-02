@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103528894943162796",
+    "created_at": "2026-09-25T16:55:44.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103528894943162796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2091979628701495296",
+          "start": 3,
+          "username": "Kindfr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103528894943162796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103361166861078960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kindfr1: 有对象还出轨嫖娼约炮的你们全死妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103528894943162796",
+        "created_at": "2026-09-25T16:55:44.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103528894943162796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2091979628701495296",
+              "start": 3,
+              "username": "Kindfr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103528894943162796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103361166861078960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kindfr1: 有对象还出轨嫖娼约炮的你们全死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091979628701495296",
+        "conversation_id": "2103361166861078960",
+        "created_at": "2026-09-25T05:49:15.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103361166861078960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103361166861078960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 198716,
+          "like_count": 2306,
+          "quote_count": 2,
+          "reply_count": 266,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "有对象还出轨嫖娼约炮的你们全死妈了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103528894943162796",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40206,
+          "following_count": 230,
+          "like_count": 3195,
+          "listed_count": 140,
+          "media_count": 474,
+          "tweet_count": 6605
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T20:03:59.000Z",
+        "description": "可以喊我雨雨 私信看到了都会回 不定时看x 喜欢主动热情的人₍^˶ ╸𖥦 ╸˵^₎⟆♡\n06 直男 Valorant初心者 欢迎大家找我聊天打游戏喵 可以直接私信窝哦\n防丢号 @Yuyuyuelj1\n匿名提问 https://t.co/TeIjtXs6gv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Yuyuyuelj1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyu26146",
+                "end": 128,
+                "expanded_url": "https://ngl.link/yuyu26146",
+                "start": 105,
+                "url": "https://t.co/TeIjtXs6gv"
+              }
+            ]
+          }
+        },
+        "id": "2091979628701495296",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2103505309524451603",
+        "name": "Yuyu",
+        "pinned_tweet_id": "2092513724032806985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091979628701495296/1787602281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091979944402591744/EIACdNg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 11,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "Kindfr1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

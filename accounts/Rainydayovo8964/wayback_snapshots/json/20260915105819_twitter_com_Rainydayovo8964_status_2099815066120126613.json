@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2099689140153688227",
+    "created_at": "2026-09-15T10:58:19.000Z",
+    "display_text_range": [
+      23,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099815066120126613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1670867252722139144",
+          "start": 0,
+          "username": "Pharaoh_Green"
+        },
+        {
+          "end": 22,
+          "id": "826444743328591873",
+          "start": 15,
+          "username": "CZ3199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099815066120126613",
+    "in_reply_to_user_id": "1670867252722139144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099777705269211461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pharaoh_Green @CZ3199 谢谢你😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2099689140153688227",
+        "created_at": "2026-09-15T10:58:19.000Z",
+        "display_text_range": [
+          23,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099815066120126613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1670867252722139144",
+              "start": 0,
+              "username": "Pharaoh_Green"
+            },
+            {
+              "end": 22,
+              "id": "826444743328591873",
+              "start": 15,
+              "username": "CZ3199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099815066120126613",
+        "in_reply_to_user_id": "1670867252722139144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099777705269211461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pharaoh_Green @CZ3199 谢谢你😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670867252722139144",
+        "conversation_id": "2099689140153688227",
+        "created_at": "2026-09-15T08:29:51.000Z",
+        "display_text_range": [
+          25,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099777705269211461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            },
+            {
+              "end": 24,
+              "id": "826444743328591873",
+              "start": 17,
+              "username": "CZ3199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099777705269211461",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099729837208567991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 @CZ3199 ？什么错误的想法，性欲是正常的姐妹，你想和任何人做爱都正常，发比照胸照裸照色情照都正常（不过最好不露脸）这种照片确实会拉近人的距离但不会拉近感情，关系的进一步靠的是共同经历，不要因此有包袱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2099815066120126613",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39109,
+          "following_count": 231,
+          "like_count": 3162,
+          "listed_count": 135,
+          "media_count": 460,
+          "tweet_count": 6537
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-19T18:53:10.000Z",
+        "description": "🦄🇬🇧🇨🇦🏳️‍🌈一个有政治理想的先锋艺术家、演讲家、左派、反共，非二元性别泛性恋、后现代无政府主义。天才在左疯子在右。\n这里没有女权只有人权。面对不公反抗的意义是让既得利益者意识到剥削你的代价。弱国无外交，我只为符合我利益的群体发声。如果能变得富有梦想是救济孤儿院。我会为我的目标奋斗，直到死亡让我停止。",
+        "id": "1670867252722139144",
+        "is_identity_verified": false,
+        "location": "祖安",
+        "most_recent_tweet_id": "2099777705269211461",
+        "name": "Pharaoh🏳️‍🌈",
+        "pinned_tweet_id": "2052527005804167331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670867252722139144/1775823690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042585024617218048/vyy9gzgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 127,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2591
+        },
+        "url": "",
+        "username": "Pharaoh_Green",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-31T14:59:16.000Z",
+        "description": "",
+        "id": "826444743328591873",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099708853247955349",
+        "name": "GeneralAkatsuki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826444743328591873/1658267996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549513391336837121/Mc-Zm6rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1140,
+          "like_count": 2179,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "CZ3199",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

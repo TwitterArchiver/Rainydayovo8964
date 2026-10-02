@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2100889289752240451",
+    "created_at": "2026-09-18T10:06:53.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100889289752240451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xzdrbrugcrjnzr…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xzdrbrugcrjnzrd/status/2100622548287508660",
+          "start": 5,
+          "url": "https://t.co/8IsRCDXw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100889289752240451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100622548287508660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全本人 https://t.co/8IsRCDXw77"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2100889289752240451",
+        "created_at": "2026-09-18T10:06:53.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100889289752240451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xzdrbrugcrjnzr…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xzdrbrugcrjnzrd/status/2100622548287508660",
+              "start": 5,
+              "url": "https://t.co/8IsRCDXw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100889289752240451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100622548287508660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全本人 https://t.co/8IsRCDXw77"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609183710330630145",
+        "conversation_id": "2100622548287508660",
+        "created_at": "2026-09-17T16:26:57.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100622548287508660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100622548287508660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13916,
+          "like_count": 713,
+          "quote_count": 3,
+          "reply_count": 78,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "不要说我情感漠视了 我的情感几乎全被漠视了 我漠视所有人不是很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2100889289752240451",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39158,
+          "following_count": 230,
+          "like_count": 3173,
+          "listed_count": 134,
+          "media_count": 460,
+          "tweet_count": 6549
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2100881862440931712",
+        "name": ".942",
+        "pinned_tweet_id": "2100167231774883905",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 839,
+          "like_count": 21598,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 9330
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

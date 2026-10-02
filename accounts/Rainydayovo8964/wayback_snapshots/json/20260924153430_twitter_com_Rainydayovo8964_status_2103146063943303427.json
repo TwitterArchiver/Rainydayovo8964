@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103112196951888211",
+    "created_at": "2026-09-24T15:34:30.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103146063943303427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902401708799750148",
+          "start": 0,
+          "username": "VulpesM_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103146063943303427",
+    "in_reply_to_user_id": "1902401708799750148",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103112196951888211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VulpesM_ （"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 357076,
+        "height": 1920,
+        "media_key": "13_2103111747385339904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103111747385339904/img/6BovyJ2ZOHnXjttg.jpg",
+        "public_metrics": {
+          "view_count": 6629
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103111747385339904/vid/avc1/320x568/ZWRMac5Km_l_aqDO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103111747385339904/vid/avc1/1080x1920/9wGLdTGiQpSLIcvR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103111747385339904/vid/avc1/720x1280/TsvY8d-itNQSSyxs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103111747385339904/pl/Uiq8TzyCh4mV3O8D.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103111747385339904/vid/avc1/480x852/-SVxrmTbyKomeiRd.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103112196951888211",
+        "created_at": "2026-09-24T15:34:30.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103146063943303427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902401708799750148",
+              "start": 0,
+              "username": "VulpesM_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103146063943303427",
+        "in_reply_to_user_id": "1902401708799750148",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103112196951888211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VulpesM_ （"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103111747385339904"
+          ]
+        },
+        "author_id": "1902401708799750148",
+        "conversation_id": "2103112196951888211",
+        "created_at": "2026-09-24T13:19:56.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103112196951888211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "胡桃"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "cos"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "男娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "自慰"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXl0Gd4cH9",
+              "end": 66,
+              "expanded_url": "https://x.com/VulpesM_/status/2103112196951888211/video/1",
+              "media_key": "13_2103111747385339904",
+              "start": 43,
+              "url": "https://t.co/WXl0Gd4cH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103112196951888211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103111747385339904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 16571,
+          "like_count": 743,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "老师，今天jb痒，请假一天 回家撸\n#胡桃 #cos #男娘 #自慰 #femboy https://t.co/WXl0Gd4cH9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103146063943303427",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39197,
+          "following_count": 230,
+          "like_count": 3184,
+          "listed_count": 138,
+          "media_count": 465,
+          "tweet_count": 6579
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T16:48:16.000Z",
+        "description": "等我发完逆天文案就提桶跑路……\n影分身@ximianSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "ximianSama"
+              }
+            ]
+          }
+        },
+        "id": "1902401708799750148",
+        "is_identity_verified": false,
+        "location": "🚪108/520",
+        "most_recent_tweet_id": "2103113233133654312",
+        "name": "下辈子给我一个短圆脸",
+        "pinned_tweet_id": "2103031487088275783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902401708799750148/1778002564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077663672353312768/Na8-Dkxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79341,
+          "following_count": 317,
+          "like_count": 1372,
+          "listed_count": 308,
+          "media_count": 61,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "VulpesM_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

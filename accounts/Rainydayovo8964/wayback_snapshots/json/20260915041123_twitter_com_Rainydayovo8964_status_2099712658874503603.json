@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2099692947331780733",
+    "created_at": "2026-09-15T04:11:23.000Z",
+    "display_text_range": [
+      12,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099712658874503603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1088130049805508608",
+          "start": 0,
+          "username": "inchurchwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099712658874503603",
+    "in_reply_to_user_id": "1088130049805508608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099707601567224295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inchurchwe 把这个老辈子忘记了 对不起我那时候真的是打不到sss我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2099692947331780733",
+        "created_at": "2026-09-15T04:11:23.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099712658874503603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1088130049805508608",
+              "start": 0,
+              "username": "inchurchwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099712658874503603",
+        "in_reply_to_user_id": "1088130049805508608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099707601567224295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inchurchwe 把这个老辈子忘记了 对不起我那时候真的是打不到sss我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1088130049805508608",
+        "conversation_id": "2099692947331780733",
+        "created_at": "2026-09-15T03:51:17.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099707601567224295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099707601567224295",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099692947331780733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 怎么没有节奏大师💅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2099712658874503603",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39077,
+          "following_count": 232,
+          "like_count": 3159,
+          "listed_count": 135,
+          "media_count": 460,
+          "tweet_count": 6523
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-23T17:43:15.000Z",
+        "description": "",
+        "id": "1088130049805508608",
+        "is_identity_verified": false,
+        "location": "Leicester, England",
+        "most_recent_tweet_id": "2099707601567224295",
+        "name": "ReI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088130049805508608/1637424779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090686316317171712/0n7Zdts2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 34,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "inchurchwe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

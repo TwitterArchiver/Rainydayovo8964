@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101312209930579968"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2101312231166357900",
+    "created_at": "2026-09-19T14:07:31.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101312231166357900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PA1NGfViWE",
+          "end": 44,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2101312231166357900/photo/1",
+          "media_key": "3_2101312209930579968",
+          "start": 21,
+          "url": "https://t.co/PA1NGfViWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101312231166357900",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101312209930579968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们农村人都是用最纯朴最朴素的方式揉逼的 https://t.co/PA1NGfViWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2101312209930579968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlcUlsacAAFonS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101312209930579968"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2101312231166357900",
+        "created_at": "2026-09-19T14:07:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101312231166357900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PA1NGfViWE",
+              "end": 44,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2101312231166357900/photo/1",
+              "media_key": "3_2101312209930579968",
+              "start": 21,
+              "url": "https://t.co/PA1NGfViWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101312231166357900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101312209930579968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们农村人都是用最纯朴最朴素的方式揉逼的 https://t.co/PA1NGfViWE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2101312231166357900",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39174,
+          "following_count": 229,
+          "like_count": 3186,
+          "listed_count": 134,
+          "media_count": 463,
+          "tweet_count": 6560
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

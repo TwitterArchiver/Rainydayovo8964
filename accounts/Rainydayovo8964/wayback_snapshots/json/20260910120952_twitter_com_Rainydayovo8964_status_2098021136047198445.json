@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2097195826057789804",
+    "created_at": "2026-09-10T12:09:52.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098021136047198445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1339929641532813314",
+          "start": 0,
+          "username": "Nocaretheworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098021136047198445",
+    "in_reply_to_user_id": "1339929641532813314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097195826057789804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nocaretheworld 这就是我本人忙的要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2097195826057789804",
+        "created_at": "2026-09-10T12:09:52.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098021136047198445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1339929641532813314",
+              "start": 0,
+              "username": "Nocaretheworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098021136047198445",
+        "in_reply_to_user_id": "1339929641532813314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097195826057789804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nocaretheworld 这就是我本人忙的要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339929641532813314",
+        "conversation_id": "2097195826057789804",
+        "created_at": "2026-09-08T05:30:23.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097195826057789804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097195826057789804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天把明后天的工作都完成了，全心全意备战明天阴阳师周年庆，后天洛克王国s4赛季🤩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "别烦",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2098021136047198445",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39081,
+          "following_count": 234,
+          "like_count": 3138,
+          "listed_count": 135,
+          "media_count": 457,
+          "tweet_count": 6486
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-18T13:45:10.000Z",
+        "description": "",
+        "id": "1339929641532813314",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097892278711009769",
+        "name": "-",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339929641532813314/1781087469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064655876259266560/70tqp_Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 78,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "Nocaretheworld",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

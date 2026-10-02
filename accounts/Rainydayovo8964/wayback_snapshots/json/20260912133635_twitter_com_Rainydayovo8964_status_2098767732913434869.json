@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2098767732913434869",
+    "created_at": "2026-09-12T13:36:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098767732913434869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1187797478470541312",
+          "start": 3,
+          "username": "piinkimi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098767732913434869",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098510698162561136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piinkimi_: please be gentle with yourself this week. you deserve to rest and look after yourself regardless of how much you get done. p…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2098767732913434869",
+        "created_at": "2026-09-12T13:36:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098767732913434869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1187797478470541312",
+              "start": 3,
+              "username": "piinkimi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098767732913434869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098510698162561136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piinkimi_: please be gentle with yourself this week. you deserve to rest and look after yourself regardless of how much you get done. p…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187797478470541312",
+        "conversation_id": "2098510698162561136",
+        "created_at": "2026-09-11T20:35:13.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098510698162561136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098510698162561136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1809,
+          "impression_count": 213556,
+          "like_count": 15200,
+          "quote_count": 224,
+          "reply_count": 60,
+          "retweet_count": 4146
+        },
+        "reply_settings": "everyone",
+        "text": "please be gentle with yourself this week. you deserve to rest and look after yourself regardless of how much you get done. please try not to be so harsh on yourself about anything you couldn't do last week. you're doing you're best and I'm proud of you."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2098767732913434869",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39062,
+          "following_count": 235,
+          "like_count": 3145,
+          "listed_count": 135,
+          "media_count": 459,
+          "tweet_count": 6503
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-25T18:26:22.000Z",
+        "description": "everything pink & girly ৎ୭˚˖٠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkimi.carrd.co",
+                "end": 23,
+                "expanded_url": "https://pinkimi.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VtSzqXoq3K"
+              }
+            ]
+          }
+        },
+        "id": "1187797478470541312",
+        "is_identity_verified": false,
+        "location": "any inquiries here ❥",
+        "most_recent_tweet_id": "2098741695529582886",
+        "name": "˖ ꜝ❤︎ kimi 𑣲 ⏦ﾟ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187797478470541312/1774297658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091583401576808448/gIxFohG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310083,
+          "following_count": 461,
+          "like_count": 16723,
+          "listed_count": 1420,
+          "media_count": 9512,
+          "tweet_count": 22285
+        },
+        "url": "https://t.co/VtSzqXoq3K",
+        "username": "piinkimi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

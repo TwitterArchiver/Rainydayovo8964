@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2101298793513947646",
+    "created_at": "2026-09-19T14:15:45.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101314303647416349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692108848457547776",
+          "start": 0,
+          "username": "JinZai92984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101314303647416349",
+    "in_reply_to_user_id": "1692108848457547776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101302524397666433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinZai92984 一会！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2101298793513947646",
+        "created_at": "2026-09-19T14:15:45.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101314303647416349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692108848457547776",
+              "start": 0,
+              "username": "JinZai92984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101314303647416349",
+        "in_reply_to_user_id": "1692108848457547776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101302524397666433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinZai92984 一会！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692108848457547776",
+        "conversation_id": "2101298793513947646",
+        "created_at": "2026-09-19T13:28:56.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101302524397666433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101302524397666433",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101298793513947646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 111老大要超鬼王了加个好友"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2101314303647416349",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39174,
+          "following_count": 229,
+          "like_count": 3186,
+          "listed_count": 134,
+          "media_count": 463,
+          "tweet_count": 6563
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T09:39:31.000Z",
+        "description": "帅哥",
+        "id": "1692108848457547776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101302524397666433",
+        "name": "再靠近一点",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692108848457547776/1692265461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101046118109134848/pBHe2Odu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "JinZai92984",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

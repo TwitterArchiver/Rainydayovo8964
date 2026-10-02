@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103295491954098409",
+    "created_at": "2026-09-25T01:28:17.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T02:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103295491954098409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dubiancheovo/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/dubiancheovo/status/2102596350466781504",
+          "start": 23,
+          "url": "https://t.co/IDi3kUKWF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103295491954098409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102596350466781504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐狸好萌 小蛇好可爱 狼好忠诚 秃鹫也好好玩 https://t.co/IDi3kUKWF7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103295491954098409",
+        "created_at": "2026-09-25T01:28:17.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103295491954098409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dubiancheovo/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/dubiancheovo/status/2102596350466781504",
+              "start": 23,
+              "url": "https://t.co/IDi3kUKWF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103295491954098409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102596350466781504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐狸好萌 小蛇好可爱 狼好忠诚 秃鹫也好好玩 https://t.co/IDi3kUKWF7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938921175918485504",
+        "conversation_id": "2102596350466781504",
+        "created_at": "2026-09-23T03:10:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102596350466781504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102596350466781504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 175004,
+          "like_count": 8419,
+          "quote_count": 25,
+          "reply_count": 131,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "我希望人类可以停止向儿童灌输蛇很邪恶，狐狸很狡猾，狼很凶狠，秃鹫又丑又坏等等类似的污名化动物的概念。动物们只是在生存，他们知道什么￼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103295491954098409",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39533,
+          "following_count": 231,
+          "like_count": 3186,
+          "listed_count": 141,
+          "media_count": 470,
+          "tweet_count": 6589
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T11:23:38.000Z",
+        "description": "05艺术生 crypto  现象分析 深度思考 润学",
+        "id": "1938921175918485504",
+        "is_identity_verified": false,
+        "location": "Norway",
+        "most_recent_tweet_id": "2103278499817807904",
+        "name": "我需要一张绿卡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938921175918485504/1776778645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938921272978624512/kd5q0-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 616,
+          "like_count": 1679,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "DUBIANCHEOVO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

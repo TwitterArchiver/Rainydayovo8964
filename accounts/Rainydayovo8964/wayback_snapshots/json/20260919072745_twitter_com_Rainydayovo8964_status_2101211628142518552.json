@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101211491081048064"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2101211628142518552",
+    "created_at": "2026-09-19T07:27:45.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101211628142518552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5HkpxZOrST",
+          "end": 37,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2101211628142518552/video/1",
+          "media_key": "13_2101211491081048064",
+          "start": 14,
+          "url": "https://t.co/5HkpxZOrST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101211628142518552",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101211491081048064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比叫声更大的是我的水声.. https://t.co/5HkpxZOrST"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42133,
+        "height": 798,
+        "media_key": "13_2101211491081048064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101211491081048064/img/yXQLV89V176MLj3x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101211491081048064/vid/avc1/320x354/grsUw4AjFA5mQeFH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101211491081048064/vid/avc1/480x532/zQoqSDwi8N_iaheR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101211491081048064/vid/avc1/720x798/nHeg2XJXP3PejZ0F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101211491081048064/pl/Mn9H8cv1I8nV_XRh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101211491081048064"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2101211628142518552",
+        "created_at": "2026-09-19T07:27:45.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101211628142518552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5HkpxZOrST",
+              "end": 37,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2101211628142518552/video/1",
+              "media_key": "13_2101211491081048064",
+              "start": 14,
+              "url": "https://t.co/5HkpxZOrST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101211628142518552",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101211491081048064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比叫声更大的是我的水声.. https://t.co/5HkpxZOrST"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2101211628142518552",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39146,
+          "following_count": 229,
+          "like_count": 3186,
+          "listed_count": 134,
+          "media_count": 461,
+          "tweet_count": 6556
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

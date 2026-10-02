@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103462944160018454",
+    "created_at": "2026-09-25T12:33:40.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103462944160018454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103462944160018454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候就觉得某些散发恶意的人很好笑 在你眼里觉得能抨击我打击我的话和行为 其实对我本人起到的作用为0  你洋洋得意 我却觉得你蠢到家了 也不是不想和你计较 我只是在想 靠这点来得到个人心理上满足的人 一定很可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103462944160018454",
+        "created_at": "2026-09-25T12:33:40.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103462944160018454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103462944160018454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候就觉得某些散发恶意的人很好笑 在你眼里觉得能抨击我打击我的话和行为 其实对我本人起到的作用为0  你洋洋得意 我却觉得你蠢到家了 也不是不想和你计较 我只是在想 靠这点来得到个人心理上满足的人 一定很可怜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103462944160018454",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39965,
+          "following_count": 229,
+          "like_count": 3193,
+          "listed_count": 140,
+          "media_count": 472,
+          "tweet_count": 6598
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103138250898698281",
+    "created_at": "2026-09-24T15:03:28.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103138250898698281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103138250898698281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你的性瘾女友 每天早上必须把你口醒 不管你憋没憋尿就开始骑你   还命令你尿在里面 上班的时候给你发远程操控跳蛋的链接  放学来接我的时候必须先来一次车震  回家之后先在浴室来一发  回卧室之后必须让我高潮两次才能睡  以上步骤但凡有任一个没有满足我我就哭着自慰说你不爱我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103138250898698281",
+        "created_at": "2026-09-24T15:03:28.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103138250898698281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103138250898698281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的性瘾女友 每天早上必须把你口醒 不管你憋没憋尿就开始骑你   还命令你尿在里面 上班的时候给你发远程操控跳蛋的链接  放学来接我的时候必须先来一次车震  回家之后先在浴室来一发  回卧室之后必须让我高潮两次才能睡  以上步骤但凡有任一个没有满足我我就哭着自慰说你不爱我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103138250898698281",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39185,
+          "following_count": 230,
+          "like_count": 3183,
+          "listed_count": 137,
+          "media_count": 465,
+          "tweet_count": 6577
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

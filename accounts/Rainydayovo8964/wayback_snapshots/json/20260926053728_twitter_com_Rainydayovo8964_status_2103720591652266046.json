@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2103527904747667752",
+    "created_at": "2026-09-26T05:37:28.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103720591652266046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293480486621184",
+          "start": 0,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103720591652266046",
+    "in_reply_to_user_id": "1662293480486621184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103533161938657453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dofees166639 老家没外卖我好多啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2103527904747667752",
+        "created_at": "2026-09-26T05:37:28.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103720591652266046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293480486621184",
+              "start": 0,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103720591652266046",
+        "in_reply_to_user_id": "1662293480486621184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103533161938657453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dofees166639 老家没外卖我好多啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293480486621184",
+        "conversation_id": "2103527904747667752",
+        "created_at": "2026-09-25T17:12:42.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103533161938657453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103533161938657453",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103527904747667752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 现在能外卖买吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2103720591652266046",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40491,
+          "following_count": 230,
+          "like_count": 3194,
+          "listed_count": 142,
+          "media_count": 474,
+          "tweet_count": 6607
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "is_identity_verified": false,
+        "location": "Ginowan-shi, Okinawa",
+        "most_recent_tweet_id": "2103706608932892752",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293480486621184/1719482176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 3525,
+          "like_count": 150567,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 10759
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089285683923832832",
+    "conversation_id": "2099741896675561545",
+    "created_at": "2026-09-15T16:49:24.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099903419150373281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853286001197879296",
+          "start": 0,
+          "username": "Rainydayovo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099903419150373281",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099741896675561545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainydayovo8964 应该没人比我玩的开了吧💓💎我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2089285683923832832].",
+      "parameter": "author_id",
+      "resource_id": "2089285683923832832",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2089285683923832832"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089285683923832832",
+        "conversation_id": "2099741896675561545",
+        "created_at": "2026-09-15T16:49:24.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099903419150373281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099903419150373281",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099741896675561545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 应该没人比我玩的开了吧💓💎我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2099741896675561545",
+        "created_at": "2026-09-15T06:07:34.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099741896675561545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099741896675561545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12783,
+          "like_count": 446,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要逼低能量人，每天承受高压生活。我不想上学，也不想上班，舍不得睡觉，但是也舍不得起床，感觉被子外面的世界好残酷。我的学历、我的健康、我的人生规划全都在天上飞，我除了身边的手机什么也抓不住。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2099815338703823279",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39128,
+          "following_count": 231,
+          "like_count": 3164,
+          "listed_count": 135,
+          "media_count": 460,
+          "tweet_count": 6540
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
