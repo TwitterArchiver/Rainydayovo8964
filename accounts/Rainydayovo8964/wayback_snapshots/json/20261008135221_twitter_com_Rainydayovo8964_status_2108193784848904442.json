@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2108193784848904442",
+    "created_at": "2026-10-08T13:52:21.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108193784848904442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108193784848904442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱你爱到什么程度？就算我是黑龙江人，跟你结婚后保证压抑本性： 不劝你大口喝酒，不逼你啃冻梨、蘸酱菜，大嗓门收一收；铁锅炖排骨全给你，血肠夹你碗里，700cc第一口递你；雪再大陪你逛中央大街，你说中就中、说不中就改，你损我两句都笑，你走了俺家锅都凉、锅包肉不香！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2108193784848904442",
+        "created_at": "2026-10-08T13:52:21.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108193784848904442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108193784848904442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你爱到什么程度？就算我是黑龙江人，跟你结婚后保证压抑本性： 不劝你大口喝酒，不逼你啃冻梨、蘸酱菜，大嗓门收一收；铁锅炖排骨全给你，血肠夹你碗里，700cc第一口递你；雪再大陪你逛中央大街，你说中就中、说不中就改，你损我两句都笑，你走了俺家锅都凉、锅包肉不香！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2108193784848904442",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41255,
+          "following_count": 236,
+          "like_count": 3374,
+          "listed_count": 142,
+          "media_count": 480,
+          "tweet_count": 6687
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

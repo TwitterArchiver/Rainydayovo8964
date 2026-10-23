@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2107471476186321192",
+    "created_at": "2026-10-06T14:26:14.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107477536766910886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1892974219388194816",
+          "start": 0,
+          "username": "Fl68Re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107477536766910886",
+    "in_reply_to_user_id": "1892974219388194816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107476929716867167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fl68Re 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T14:26:14.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107477536766910886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1892974219388194816",
+              "start": 0,
+              "username": "Fl68Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107477536766910886",
+        "in_reply_to_user_id": "1892974219388194816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107476929716867167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fl68Re 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892974219388194816",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T14:23:49.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107476929716867167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107476929716867167",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107471476186321192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 可以电热毯！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107477536766910886",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41044,
+          "following_count": 235,
+          "like_count": 3250,
+          "listed_count": 142,
+          "media_count": 478,
+          "tweet_count": 6658
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-21T16:26:50.000Z",
+        "description": "✨ INFJ 性格魅力 + 健身狂热分子 热爱漫威宇宙、羽毛球激战，生活充满能量！🫶🫶🫶，😋😋😋大馋货。喜欢我给我打钱😋😋😋😋我是大财迷\n\n来给我发吧。嘻嘻https://t.co/aMToWK3XMv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%9C%A1%E7%A…",
+                "end": 101,
+                "expanded_url": "https://ngl.link/%E8%9C%A1%E7%AC%94%E5%B0%8F%E5%AE%9D",
+                "start": 78,
+                "url": "https://t.co/aMToWK3XMv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikuuu.win/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://ikuuu.win/auth/register?code=HzTC",
+                "start": 0,
+                "url": "https://t.co/IlbGdsOQv2"
+              }
+            ]
+          }
+        },
+        "id": "1892974219388194816",
+        "is_identity_verified": false,
+        "location": "大家去这个网站vpn，巨稳定",
+        "most_recent_tweet_id": "2107476929716867167",
+        "name": "黑崎一新",
+        "pinned_tweet_id": "2044452879835271269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892974219388194816/1754629373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103864845687017472/QD-02PeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 389,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/IlbGdsOQv2",
+        "username": "Fl68Re",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107509318082031618"
+      ]
+    },
+    "author_id": "1853286001197879296",
+    "conversation_id": "2107509331902312541",
+    "created_at": "2026-10-06T16:32:35.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T17:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107509331902312541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9HJrvgFhB",
+          "end": 34,
+          "expanded_url": "https://x.com/Rainydayovo8964/status/2107509331902312541/photo/1",
+          "media_key": "3_2107509318082031618",
+          "start": 11,
+          "url": "https://t.co/a9HJrvgFhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107509331902312541",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107509318082031618"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这波我也是很难绷住了 https://t.co/a9HJrvgFhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2107509318082031618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9gjwka8AIffaM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107509318082031618"
+          ]
+        },
+        "author_id": "1853286001197879296",
+        "conversation_id": "2107509331902312541",
+        "created_at": "2026-10-06T16:32:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107509331902312541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9HJrvgFhB",
+              "end": 34,
+              "expanded_url": "https://x.com/Rainydayovo8964/status/2107509331902312541/photo/1",
+              "media_key": "3_2107509318082031618",
+              "start": 11,
+              "url": "https://t.co/a9HJrvgFhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107509331902312541",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107509318082031618"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波我也是很难绷住了 https://t.co/a9HJrvgFhB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107509331902312541",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41069,
+          "following_count": 235,
+          "like_count": 3273,
+          "listed_count": 142,
+          "media_count": 479,
+          "tweet_count": 6666
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

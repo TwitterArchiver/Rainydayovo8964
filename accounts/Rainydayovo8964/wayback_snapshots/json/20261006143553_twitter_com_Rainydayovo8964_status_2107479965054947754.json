@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2107471476186321192",
+    "created_at": "2026-10-06T14:35:53.000Z",
+    "display_text_range": [
+      7,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107479965054947754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1973653218392678400",
+          "start": 0,
+          "username": "76VHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107479965054947754",
+    "in_reply_to_user_id": "1973653218392678400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107478959030239515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@76VHm 早晚温差大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T14:35:53.000Z",
+        "display_text_range": [
+          7,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107479965054947754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1973653218392678400",
+              "start": 0,
+              "username": "76VHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107479965054947754",
+        "in_reply_to_user_id": "1973653218392678400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107478959030239515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@76VHm 早晚温差大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973653218392678400",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T14:31:53.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107478959030239515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107478959030239515",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107471476186321192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 东北开始冷了嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107479965054947754",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41046,
+          "following_count": 235,
+          "like_count": 3256,
+          "listed_count": 142,
+          "media_count": 478,
+          "tweet_count": 6662
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-02T07:36:20.000Z",
+        "description": "游荡在评论区\n找人聊天 交朋友",
+        "id": "1973653218392678400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107479615241671088",
+        "name": "jame",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1973653218392678400/1759418926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973772075337940992/nhVks7mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "76VHm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

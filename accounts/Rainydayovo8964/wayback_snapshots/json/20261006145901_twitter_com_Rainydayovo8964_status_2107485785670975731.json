@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2099714372570382576",
+    "created_at": "2026-10-06T14:59:01.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107485785670975731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886072481019994112",
+          "start": 0,
+          "username": "bsbstx52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107485785670975731",
+    "in_reply_to_user_id": "1886072481019994112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099714372570382576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bsbstx52 我靠我不会打"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2099714343080251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOvEf0XUAAjjiP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 864,
+        "media_key": "3_2099714360088186882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOvFfLX0AII9H7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2099714372570382576",
+        "created_at": "2026-10-06T14:59:01.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107485785670975731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886072481019994112",
+              "start": 0,
+              "username": "bsbstx52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107485785670975731",
+        "in_reply_to_user_id": "1886072481019994112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099714372570382576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bsbstx52 我靠我不会打"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099714343080251392",
+            "3_2099714360088186882"
+          ]
+        },
+        "author_id": "1886072481019994112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099714372570382576",
+        "created_at": "2026-09-15T04:18:11.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099714372570382576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0G0qktTab",
+              "end": 107,
+              "expanded_url": "https://x.com/bsbstx52/status/2099714372570382576/photo/1",
+              "media_key": "3_2099714343080251392",
+              "start": 84,
+              "url": "https://t.co/r0G0qktTab"
+            },
+            {
+              "display_url": "pic.x.com/r0G0qktTab",
+              "end": 107,
+              "expanded_url": "https://x.com/bsbstx52/status/2099714372570382576/photo/1",
+              "media_key": "3_2099714360088186882",
+              "start": 84,
+              "url": "https://t.co/r0G0qktTab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099714372570382576",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099714343080251392"
+          },
+          {
+            "media_key": "3_2099714360088186882"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1550,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "s4也是成功上大师了😋，这赛季玩狼队纯享福，有星陨在人人都有倾泄手，减速挂不上被一堆125130大嘻俘虏，上大师花的场次比前三个赛季加起来都多😇\n🎶关羽之歌🎶.mp3 https://t.co/r0G0qktTab"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107485785670975731",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41054,
+          "following_count": 235,
+          "like_count": 3269,
+          "listed_count": 142,
+          "media_count": 478,
+          "tweet_count": 6664
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T15:21:59.000Z",
+        "description": "我不知道，我不擅长聊天😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/scqstxws",
+                "end": 23,
+                "expanded_url": "http://t.me/scqstxws",
+                "start": 0,
+                "url": "https://t.co/w2O3lD8sgO"
+              }
+            ]
+          }
+        },
+        "id": "1886072481019994112",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2107436082237255922",
+        "name": "虚时绝妙",
+        "pinned_tweet_id": "2092519398909034892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886072481019994112/1791158826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100352990498725888/KtdDr99w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 235,
+          "like_count": 60575,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/w2O3lD8sgO",
+        "username": "bsbstx52",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

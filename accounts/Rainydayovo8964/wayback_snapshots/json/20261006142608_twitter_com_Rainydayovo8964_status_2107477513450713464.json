@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2107474636141416653",
+    "created_at": "2026-10-06T14:26:08.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107477513450713464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2106581123543543808",
+          "start": 0,
+          "username": "xiawangzi9osq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107477513450713464",
+    "in_reply_to_user_id": "2106581123543543808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107476313091223776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiawangzi9osq 我们还没。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2107474636141416653",
+        "created_at": "2026-10-06T14:26:08.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107477513450713464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2106581123543543808",
+              "start": 0,
+              "username": "xiawangzi9osq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107477513450713464",
+        "in_reply_to_user_id": "2106581123543543808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107476313091223776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiawangzi9osq 我们还没。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2106581123543543808",
+        "conversation_id": "2107474636141416653",
+        "created_at": "2026-10-06T14:21:22.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107476313091223776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107476313091223776",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107474636141416653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 而且十月一就开始陆续供暖了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107477513450713464",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41044,
+          "following_count": 235,
+          "like_count": 3250,
+          "listed_count": 142,
+          "media_count": 478,
+          "tweet_count": 6657
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-04T03:06:19.000Z",
+        "description": "白天渴望自由，晚上性压抑",
+        "id": "2106581123543543808",
+        "is_identity_verified": false,
+        "location": "哈尔滨",
+        "most_recent_tweet_id": "2107476970036744234",
+        "name": "小王子",
+        "pinned_tweet_id": "2107455354879766566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106581123543543808/1791104244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107171771288010752/2_-u3LKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 47,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "xiawangzi9osq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

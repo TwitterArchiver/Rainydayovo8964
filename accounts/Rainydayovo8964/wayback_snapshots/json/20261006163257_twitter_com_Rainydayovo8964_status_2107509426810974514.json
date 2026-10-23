@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2107471476186321192",
+    "created_at": "2026-10-06T16:32:57.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T17:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107509426810974514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746087545614831616",
+          "start": 0,
+          "username": "shanchahua30340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107509426810974514",
+    "in_reply_to_user_id": "1746087545614831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107505600154456445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanchahua30340 听得我想回家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T16:32:57.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107509426810974514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746087545614831616",
+              "start": 0,
+              "username": "shanchahua30340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107509426810974514",
+        "in_reply_to_user_id": "1746087545614831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107505600154456445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanchahua30340 听得我想回家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746087545614831616",
+        "conversation_id": "2107471476186321192",
+        "created_at": "2026-10-06T16:17:45.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107505600154456445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107505600154456445",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107471476186321192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 回乡下烧炕就好了😋，这大炕一烧暖和的都睡着了，没心思自卫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2107509426810974514",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41070,
+          "following_count": 235,
+          "like_count": 3273,
+          "listed_count": 142,
+          "media_count": 479,
+          "tweet_count": 6668
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-13T08:31:39.000Z",
+        "description": "男/4i/喜欢可爱的一切/随缘在线/讓我們一切回歸到最開始吧",
+        "id": "1746087545614831616",
+        "is_identity_verified": false,
+        "location": "歪比巴卜",
+        "most_recent_tweet_id": "2107509240369967399",
+        "name": "星",
+        "pinned_tweet_id": "2000909648061456838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746087545614831616/1790434011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103858776344559616/_Amm3WGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 57,
+          "like_count": 5203,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "shanchahua30340",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

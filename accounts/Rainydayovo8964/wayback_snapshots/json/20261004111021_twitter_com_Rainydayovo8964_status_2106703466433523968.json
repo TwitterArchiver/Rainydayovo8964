@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853286001197879296",
+    "conversation_id": "2106665543348699311",
+    "created_at": "2026-10-04T11:10:21.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106703466433523968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791514370163486720",
+          "start": 0,
+          "username": "ao_ruo88700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106703466433523968",
+    "in_reply_to_user_id": "1791514370163486720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106685847945023767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ao_ruo88700 我自己爽就好啊。。不想看拉黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "2106665543348699311",
+        "created_at": "2026-10-04T11:10:21.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106703466433523968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791514370163486720",
+              "start": 0,
+              "username": "ao_ruo88700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106703466433523968",
+        "in_reply_to_user_id": "1791514370163486720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106685847945023767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ao_ruo88700 我自己爽就好啊。。不想看拉黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791514370163486720",
+        "conversation_id": "2106665543348699311",
+        "created_at": "2026-10-04T10:00:21.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106685847945023767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106685847945023767",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106665543348699311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo8964 你写完这玩意 不尴尬吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "爱打游戏的眼镜死宅妹",
+        "id": "1853286001197879296",
+        "is_identity_verified": false,
+        "location": "不线下 不接广   ",
+        "most_recent_tweet_id": "2106703466433523968",
+        "name": "我梦见你你梦见我",
+        "pinned_tweet_id": "2070166791368916997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853286001197879296/1779850606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080216994247536640/H7LbTFll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41053,
+          "following_count": 233,
+          "like_count": 3220,
+          "listed_count": 143,
+          "media_count": 478,
+          "tweet_count": 6640
+        },
+        "url": "",
+        "username": "Rainydayovo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T17:01:37.000Z",
+        "description": "FFA Trader\n\nSkilled at finding gold in trash\nI don't plan to do any PREMIUM because I don't need to be a clown to get people （maybe",
+        "id": "1791514370163486720",
+        "is_identity_verified": false,
+        "location": "OSAKA",
+        "most_recent_tweet_id": "2106686047480631500",
+        "name": "xxtc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791514370163486720/1776258413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980179163366531072/lnQr8KLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 75,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "ao_ruo88700",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
